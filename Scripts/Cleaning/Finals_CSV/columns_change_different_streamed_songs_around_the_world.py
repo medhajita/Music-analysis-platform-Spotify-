@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-df = pd.read_csv(r"D:\ECE_WORK\Music-analysis-platform-Spotify-\Data\Finals_CSV\different_streamed_songs_arround_the_world.csv")
+df = pd.read_csv(r"/Data/Finals_CSV/different_streamed_songs_around_the_world.csv")
 
 print("Colonnes actuelles :", list(df.columns))
 
@@ -15,6 +15,6 @@ new_order = ["artist_spotify_id", "artist", "song_title", "song_id", "streamed_c
 
 df = df[new_order]
 
-df.to_csv(r"D:\ECE_WORK\Music-analysis-platform-Spotify-\Data\Finals_CSV\different_streamed_songs_arround_the_world.csv", index=False)
+df.to_csv(r"D:\ECE_WORK\Music-analysis-platform-Spotify-\Data\Finals_CSV\different_streamed_songs_around_the_world.csv", index=False)
 print("Fichier sauvegardé")
 print("Nouvel ordre :", list(df.columns))
