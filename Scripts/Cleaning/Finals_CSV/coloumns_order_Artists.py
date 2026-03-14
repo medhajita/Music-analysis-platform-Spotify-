@@ -5,8 +5,11 @@ df = pd.read_csv(r"D:\ECE_WORK\Music-analysis-platform-Spotify-\Data\Finals_CSV\
 
 print("Colonnes actuelles :", list(df.columns))
 
+df = df.rename(columns={
+    "spotify_id": "artist_spotify_id",
+})
 
-new_order = ["spotify_id", "artist", "image_url", "country", "language", "type", "genre",
+new_order = ["artist_spotify_id", "artist", "image_url", "country", "language", "type", "genre",
              "followers",  "daily_gain_followers", "weekly_gain_followers",
              "listeners", "daily_gain_listeners", "monthly_gain_listeners", "peak_listeners", "date_peak_listeners",
              "total_streams", "solo_streams" , "feat_streams",
