@@ -1,0 +1,1001 @@
+rank,image_url,artist,spotify_id,solo_streams,tracks,1B,100M,10M,1M,feat_streams,type,language,genre,country
+1,https://i.scdn.co/image/ab6761610000f178e2e8e7ff002a4afda1c7147e,Taylor Swift,06HL4z0CvFAxyc27GXpf02,"120,381,048,447",526,27,264,412,474,"1,247,037,229",Solo - Female,English,Pop,United States of America
+2,https://i.scdn.co/image/ab6761610000f1784293385d324db8558179afd9,Drake,3TVXtAsR1Inumwj472S9r4,"96,708,267,737",353,19,231,341,343,"32,442,920,787",Solo - Male,English,Hip-hop,Canada
+3,https://i.scdn.co/image/ab6761610000f17881f47f44084e0a09b5f0fa13,Bad Bunny,4q3ewBCX7sLwd24euuV69X,"90,518,567,546",198,23,158,191,192,"27,233,040,781",Solo - Male,Spanish,Reggaeton,Puerto Rico
+4,https://i.scdn.co/image/ab6761610000f1789e528993a2820267b97f6aae,The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,"78,514,012,964",264,26,106,197,255,"13,980,402,444",Solo - Male,English,Pop,Canada
+5,https://i.scdn.co/image/ab6761610000f1786725802588d7dc1aba076ca5,Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,"61,801,041,987",315,22,107,191,253,"3,809,273,350",Solo - Female,English,Pop,United States of America
+6,https://i.scdn.co/image/ab6761610000f178d55c95ad400aed87da52daec,Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,"58,163,690,094",362,14,82,232,323,"4,624,205,292",Solo - Male,English,Pop,United Kingdom
+7,https://i.scdn.co/image/ab6761610000f1784a21b4760d2ecb7b0dcdc8da,Billie Eilish,6qqNVTkY8uBg9cP3Jd7DAH,"55,386,887,687",81,17,69,76,77,"553,174",Solo - Female,English,Alternative,United States of America
+8,https://i.scdn.co/image/ab6761610000f178a00b11c129b27a88fc72f36b,Eminem,7dGJo4pcD2V6oG8kP0tJRR,"55,168,141,499",352,12,98,267,318,"7,361,853,590",Solo - Male,English,Hip-hop,United States of America
+9,https://i.scdn.co/image/ab6761610000f1786e835a500e791bf9c27a422a,Kanye West,5K4W6rqBFWDnAN6FQUkS6x,"52,340,214,276",318,13,108,234,287,"9,645,655,475",Solo - Male,English,Hip-hop,United States of America
+10,https://i.scdn.co/image/ab6761610000f178e17c0aa1714a03d62b5ce4e0,Post Malone,246dkjvS1zLTtiykXe5h60,"48,763,225,479",151,14,75,127,134,"5,200,125,685",Solo - Male,English,Pop,United States of America
+11,https://i.scdn.co/image/ab6761610000f178af20f7db5288bce9beede034,Justin Bieber,1uNFoZAHBGtllmzznpCI3s,"46,899,951,358",260,12,74,201,232,"25,261,315,911",Solo - Male,English,Pop,Canada
+12,https://i.scdn.co/image/ab6761610000f178d642648235ebf3460d2d1f6a,BTS,3Nrfpe0tUJi4K4DXYWgMUX,"46,316,925,278",295,6,127,233,295,"997,614,624",Group - Male,Korean,K-Pop,South Korea
+13,https://i.scdn.co/image/ab6761610000f1781ba8fc5f5c73e7e9313cc6eb,Coldplay,4gzpq5DPGxSnKTe4SA8HAU,"44,542,626,242",338,12,53,212,313,"14,034,145",Group - Male,English,Alternative,United Kingdom
+14,https://i.scdn.co/image/ab6761610000f178cb565a8e684e3be458d329ac,Rihanna,5pKCCKE2ajJHZ9KAiaK11H,"44,529,607,500",380,15,57,124,232,"12,322,752,591",Solo - Female,English,Pop,Barbados
+15,https://i.scdn.co/image/ab6761610000f178c7688aad1bf03986934d7e26,Bruno Mars,0du5cEVh5yTK9QJze8zA0C,"43,210,252,817",105,16,41,73,92,"8,859,138,254",Solo - Male,English,Pop,United States of America
+16,https://i.scdn.co/image/ab6761610000f17819c2790744c792d05570bb71,Travis Scott,0Y5tJX1MQlPlqiwlOH1tJY,"42,146,222,048",174,5,88,144,166,"20,811,223,828",Solo - Male,English,Hip-hop,United States of America
+17,https://i.scdn.co/image/ab6761610000f17839ba6dcd4355c03de0b50918,Kendrick Lamar,2YZyLoL8N0Wb9xBt1NhZWg,"41,197,857,939",141,11,77,130,138,"16,589,033,153",Solo - Male,English,Hip-hop,United States of America
+18,https://i.scdn.co/image/ab6761610000f1780c68f6c95232e716f0abee8d,Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,"39,730,078,908",269,12,45,107,221,"593,129,698",Solo - Female,English,Pop,United Kingdom
+19,https://i.scdn.co/image/ab6761610000f1780405b03342c2e56751b9923d,J Balvin,1vyhD5VmyZ7KMfW5gqLgo5,"39,339,298,644",313,5,76,189,289,"14,552,105,489",Solo - Male,Spanish,Reggaeton,Colombia
+20,https://i.scdn.co/image/ab6761610000f178ab47d8dae2b24f5afe7f9d38,Imagine Dragons,53XhwfbYqKCa1cC15pYq2q,"38,780,975,723",262,11,54,151,227,"120,048,507",Group - Male,English,Alternative,United States of America
+21,https://i.scdn.co/image/ab6761610000f17823a60030944f7853c21565ef,Juice WRLD,4MCBfE4596Uoi2O4DtmEMz,"37,349,764,877",151,8,82,144,148,"7,341,346,130",Solo - Male,English,Hip-hop,United States of America
+22,https://i.scdn.co/image/ab6761610000f178b99cacf8acd5378206767261,Lana Del Rey,00FQb4jTyendYWaN8pK0wa,"36,577,756,074",204,8,79,161,193,"3,330,929,685",Solo - Female,English,Alternative,United States of America
+23,https://i.scdn.co/image/ab6761610000f178aadc18cac8d48124357c38e6,Lady Gaga,1HY2Jd0NmPuamShAr6KMms,"35,073,437,020",382,9,46,147,265,"117,267,766",Solo - Female,English,Pop,United States of America
+24,https://i.scdn.co/image/ab6761610000f178f0c20db5ef6c6fbe5135d2e4,XXXTENTACION,15UsOTVnJzReFVN1VCnxy4,"34,769,868,727",159,10,54,123,158,"3,875,668,362",Solo - Male,English,Hip-hop,United States of America
+25,https://i.scdn.co/image/ab6761610000f178f150017ca69c8793503c2d4f,David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,"34,692,000,499","1,027",4,60,209,587,"5,274,383,700",Solo - Male,English,Electronic,France
+26,https://i.scdn.co/image/ab6761610000f178463e10d5f1a533ddd6eb9a04,Ozuna,1i8SpTcr7yvPOmcqrbnVXY,"34,387,779,114",328,5,68,206,288,"11,399,396,850",Solo - Male,Spanish,Reggaeton,Puerto Rico
+27,https://i.scdn.co/image/ab6761610000f178f8349dfb619a7f842242de77,Maroon 5,04gDigrS5kc9YWfZHwBETP,"34,066,471,574",262,12,35,121,220,"5,319,205",Group - Male,English,Pop,United States of America
+28,https://i.scdn.co/image/ab6761610000f17843ea45ccf08451d2511d33fa,Rauw Alejandro,1mcTU81TzQhprhouKaTkpq,"32,400,486,494",246,3,70,185,218,"6,188,722,229",Solo - Male,Spanish,Reggaeton,Puerto Rico
+29,https://i.scdn.co/image/ab6761610000f1788ebba5e60113b48de8c11f6b,Calvin Harris,7CajNmpbOovFoOoasH2HaY,"31,585,196,589",390,12,36,111,261,"706,041,643",Solo - Male,English,Electronic,United Kingdom
+30,https://i.scdn.co/image/ab6761610000f178527d95dabbe8b8b527e8136f,Linkin Park,6XyY86QOPPrYVGvF9ch6wz,"30,659,458,539",465,6,57,161,382,"41,646,259",Group - Mixed,English,Metal,United States of America
+31,https://i.scdn.co/image/ab6761610000f1787eaa373538359164b843f7c0,Beyoncé,6vWDO969PvNqNYHIOW5v0m,"30,319,996,393",440,2,73,215,319,"3,667,368,632",Solo - Female,English,Pop,United States of America
+32,https://i.scdn.co/image/ab6761610000f1788f77c3eddc1869e9542b04bc,Khalid,6LuN9FCkKOj5PcnpouEgny,"30,014,102,371",190,9,49,112,164,"3,946,015,178",Solo - Male,English,R&B,United States of America
+33,https://i.scdn.co/image/ab6761610000f1787565b356bc9d9394eefa2ccb,Future,1RyvyyTE3xzB2ZywiAwp0i,"29,234,940,258",563,4,62,317,425,"22,812,492,062",Solo - Male,English,Hip-hop,United States of America
+34,https://i.scdn.co/image/ab6761610000f17866041ce9eb4497057cbc3496,KAROL G,790FomKkXshlbRYZFtlgla,"28,464,865,735",128,6,58,117,122,"7,123,521,906",Solo - Female,Spanish,Reggaeton,Colombia
+35,https://i.scdn.co/image/ab6761610000f17858b4b9419486550f6fda0535,Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,"28,440,704,165",149,6,43,111,147,"170,403,355",Solo - Male,English,Pop,Canada
+36,https://i.scdn.co/image/ab67726900008f7447488c35a509d42072c23976,Queen,1dfeR4HaWDbWqFHLkxsg1d,"28,146,670,039",681,8,37,129,472,"74,012,589",Group - Male,English,Rock,United Kingdom
+37,https://i.scdn.co/image/ab6761610000f178a23ceb177745632b517cb7b2,Anuel AA,2R21vXR83lH98kGeO99Y66,"28,027,108,670",235,2,69,220,233,"10,373,511,798",Solo - Male,Spanish,Reggaeton,Puerto Rico
+38,https://i.scdn.co/image/ab6761610000f1780147b3d726d84ad18fbe0987,Sam Smith,2wY79sveU1sp5g7SokKOiI,"27,919,055,517",255,9,41,111,192,"422,226,957",Solo - Non-Binary,English,Pop,United Kingdom
+39,https://i.scdn.co/image/ab6761610000f1782a24b7e572e325c4b550af12,Shakira,0EmeFodog0BfCgMzAIvKQp,"27,749,827,074",273,5,51,126,244,"1,920,061,863",Solo - Female,Spanish,Pop,Colombia
+40,https://i.scdn.co/image/6c89c662ad0ab75bc2af9a3ae2b16f811daced50,One Direction,4AK6F7OLvEQ5QYCBNiQWHq,"27,729,876,647",123,6,62,100,120,0,Group - Male,English,Pop,United Kingdom
+41,https://i.scdn.co/image/ab6761610000f178fd0a9fb6c252a3ba44079acf,SZA,7tYKF4w9nC0nq9CsPZTHyP,"27,614,511,480",107,7,53,93,106,"9,384,271,760",Solo - Female,English,R&B,United States of America
+42,https://i.scdn.co/image/ab6761610000f17868f6e5892075d7f22615bd17,Adele,4dpARuHxo51G3z768sgnrY,"27,486,022,546",71,10,37,62,70,"59,322,564",Solo - Female,English,Soul / Motown R&B,United Kingdom
+43,https://i.scdn.co/image/ab6761610000f17828f1e72b31e756ea3f3a51e7,Metro Boomin,0iEtIxbK0KxaSlF7G42ZOp,"27,284,410,576",276,6,56,146,219,"380,143,780",Solo - Male,English,Hip-hop,United States of America
+44,https://i.scdn.co/image/ab6761610000f1785ba2d75eb08a2d672f9b69b7,Arijit Singh,4YRxDV8wJFPHPTeXepOstw,"27,207,986,404","1,063",0,83,241,490,"6,907,522,637",Solo - Male,Hindi,Indian Film Music,India
+45,https://i.scdn.co/image/ab6761610000f178e5283f5b671cf618b82a2696,Peso Pluma,12GqGscKJx3aE4t07u7eVZ,"27,151,911,076",164,3,62,123,156,"2,792,570,357",Solo - Male,Spanish,Regional Mexican,Mexico
+46,https://i.scdn.co/image/ab6761610000f178e309f8c3056a59f20d0968ca,Harry Styles,6KImCVD70vtIoJWnq6nGn3,"27,074,502,530",49,7,37,38,49,0,Solo - Male,English,Pop,United Kingdom
+47,https://i.scdn.co/image/ab6761610000f1787da39dea0a72f581535fb11f,Arctic Monkeys,7Ln80lUS6He07XvHI8qqHH,"26,695,863,318",145,6,43,109,143,0,Group - Male,English,Rock,United Kingdom
+48,https://i.scdn.co/image/ab6761610000f1789a6918fd0b2fd675d63c675d,Daddy Yankee,4VMYDCV2IEDYJArk749S6m,"26,316,229,595",435,4,60,140,312,"14,506,071,071",Solo - Male,Spanish,Reggaeton,Puerto Rico
+49,https://i.scdn.co/image/ab6761610000f17801513fbafb66a3ca4f28b299,Chris Brown,7bXgB6jMjp9ATFy66eO08Z,"26,102,067,314",497,2,53,290,409,"16,984,149,812",Solo - Male,English,R&B,United States of America
+50,https://i.scdn.co/image/ab6761610000f178492b7b1b9abaa9bb393ab317,J. Cole,6l3HvQ5sa6mXTsMTB19rO5,"26,086,972,599",241,4,54,153,237,"6,714,239,632",Solo - Male,English,Hip-hop,United States of America
+51,https://i.scdn.co/image/ab6761610000f178cb6926f44f620555ba444fca,Pritam,1wRPtKGflJrBx9BmLsSwlU,"25,996,701,992","1,329",0,75,288,602,"600,757,173",Solo - Male,Hindi,Indian Film Music,India
+52,https://i.scdn.co/image/ab6761610000f178e03a98785f3658f0b6461ec4,Olivia Rodrigo,1McMsnEElThX1knmY4oliG,"25,612,740,103",60,9,30,44,59,"2,231,308",Solo - Female,English,Pop,United States of America
+53,https://i.scdn.co/image/ab6761610000f1788a0644455ebfa7d3976f5101,Doja Cat,5cj0lLjcoR7YOSnhnX0Po5,"25,342,083,215",140,8,41,106,137,"5,636,408,801",Solo - Female,English,Hip-hop,United States of America
+54,https://i.scdn.co/image/ab6761610000f17847de0bbc22f08b5ebe14bd6e,Morgan Wallen,4oUHIQIBe0LHzYfvXNW4QM,"25,240,949,778",147,2,60,139,147,"3,530,530,057",Solo - Male,English,Country,United States of America
+55,https://i.scdn.co/image/ab6761610000f178e9348cc01ff5d55971b22433,The Beatles,3WrFJ7ztbogyGnTHbHJFl2,"24,934,349,500",899,1,61,217,610,0,Group - Male,English,Rock,United Kingdom
+56,https://i.scdn.co/image/ab6761610000f178600ee3d2a14da8d038fa7bbf,Feid,2LRoIwlKmHjgvigdNGBHNo,"24,850,106,280",234,6,53,171,224,"7,509,007,694",Solo - Male,Spanish,Reggaeton,Colombia
+57,https://i.scdn.co/image/ab6761610000f1784be5330bd48527f9dd620663,Katy Perry,6jJ0s89eD6GaHleKKya26X,"24,293,960,179",203,9,32,102,162,"1,973,234,695",Solo - Female,English,Pop,United States of America
+58,https://i.scdn.co/image/ab6761610000f178cc1806f0a2f6c9e449de9d3c,Sia,5WUlDfRSoLAfcVSX1WnrxN,"23,859,003,482",479,6,36,131,295,"6,942,492,337",Solo - Female,English,Pop,Australia
+59,https://i.scdn.co/image/ab6761610000f178df2728294ff77dd11eeb18fb,"Tyler, The Creator",4V8LLVI7PbaPR0K2TGSxFF,"23,165,252,660",211,2,56,135,157,"3,098,377,679",Solo - Male,English,Hip-hop,United States of America
+60,https://i.scdn.co/image/ab6761610000f1785fbe9b7dc7d9a2295bd6022c,Junior H,7Gi6gjaWy3DxyilpF1a8Is,"22,970,614,147",184,0,57,159,182,"2,150,468,170",Solo - Male,Spanish,Regional Mexican,Mexico
+61,https://i.scdn.co/image/ab6761610000f1788372345609bebaf1e948ef7f,Myke Towers,7iK8PXO48WeuP03g8YR51W,"22,881,246,881",355,2,49,187,346,"9,065,467,474",Solo - Male,Spanish,Reggaeton,Puerto Rico
+62,https://i.scdn.co/image/ab6761610000f1784567279fac84a0375c3d819b,The Chainsmokers,69GGBxA162lTqCwzJG5jLp,"22,794,635,001",267,5,32,107,228,"492,005,446",Group - Male,English,Electronic,United States of America
+63,https://i.scdn.co/image/ab6761610000f17807a50f0a9a8f11e5a1102cbd,Nicki Minaj,0hCNtLu0JehylgoiP8L4Gh,"22,648,149,172",237,4,46,159,209,"19,160,479,403",Solo - Female,English,Hip-hop,United States of America
+64,https://i.scdn.co/image/ab6761610000f17862c272d76220f2e9dad56704,Lil Uzi Vert,4O15NlyKLIASxsJ0PrXPfz,"22,435,810,371",201,3,47,178,195,"13,413,619,592",Solo - Non-Binary,English,Hip-hop,United States of America
+65,https://i.scdn.co/image/ab6761610000f178ce436c411ab2436c7ab2c04d,Fuerza Regida,0ys2OFYzWYB5hRDLCsBqxt,"22,301,372,436",289,1,55,176,284,"1,973,537,103",Group - Male,Spanish,Regional Mexican,United States of America
+66,https://i.scdn.co/image/ab6761610000f17878e45cfa4697ce3c437cb455,Sabrina Carpenter,74KM79TiuVKeVCqs8QtB0B,"21,935,112,406",155,5,45,103,144,"564,174,663",Solo - Female,English,Pop,United States of America
+67,https://i.scdn.co/image/ab6761610000f1784f8f76117470957c0e81e5b2,21 Savage,1URnnhqYAYcrqrcwql10ft,"21,670,635,066",241,2,49,135,190,"16,320,229,991",Solo - Male,English,Hip-hop,United States of America
+68,https://i.scdn.co/image/ab6761610000f17861a7ea26d33ded218cd1e59d,Twenty One Pilots,3YQKmKGau1PzlVlkL1iodx,"21,344,724,015",151,3,49,110,149,"8,193,984",Group - Male,English,Alternative,United States of America
+69,https://i.scdn.co/image/ab6761610000f1781b0d196ca84f4a0d076b4570,Maluma,1r4hJ1h58CWwUQe3MxPuau,"21,247,582,855",232,4,46,151,216,"11,719,293,962",Solo - Male,Spanish,Reggaeton,Colombia
+70,https://i.scdn.co/image/ab6761610000f178815e520e3ce7fe210046ba66,Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,"20,854,549,108",166,5,34,100,149,"5,174,954,254",Solo - Female,English,Pop,United States of America
+71,https://i.scdn.co/image/ab6761610000f178c33cc15260b767ddec982ce8,Red Hot Chili Peppers,0L8ExT028jH3ddEcZwqJJ5,"20,558,771,390",283,6,32,147,261,"1,765,800",Group - Male,English,Rock,United States of America
+72,https://i.scdn.co/image/ab6761610000f17815136101a0f63f0b2800b9dc,Halsey,26VFTg2z8YR0cCuwLzESi2,"20,493,543,066",214,3,31,111,174,"4,371,024,054",Solo - Female,English,Pop,United States of America
+73,https://i.scdn.co/image/ab6761610000f178f4cccd14ec026038d713e353,Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,"20,232,149,440",245,5,27,126,221,"2,793,491,823",Solo - Female,English,Pop,United States of America
+74,https://i.scdn.co/image/ab6761610000f178587687df50a967731901fcc2,OneRepublic,5Pwc4xIPtQLFEnJriah9YJ,"19,955,405,504",244,2,34,99,191,"340,633,637",Group - Male,English,Pop,United States of America
+75,https://i.scdn.co/image/ab6761610000f178997cc9a4aec335d46c9481fd,Michael Jackson,3fMbdgg4jU18AjLCKBhRSm,"19,894,276,779",355,3,36,117,266,"875,202,391",Solo - Male,English,Pop,United States of America
+76,https://i.scdn.co/image/ab6761610000f1788d8ac7290d0fe2d12fb6e4d9,Pitbull,0TnOYISbd1XYRBk9myaseg,"19,830,945,434",479,5,28,106,286,"4,805,686,092",Solo - Male,English,Hip-hop,United States of America
+77,https://i.scdn.co/image/ab6761610000f178ae07171f989fb39736674113,Avicii,1vCWHaC5f2uS3yhpwWbIA6,"19,687,335,633",298,6,26,102,180,"780,302,810",Solo - Male,English,Electronic,Sweden
+78,https://i.scdn.co/image/ab6761610000f1788a8eb6722e4495d1950088cc,Disney,3xvaSlT4xsyk6lY1ESOspO,"19,578,928,298","1,032",1,48,251,542,"1,494,640,482",Brand,English,Children's,United States of America
+79,https://i.scdn.co/image/ab6761610000f178c4817922f21a5f2a36e12bf2,$uicideboy$,1VPmR4DJC1PlOtd0IADAO0,"19,466,924,083",381,0,48,304,380,"961,268,433",Group - Male,English,Hip-hop,United States of America
+80,https://i.scdn.co/image/ab6761610000f178ee3123e593174208f9754fab,Frank Ocean,2h93pZq0e7k5yf4dywlkpM,"19,192,799,112",53,5,37,46,49,"4,341,110,684",Solo - Male,English,R&B,United States of America
+81,https://i.scdn.co/image/ab6761610000f178646c8a9d78f11834febcf978,Marshmello,64KEffDW9EtZ1y2vBYgq8T,"18,692,808,705",257,4,30,118,219,"3,558,535,073",Solo - Male,English,Electronic,United States of America
+82,https://i.scdn.co/image/ab6761610000f178514da623c55dc9d2155705dd,Lil Baby,5f7VJjfbwm532GiveGC0ZK,"18,491,576,561",240,2,34,171,229,"16,739,352,792",Solo - Male,English,Hip-hop,United States of America
+83,https://i.scdn.co/image/ab6761610000f178df0b5ac84376a0a4b2166816,The Neighbourhood,77SW9BnxLY8rJ0RciFqkHh,"18,150,361,080",156,3,29,84,115,"15,335,746",Group - Male,English,Alternative,United States of America
+84,https://i.scdn.co/image/ab6761610000f178c742fbc057bdbc64834a6cdc,Zach Bryan,40ZNYROS4zLfyyBSs2PGe2,"18,128,595,808",242,2,38,161,238,0,Solo - Male,English,Country,United States of America
+85,https://i.scdn.co/image/ab6761610000f178ed3b89aa602145fde71a163a,Mac Miller,4LLpKhyESsyAXpc4laK94U,"17,950,927,256",240,1,45,181,225,"1,129,997,850",Solo - Male,English,Hip-hop,United States of America
+86,https://i.scdn.co/image/ab6761610000f1780d4838ef7ef6c0f889266f60,Natanael Cano,0elWFr7TW8piilVRYJUe4P,"17,938,397,288",212,0,50,155,211,"1,169,137,619",Solo - Male,Spanish,Regional Mexican,Mexico
+87,https://i.scdn.co/image/ab6761610000f178e5ea1aa1404629c12ad86658,Kygo,23fqKkggKUBHNkbKtXEls4,"17,922,453,793",161,4,38,110,148,"1,134,801,688",Solo - Male,English,Electronic,Norway
+88,https://i.scdn.co/image/ab6761610000f17876470faf6330235edbcb90a9,Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,"17,842,131,098",90,4,28,67,85,"1,783,803,982",Solo - Female,English,Pop,United States of America
+89,https://i.scdn.co/image/ab6761610000f1783d9d59e200e82fa53d8781a1,Lil Peep,2kCcBybjl3SAtIcwdWpUe3,"17,656,583,925",188,2,44,119,185,"468,909,130",Solo - Male,English,Hip-hop,United States of America
+90,https://i.scdn.co/image/ab6761610000f17869ca98dd3083f1082d740e44,Metallica,2ye2Wgw4gimLv2eAKyk1NB,"17,538,994,525","1,041",3,34,161,330,"77,052,941",Group - Male,English,Metal,United States of America
+91,https://i.scdn.co/image/ab6761610000f1780dc33a1c53bb58a84b45d6a7,Elton John,3PhoLpVuITZKcymswpck5b,"17,504,156,487","1,024",5,24,86,331,"905,740,261",Solo - Male,English,Rock,United Kingdom
+92,https://i.scdn.co/image/ab6761610000f1786721f541fb123145d4cb3ace,Charlie Puth,6VuMaDnrHyPL1p4EHjYLi7,"16,863,843,974",128,5,18,80,116,"567,257,740",Solo - Male,English,Pop,United States of America
+93,https://i.scdn.co/image/ab6761610000f178147f54ed9d9d5f98efdfddd2,Luke Combs,718COspgdWOnwOFpJHRZHS,"16,649,648,634",115,2,34,108,113,"1,020,761,216",Solo - Male,English,Country,United States of America
+94,https://i.scdn.co/image/ab6761610000f178998010cd1075921b5faf16b2,Lil Wayne,55Aa2cqylxrFIXC767Z865,"16,548,871,287",592,2,29,169,421,"22,124,294,168",Solo - Male,English,Hip-hop,United States of America
+95,https://i.scdn.co/image/ab6761610000f178ad85a585103dfc2f3439119a,Hozier,2FXC3k01G6Gw61bmprjgqS,"16,311,647,550",104,2,27,82,102,"45,647,222",Solo - Male,English,Rock,Ireland
+96,https://i.scdn.co/image/ab6761610000f178776e469c846c205685141317,YoungBoy Never Broke Again,7wlFDEWiM5OoIAt8RSli8b,"16,293,766,899",749,1,30,336,688,"2,717,776,168",Solo - Male,English,Hip-hop,United States of America
+97,https://i.scdn.co/image/ab6761610000f1786481401e529e475116702a29,Luis Miguel,2nszmSgqreHSdJA3zWPyrW,"16,293,452,494",312,0,43,181,275,"18,719,783",Solo - Male,Spanish,Pop,Mexico
+98,https://i.scdn.co/image/ab6761610000f178a998bc86f87b9fe7e2466110,Gunna,2hlmm7s2ICUX0LVIhVFlZQ,"16,269,293,878",253,2,34,185,242,"10,502,256,033",Solo - Male,English,Hip-hop,United States of America
+99,https://i.scdn.co/image/ab6761610000f178c4c77549095c86acb4e77b37,AC/DC,711MCceyCBcFnzjGY4Q7Un,"16,078,199,941",307,4,22,109,257,0,Group - Male,English,Hard Rock,Australia
+100,https://i.scdn.co/image/ab6761610000f178623538b7014238c54ceee056,BLACKPINK,41MozSoPIsD1dJM0CLPjZF,"15,998,078,701",110,2,32,62,110,"767,159,531",Group - Female,Korean,K-Pop,South Korea
+101,https://i.scdn.co/image/ab6761610000f17830f0dc81183daaee971c2601,Henrique & Juliano,3p7PcrEHaaKLJnPUGOtRlT,"15,820,214,559",250,0,44,206,242,"2,160,041,487",Group - Male,Portuguese,Sertanejo,Brazil
+102,https://i.scdn.co/image/ab6761610000f178ba50ca67ffc3097f6ea1710a,Playboi Carti,699OTQXzgjhIYAHMy9RyPD,"15,790,156,403",120,1,43,105,120,"8,928,457,218",Solo - Male,English,Hip-hop,United States of America
+103,https://i.scdn.co/image/ab6761610000f1785a55e66595e80fb12dc5f5fa,James Arthur,4IWBUUAFIplrNtaOHcJPRM,"15,535,649,659",191,6,22,88,174,"97,063,576",Solo - Male,English,Pop,United Kingdom
+104,https://i.scdn.co/image/ab6761610000f178bed8016bd64422793ff3bc75,Tate McRae,45dkTj5sMRSjrmBSBeiHym,"15,530,005,776",114,2,33,85,103,"1,747,049,041",Solo - Female,English,Pop,Canada
+105,https://i.scdn.co/image/ab6761610000f178ad160b333f9a240f84aff7d7,A$AP Rocky,13ubrt8QOOCPljQ2FL1Kca,"15,509,841,514",132,2,30,112,127,"8,093,727,636",Solo - Male,English,Hip-hop,United States of America
+106,https://i.scdn.co/image/ab6761610000f17869543997b9f68a0d2bb37a4a,Carin Leon,66ihevNkSYNzRAl44dx6jJ,"15,345,487,532",453,3,30,155,371,"414,385,899",Solo - Male,Spanish,Regional Mexican,Mexico
+107,https://i.scdn.co/image/ab6761610000f178572a8eae56feae217f618078,Alan Walker,7vk5e3vY1uw9plTHJAMwjN,"15,342,772,895",290,1,30,110,237,"2,086,612,889",Solo - Male,English,Electronic,Norway
+108,https://i.scdn.co/image/e797ad36d56c3fc8fa06c6fe91263a15bf8391b8,Nirvana,6olE6TJLqED3rqDCT0FyPh,"15,311,969,714",405,3,25,77,271,0,Group - Male,English,Rock,United States of America
+109,https://i.scdn.co/image/ab6761610000f178c8752dd511cda8c31e9daee8,Fleetwood Mac,08GQAI4eElDnROBrJRGE0X,"15,267,186,495",892,5,23,73,301,"745,336",Group - Mixed,English,Rock,United States of America
+110,https://i.scdn.co/image/ab6761610000f178fb65e1af01cf95c25bd29ed1,Jason Derulo,07YZf4WDAMNwqr4jfgOZ8y,"15,253,571,087",288,3,27,82,192,"1,908,169,347",Solo - Male,English,Pop,United States of America
+111,https://i.scdn.co/image/ab6761610000f17869266d088d2ab5c74e028863,Ellie Goulding,0X2BH1fck6amBIoJhDVmmJ,"15,240,482,314",262,4,23,91,197,"538,656,954",Solo - Female,English,Pop,United Kingdom
+112,https://i.scdn.co/image/ab6761610000f1787bbad89a61061304ec842588,P!nk,1KCSPY1glIKqW2TotWuXOR,"15,151,721,116",257,2,28,107,195,"366,315,000",Solo - Female,English,Pop,United States of America
+113,https://i.scdn.co/image/ab6761610000f178c8be3c6e5a824360d1bffc03,Romeo Santos,5lwmRuXgjX8xIwlnauTZIP,"15,119,890,748",159,1,35,104,137,"3,922,100,884",Solo - Male,Spanish,Tropical,United States of America
+114,https://i.scdn.co/image/ab6761610000f1784104fbd80f1f795728abbd59,Radiohead,4Z8W4fKeB5YxbusRsdQVPb,"15,107,900,165",245,2,25,122,225,"2,937,197",Group - Male,English,Alternative,United Kingdom
+115,https://i.scdn.co/image/ab6761610000f17869c46f8a2fe8114da9170aca,Farruko,329e4yvIujISKGKz1BZZbO,"15,056,473,067",408,3,28,127,341,"14,183,126,851",Solo - Male,Spanish,Reggaeton,Puerto Rico
+116,https://i.scdn.co/image/ab6761610000f178f4973f7346a2f35e56b63d57,Tiësto,2o5jDhtHVPhrJdv3cEQ99Z,"14,929,003,733",922,2,29,157,427,"2,728,471,217",Solo - Male,English,Electronic,Netherlands
+117,https://i.scdn.co/image/ab6761610000f178597f9edd2cd1a892d4412b09,Pop Smoke,0eDvMgVFoNV3TpwtrVCoTj,"14,739,836,988",100,3,36,90,98,"1,466,679,727",Solo - Male,English,Hip-hop,United States of America
+118,https://i.scdn.co/image/ab6761610000f1786705b864a7254d1572039b3d,Nicky Jam,1SupJlEpv7RS2tPNRaHViT,"14,735,695,017",308,2,37,108,201,"13,834,472,538",Solo - Male,Spanish,Reggaeton,United States of America
+119,https://i.scdn.co/image/ab6761610000f1786ff0cd5ef2ecf733804984bb,Green Day,7oPftvlwr6VrsViSDV7fJY,"14,503,055,138",558,5,18,112,358,"35,735,920",Group - Male,English,Rock,United States of America
+120,https://i.scdn.co/image/ab6761610000f178b3037310c07b99cbefbd2c6d,Black Eyed Peas,1yxSLGMDHlW21z4YXirZDS,"14,467,041,499",257,5,21,70,157,"165,346,254",Group - Male,English,Pop,United States of America
+121,https://i.scdn.co/image/ab6761610000f1787e57e2ed9b787ba5773b7cb9,DJ Snake,540vIaP2JwjQb9dm3aArA4,"14,364,020,035",225,4,16,68,141,"789,869,110",Solo - Male,English,Electronic,France
+122,https://i.scdn.co/image/ab6761610000f17842d7061876b87861d7c8f3fb,Demi Lovato,6S2OmqARrzebs0tKUEyXyp,"14,140,629,968",295,4,26,125,248,"2,984,189,831",Solo - Non-Binary,English,Pop,United States of America
+123,https://i.scdn.co/image/1a44043542c997ef835c89e185f0cf79d7402153,50 Cent,3q7HBObVc0L8jNeTe5Gofh,"14,110,711,292",209,4,25,83,144,"5,470,598,959",Solo - Male,English,Hip-hop,United States of America
+124,https://i.scdn.co/image/ab6761610000f178c9154bd840cd45e769c4e480,Don Omar,33ScadVnbm2X8kkUqOkC6Z,"14,061,300,845",294,2,30,84,162,"3,898,924,663",Solo - Male,Spanish,Reggaeton,Puerto Rico
+125,https://i.scdn.co/image/357fe6ef3655b1b33855e33546e3c174a38a1a36,Bob Marley & The Wailers,2QsynagSdAqZj3U9HgDzjD,"13,954,589,929",712,3,27,112,410,"131,142,235",Solo - Male,English,Reggae / Dancehall,Jamaica
+126,https://i.scdn.co/image/ab6761610000f17826e59b825251b7df20a7b65e,Britney Spears,26dSoYclwsYLMAKD3tpOr4,"13,868,240,616",348,4,23,84,206,"1,269,638,051",Solo - Female,English,Pop,United States of America
+127,https://i.scdn.co/image/ab6761610000f17814add0d3419426b84158b913,Bizarrap,716NhGYqD1jl2wI1Qkgq36,"13,854,256,344",113,2,41,87,112,"1,299,318,623",Solo - Male,Spanish,Hip-hop,Argentina
+128,https://i.scdn.co/image/ab6761610000f178f9887d2c9288f0e50a3fd69f,Stray Kids,2dIgFjalVxs4ThymZ67YCE,"13,845,277,239",322,0,25,276,315,0,Group - Male,Korean,K-Pop,South Korea
+129,https://i.scdn.co/image/ab6761610000f178f5c59bc5c84435e9a4f11bd6,Manuel Turizo,0tmwSHipWxN12fsoLcFU3B,"13,813,540,031",118,1,30,76,115,"4,167,457,309",Solo - Male,Spanish,Reggaeton,Colombia
+130,https://i.scdn.co/image/ab6761610000f178362011ebe6064c38e97e9aac,Fall Out Boy,4UXqAaa6dQYAk18Lv7PEgX,"13,766,266,846",233,2,26,118,189,"169,807,199",Group - Male,English,Rock,United States of America
+131,https://i.scdn.co/image/ab6761610000f1789c70d4207e8fe903509e5b66,Sech,77ziqFxp5gaInVrF2lj4ht,"13,732,801,629",200,0,33,93,158,"4,999,722,155",Solo - Male,Spanish,Reggaeton,Panama
+132,https://i.scdn.co/image/ab6761610000f1788ae6a1046094624d95b115cb,The Kid LAROI,2tIP7SsRs7vjIcLrU85W8J,"13,642,932,302",107,2,29,88,104,"1,443,422,729",Solo - Male,English,Hip-hop,Australia
+133,https://i.scdn.co/image/ab6761610000f178f2db81b3312a1f167fc54096,Trippie Redd,6Xgp2XMz1fhVYe7i6yNAax,"13,639,773,181",298,0,32,158,280,"4,886,404,327",Solo - Male,English,Hip-hop,United States of America
+134,https://i.scdn.co/image/ab6761610000f178dc9e707b0d0e591e08d3f549,Lewis Capaldi,4GNC7GD6oZMSxPGyXy4MNB,"13,564,212,073",87,3,16,53,79,"3,724",Solo - Male,English,Pop,United Kingdom
+135,https://i.scdn.co/image/ab6761610000f17898f80af7d47ac0d17d10d989,Kodak Black,46SHBwWsqBkxI7EeeBEQG7,"13,516,628,857",403,2,25,130,349,"3,754,595,503",Solo - Male,English,Hip-hop,United States of America
+136,https://i.scdn.co/image/ab6761610000f178b19af0ea736c6228d6eb539c,A.R. Rahman,1mYsTxnqsietFxj1OgoGbG,"13,511,333,913","2,244",0,24,244,707,"245,797,435",Solo - Male,Tamil,Indian Film Music,India
+137,https://i.scdn.co/image/ab6761610000f1780f0be2054fe9594026a6b843,Anirudh Ravichander,4zCH9qm4R2DADamUHMCa6O,"13,472,739,036","1,148",0,35,227,512,"461,044,332",Solo - Male,Tamil,Indian Film Music,India
+138,https://i.scdn.co/image/ab6761610000f1783552638b88297e6ec45a3934,DaBaby,4r63FhuTkUYltbVAg5TQnk,"13,417,146,497",244,2,24,104,209,"6,496,368,854",Solo - Male,English,Hip-hop,United States of America
+139,https://i.scdn.co/image/ab6761610000f178c66b0a8c3268f0b6556f64a8,Wiz Khalifa,137W8MRPWKqSmrBGDBFSop,"13,307,717,807",655,2,22,131,433,"10,838,751,085",Solo - Male,English,Hip-hop,United States of America
+140,https://i.scdn.co/image/ab6761610000f1788fcc5c49d2116d7251ecbd65,NF,6fOMl44jA4Sp5b9PpYCkzz,"13,274,973,311",100,1,41,100,100,"232,767,678",Solo - Male,English,Hip-hop,United States of America
+141,https://i.scdn.co/image/ab6761610000f178dd5b57b40cf2aaeccd07835e,Gorillaz,3AA28KZvwAUcZuOKwyblJQ,"13,030,912,358",267,2,24,125,226,"2,653,703",Group - Male,English,Alternative,United Kingdom
+142,https://i.scdn.co/image/ab6761610000f178219724d177787df4dc9d8614,JAY-Z,3nFkdlSjzX9mRTtwJOzDYB,"12,966,649,275",364,3,22,110,271,"10,462,150,877",Solo - Male,English,Hip-hop,United States of America
+143,https://i.scdn.co/image/ab6761610000f1789f2fb33940aac624dc5d100d,Young Thug,50co4Is1HCEo8bhOyUWKpn,"12,944,005,860",434,0,25,170,285,"17,305,238,356",Solo - Male,English,Hip-hop,United States of America
+144,https://i.scdn.co/image/ab6761610000f178b256ae9a4b82bfff97776ae2,Panic! At The Disco,20JZFwl6HVl6yg8a4H3ZqK,"12,932,482,234",176,2,30,84,146,"973,470,249",Group - Male,English,Alternative,United States of America
+145,https://i.scdn.co/image/ab6761610000f178d0f55babbbdcfab188016110,G-Eazy,02kJSzxNuaWGqwubyUba0Z,"12,907,992,010",263,2,21,127,241,"2,333,307,159",Solo - Male,English,Hip-hop,United States of America
+146,https://i.scdn.co/image/ab6761610000f178b6d7836808e8b99fc8c7aadc,Joji,3MZsBdqDrRTJihTHQrO6Dq,"12,889,641,251",83,2,29,59,82,"946,688,777",Solo - Male,English,R&B,Japan
+147,https://i.scdn.co/image/ab6761610000f17850defaf9fc059a1efc541f4c,Guns N' Roses,3qm84nBOXUEQ2vnTfUTTFC,"12,884,957,381",213,5,18,70,126,0,Group - Male,English,Hard Rock,United States of America
+148,https://i.scdn.co/image/ab6761610000f178f5b8ee60f1f4ee3453aba40b,Martin Garrix,60d24wfXkVzDSfLS6hyCjZ,"12,878,291,213",313,2,21,112,189,"176,965,263",Solo - Male,English,Electronic,Netherlands
+149,https://i.scdn.co/image/ab6761610000f178a39825d6c5540eca8f99d4fd,Quevedo,52iwsT98xCoGgiGntTiR7K,"12,740,503,376",97,2,31,90,97,"382,316,754",Solo - Male,Spanish,Reggaeton,Spain
+150,https://i.scdn.co/image/ab6761610000f178b8bb50dc787d5893156689f6,Grupo Frontera,6XkjpgcEsYab502Vr1bBeW,"12,739,819,635",85,2,27,67,84,"359,042,771",Group - Male,Spanish,Regional Mexican,United States of America
+151,https://i.scdn.co/image/ab6761610000f1783758a33e782b46bd7f174e1d,Lil Nas X,7jVv8c5Fj3E9VhNjxT4snq,"12,729,117,781",47,5,16,36,46,"52,272,703",Solo - Male,English,Pop,United States of America
+152,https://i.scdn.co/image/ab6761610000f17890671876e11f39f835ececa4,Sebastian Yatra,07YUOmWljBTXwIseAUd9TW,"12,696,702,323",133,1,25,80,120,"4,322,029,820",Solo - Male,Spanish,Reggaeton,Colombia
+153,https://i.scdn.co/image/ab6761610000f178c52b798deb89eb8414a51b7b,Don Toliver,4Gso3d4CscCijv0lmajZWs,"12,696,466,970",153,2,25,117,144,"4,881,590,338",Solo - Male,English,Hip-hop,United States of America
+154,https://i.scdn.co/image/ab6761610000f17821907ce45d02176645072c22,Jhayco,6nVcHLIgY5pE2YCl8ubca1,"12,678,260,892",119,2,25,92,118,"4,029,255,627",Solo - Male,Spanish,Reggaeton,Puerto Rico
+155,https://i.scdn.co/image/ab6761610000f17897885ce689d644c91dfba05c,Pink Floyd,0k17h0D3J5VfsdmQ1iZtE9,"12,676,024,052",500,2,24,138,344,0,Group - Male,English,Rock,United Kingdom
+156,https://i.scdn.co/image/ab6761610000f1787a5cfe2597665a3d160e805e,Justin Timberlake,31TPClRtHm23RisEBtV3X7,"12,668,907,741",209,3,18,88,151,"4,608,700,915",Solo - Male,English,R&B,United States of America
+157,https://i.scdn.co/image/ab6761610000f178f49a3377cacbeb4fc157949d,Banda MS de Sergio Lizárraga,2C6i0I5RiGzDKN9IAF8reh,"12,661,611,701",333,0,31,151,295,"58,404,789",Ensemble,Spanish,Regional Mexican,Mexico
+158,https://i.scdn.co/image/ab6761610000f1787f5cc432c9c109248ebec1ac,2Pac,1ZwdS5xdxEREPySFridCfh,"12,468,159,575",314,1,26,106,251,"580,820,846",Solo - Male,English,Hip-hop,United States of America
+159,https://i.scdn.co/image/ab6761610000f1780f682e8d99b232d621a25c3b,Duki,1bAftSH8umNcGZ0uyV7LMg,"12,455,880,866",218,0,36,159,213,"2,834,712,875",Solo - Male,Spanish,Hip-hop,Argentina
+160,https://i.scdn.co/image/ab6761610000f1784d59ead49c9a6432036b3cc6,A Boogie Wit da Hoodie,31W5EY0aAly4Qieq6OFu6I,"12,395,365,095",266,1,26,132,197,"4,735,030,985",Solo - Male,English,Hip-hop,United States of America
+161,https://i.scdn.co/image/ab6761610000f178e412a782245eb20d9626c601,Tame Impala,5INjqkS1o8h1imAzPqGZBb,"12,389,608,839",127,2,22,83,123,"311,518,199",Solo - Male,English,Pop,Australia
+162,https://i.scdn.co/image/ab6761610000f178df01727aa674ddefa777797a,Diplo,5fMUXHkw8R8eOP2RNVYEZX,"12,373,114,177",531,1,30,118,300,"3,248,691,293",Solo - Male,English,Electronic,United States of America
+163,https://i.scdn.co/image/ab6761610000f1781c312be98c615df97ea79a30,Cigarettes After Sex,1QAJqy2dA3ihHBFIHRphZj,"12,364,499,778",46,4,26,44,46,0,Group - Male,English,Alternative,United States of America
+164,https://i.scdn.co/image/ab6761610000f178d0a27777aaeb1725add6ace8,Mariah Carey,4iHNK0tOyZPYnBU7nGAgpQ,"12,336,190,165",744,1,26,95,318,"793,225,709",Solo - Female,English,R&B,United States of America
+165,https://i.scdn.co/image/ab6761610000f1788d405871bce7fb60e3a2ae42,Bebe Rexha,64M6ah0SkkRsnPGtGiRAbb,"12,308,226,491",211,3,21,83,144,"4,838,351,925",Solo - Female,English,Pop,United States of America
+166,https://i.scdn.co/image/ab6761610000f178641242a181a686639109e477,Marília Mendonça,1yR65psqiazQpeM79CcGh8,"12,307,749,729",155,0,43,128,140,"2,369,026,515",Solo - Female,Portuguese,Sertanejo,Brazil
+167,https://i.scdn.co/image/ab6761610000f1786f99548a5d99ee34e742e5de,Anitta,7FNnA9vBm6EKceENgCGRMb,"12,274,265,141",275,0,39,150,247,"2,572,233,061",Solo - Female,Portuguese,Pop,Brazil
+168,https://i.scdn.co/image/ab6761610000f178a23286f24edd4a7dbdc6311d,Cardi B,4kYSro6naA4h99UJvo89HB,"12,151,687,606",140,2,20,67,97,"9,685,865,391",Solo - Female,English,Hip-hop,United States of America
+169,https://i.scdn.co/image/ab6761610000f178716114797a4a644c67c5fa72,Usher,23zg3TcAtWQy7J6upgbUnj,"12,147,434,631",303,3,23,77,196,"5,717,427,696",Solo - Male,English,R&B,United States of America
+170,https://i.scdn.co/image/ab6761610000f178e75a61b56978b6f490a961a1,Christian Nodal,0XwVARXT135rw8lyw1EeWP,"12,142,735,628",116,0,29,88,114,"772,267,899",Solo - Male,Spanish,Regional Mexican,Mexico
+171,https://i.scdn.co/image/ab6761610000f17860063d3451ade8f9fab397c2,System Of A Down,5eAWCfyUhZtHHtBdNk56l1,"12,142,720,403",79,2,24,71,78,"2,184,640",Group - Male,English,Metal,United States of America
+172,https://i.scdn.co/image/ab6761610000f178144d2bd5d672fcb0f38be00b,ABBA,0LcJLqbBmaGUft1e9Mm8HV,"12,074,840,187",172,2,21,64,155,"1,655,077",Group - Mixed,English,Pop,Sweden
+173,https://i.scdn.co/image/ab6761610000f178cd6fff54a8f7c85bed86d7b9,Rels B,2IMZYfNi21MGqxopj9fWx8,"12,046,405,931",156,0,34,139,155,"518,670,656",Solo - Male,Spanish,Hip-hop,Spain
+174,https://i.scdn.co/image/ab6761610000f1783d8820046fd455b38d644864,TWICE,7n2Ycct7Beij7Dj7meI4X0,"11,960,371,316",330,0,28,177,283,"85,032,195",Group - Female,Korean,K-Pop,South Korea
+175,https://i.scdn.co/image/ab6761610000f178e4cea917b68726aadb4854b8,The Rolling Stones,22bE4uQ6baNwSHPVcDxLCe,"11,945,347,668","1,200",1,18,100,475,"11,937,124",Group - Male,English,Rock,United Kingdom
+176,https://i.scdn.co/image/ab6761610000f178830845d2fa6c5c7874176951,ZAYN,5ZsFI1h6hIdQRw2ti0hz81,"11,934,650,323",115,3,20,80,112,"288,482,974",Solo - Male,English,Pop,United Kingdom
+177,https://i.scdn.co/image/ab6761610000f178d18eac6f1e653551fd05a793,Major Lazer,738wLrAtLtCtFOLvQBXOXp,"11,914,081,098",359,3,18,80,204,"943,786,493",Group - Male,English,Electronic,United States of America
+178,https://i.scdn.co/image/ab6761610000f17840b636d92aa7de0fc068ac77,Morat,5C4PDR4LnhZTbVnKWXuDKD,"11,903,993,264",132,0,35,92,108,"1,705,442,617",Group - Male,Spanish,Pop,Colombia
+179,https://i.scdn.co/image/ab6761610000f178e926dd683e1700a6d65bd835,John Mayer,0hEurMDQu99nJRq8pTxO14,"11,897,792,864",203,0,29,120,187,"600,346,439",Solo - Male,English,Rock,United States of America
+180,https://i.scdn.co/image/ab6761610000f178ecf79fd5be85dabb0f489107,Michael Bublé,1GxkXlMwML1oSg5eLPiAz3,"11,879,080,989",289,1,25,117,217,"622,170,717",Solo - Male,English,Jazz / Swing,Canada
+181,https://i.scdn.co/image/ab6761610000f178bc0c9808d6ef18ab449cc6ba,Ava Max,4npEfmQ6YuiwW1GpUmaq3F,"11,709,532,759",160,3,21,66,123,"513,315,132",Solo - Female,English,Pop,United States of America
+182,https://i.scdn.co/image/ab6761610000f1783b8b4a8b0b7f42576773a52e,Tyga,5LHRHt1k9lMyONurDHEdrp,"11,689,590,866",371,1,24,131,310,"6,446,454,569",Solo - Male,English,Hip-hop,United States of America
+183,https://i.scdn.co/image/ab6761610000f17887cde49a53cfbdbecf68fe02,5 Seconds of Summer,5Rl15oVamLq7FbSb0NNBNy,"11,641,421,636",219,2,16,127,212,"650,682,159",Group - Male,English,Rock,Australia
+184,https://i.scdn.co/image/ab6761610000f178655ca8f3196953554b479452,Flo Rida,0jnsk9HBra6NMjO2oANoPY,"11,621,152,982",326,5,12,52,141,"4,175,957,943",Solo - Male,English,Hip-hop,United States of America
+185,https://i.scdn.co/image/ab6761610000f178e4d94f7cbebb17504c25d419,Daniel Caesar,20wkVLutqVOYrc0kxFs7rA,"11,577,347,611",76,2,24,68,69,"2,773,989,312",Solo - Male,English,R&B,Canada
+186,https://i.scdn.co/image/ab6761610000f17885e7615a199f8b17fabfcd61,Machine Gun Kelly,6TIYQ3jFPwQSRmorSezPxX,"11,550,951,837",200,0,32,143,184,"1,532,379,390",Solo - Male,English,Hip-hop,United States of America
+187,https://i.scdn.co/image/ab6761610000f178c3dc5429b676b16d451e5f77,Childish Gambino,73sIBHcqh3Z3NyqHKZ7FOL,"11,490,237,476",103,3,15,74,101,"971,731,687",Solo - Male,English,Soul / Motown R&B,United States of America
+188,https://i.scdn.co/image/ab6761610000f1789dde640a32d379dd5869fe4e,Lauv,5JZ7CnR6gTvEMKX4g70Amv,"11,465,849,245",135,1,29,80,120,"276,109,546",Solo - Male,English,Pop,United States of America
+189,https://i.scdn.co/image/ab6761610000f17811be9310ef4b23734c13b5c8,Zara Larsson,1Xylc3o4UrD53lo9CvFvVg,"11,427,845,342",151,3,21,69,129,"1,185,604,347",Solo - Female,English,Pop,Sweden
+190,https://i.scdn.co/image/ab6761610000f178bd5d3e1b363c3e26710661c3,Tory Lanez,2jku7tDXc6XoB6MO2hFuqg,"11,412,627,410",512,1,22,147,367,"4,245,218,453",Solo - Male,English,Hip-hop,Canada
+191,https://i.scdn.co/image/ab6761610000f178deac5367816c7ab1f607e89a,Kali Uchis,1U1el3k54VvEUzo3ybLPlM,"11,402,070,062",125,2,21,106,121,"5,379,819,738",Solo - Female,English,R&B,United States of America
+192,https://i.scdn.co/image/ab6761610000f178f94a7e185158d0950f07310b,Anne-Marie,1zNqDE7qDGCsyzJwohVaoX,"11,327,718,996",195,4,15,57,135,"1,165,513,761",Solo - Female,English,Pop,United Kingdom
+193,https://i.scdn.co/image/ab6761610000f1787aab347977373ccf5cb172c1,Arcangel,4SsVbpTthjScTS7U2hmr1X,"11,221,197,707",418,0,22,121,333,"9,914,734,721",Solo - Male,Spanish,Reggaeton,United States of America
+194,https://i.scdn.co/image/ab6761610000f178bedf3bdf589da06d1567196c,Polo G,6AgTAQt8XS6jRWi4sX7w49,"11,094,438,359",139,2,25,86,125,"3,288,296,512",Solo - Male,English,Hip-hop,United States of America
+195,https://i.scdn.co/image/ab6761610000f1785b141d30d14fb78458dac5ce,Noah Kahan,2RQXRUsr4IW1f3mKyKsy4B,"11,053,628,792",96,1,31,74,96,"304,414,428",Solo - Male,English,Folk,United States of America
+196,https://i.scdn.co/image/ab6761610000f17829362b75d7fa1a411ecaeaf9,Jorge & Mateus,1elUiq4X7pxej6FRlrEzjM,"11,037,539,094",271,0,34,177,254,"2,426,570,271",Group - Male,Portuguese,Sertanejo,Brazil
+197,https://i.scdn.co/image/a283ecdc6252ae305c53d283846cae2e8b22e94c,Frank Sinatra,1Mxqyy3pSjf8kZZL4QVxS0,"10,977,400,447","2,199",0,18,122,494,"223,399,195",Solo - Male,English,Jazz / Swing,United States of America
+198,https://i.scdn.co/image/ab6761610000f1785f00bb6dd7a7008d14156630,Kid Cudi,0fA0VVWsXO9YnASrzqfmYu,"10,974,271,491",239,2,19,119,233,"3,322,360,039",Solo - Male,English,Hip-hop,United States of America
+199,https://i.scdn.co/image/ab6761610000f178049b4a6c038ea063a413c5df,Melanie Martinez,63yrD80RY3RNEM2YDpUpO8,"10,968,318,176",91,0,36,65,91,"660,216",Solo - Female,English,Alternative,United States of America
+200,https://i.scdn.co/image/ab6761610000f1789a93e273380982dff84c0d7c,Elvis Presley,43ZHCT0cAZBISjO8DG9PnE,"10,944,556,403","2,569",1,20,113,552,"23,941,493",Solo - Male,English,Rock,United States of America
+201,https://i.scdn.co/image/ab6761610000f1781b7aaeedafb29af4c513ebd3,Becky G,4obzFoKoKRHIphyHzJ35G3,"10,937,319,978",166,2,23,80,155,"1,812,550,090",Solo - Female,Spanish,Pop,United States of America
+202,https://i.scdn.co/image/ab6761610000f178869ddcc058c5ff2a459ad8d5,Robin Schulz,3t5xRXzsuZmMDkQzgOX35S,"10,927,409,171",328,3,19,77,211,"1,132,704,457",Solo - Male,English,Electronic,Germany
+203,https://i.scdn.co/image/ab6761610000f178488b3b242f97163a7f8e17b9,Macklemore,3JhNCzhSMTxs9WLGJJxWOY,"10,887,088,687",121,3,13,71,114,"1,393,395,563",Solo - Male,English,Hip-hop,United States of America
+204,https://i.scdn.co/image/ab6761610000f17808cd53940cbf5813ee5fe565,Little Mix,3e7awlrlDSwF3iM0WBjGMp,"10,843,229,515",231,0,25,110,165,"17,000,417",Group - Female,English,Pop,United Kingdom
+205,https://i.scdn.co/image/ab6761610000f178e28762aed82cde1178fb3873,Zedd,2qxJFvFYMEDqd7ui6kSAcq,"10,836,916,315",188,4,15,50,126,"259,955,532",Solo - Male,English,Electronic,Germany
+206,https://i.scdn.co/image/ab6761610000f1786aaf8a0d393605e8489447f3,Tito Double P,5eumcnUkdmGvkvcsx1WFNG,"10,821,688,475",70,0,31,64,70,"758,781,560",Solo - Male,Spanish,Regional Mexican,Mexico
+207,https://i.scdn.co/image/ab6761610000f178957320981e31e862bc2fb844,PARTYNEXTDOOR,2HPaUgqeutzr3jx5a9WyDV,"10,788,737,867",137,1,26,98,121,"2,651,446,979",Solo - Male,English,R&B,Canada
+208,https://i.scdn.co/image/ab6761610000f178aa69380a8d5203257611662d,Lorde,163tK9Wjr9P9DmM0AVK7lm,"10,776,980,800",74,3,25,63,72,"368,743,427",Solo - Female,English,Alternative,New Zealand
+209,https://i.scdn.co/image/ab6761610000f1784fa1405802a42c665b0f2dd1,Enrique Iglesias,7qG3b048QCHVRO5Pv1T5lw,"10,718,644,516",298,1,25,93,209,"1,453,396,258",Solo - Male,Spanish,Pop,Spain
+210,https://i.scdn.co/image/ab6761610000f178ae307f53c6c0a6b23e7af8d2,Madonna,6tbjWDEIzxoDsBA1FuhfPW,"10,717,342,248",958,1,17,106,407,"208,629,447",Solo - Female,English,Pop,United States of America
+211,https://i.scdn.co/image/ab6761610000f178b10c34546a4ca2d7faeb8865,Paramore,74XFHRwlV6OrjEM0A2NCMF,"10,693,670,737",143,2,18,89,137,0,Group - Mixed,English,Rock,United States of America
+212,https://i.scdn.co/image/ab6761610000f17860c3e9abe7327c0097738f22,Sean Paul,3Isy6kedDrgPYoTS1dazA9,"10,650,503,223",468,2,22,70,218,"6,219,468,716",Solo - Male,English,Reggae / Dancehall,Jamaica
+213,https://i.scdn.co/image/ab6761610000f178add0f250a8602d9bb093161f,Camilo,28gNT5KBp7IjEOQoevXf9N,"10,623,500,334",81,0,26,62,76,"2,918,890,135",Solo - Male,Spanish,Pop,Colombia
+214,https://i.scdn.co/image/ab6761610000f178e6252cc367480d8fe43e711f,Mora,0Q8NcsJwoCbZOHHW63su5S,"10,582,695,953",137,1,26,107,137,"1,804,804,436",Solo - Male,Spanish,Reggaeton,Puerto Rico
+215,https://i.scdn.co/image/ab6761610000f1785f075bce88f819ed5dbbbbd9,Luis R Conriquez,0pePYDrJGk8gqMRbXrLJC8,"10,561,955,798",517,0,30,131,372,"1,167,482,692",Solo - Male,Spanish,Regional Mexican,Mexico
+216,https://i.scdn.co/image/ab6761610000f17808cacf062848b7318679b1b4,Gusttavo Lima,7MiDcPa6UiV3In7lIM71IN,"10,549,736,637",413,0,28,213,362,"1,447,936,162",Solo - Male,Portuguese,Sertanejo,Brazil
+217,https://i.scdn.co/image/ab6761610000f178d2e2b04b7ba5d60b72f54506,Creedence Clearwater Revival,3IYUhFvPQItj6xySrBmZkd,"10,546,013,846",152,3,17,55,136,0,Group - Male,English,Rock,United States of America
+218,https://i.scdn.co/image/ab6761610000f1785433d9d8519ad0635d8bd869,Lil Tecca,4Ga1P7PMIsmqEZqhYZQgDo,"10,527,797,464",131,1,18,97,131,"789,170,453",Solo - Male,English,Hip-hop,United States of America
+219,https://i.scdn.co/image/ab6761610000f1789354faf80eb87961466edfbf,ROSALÍA,7ltDVBr6mKbRvohxheJ9h1,"10,493,101,531",90,1,25,77,87,"3,308,034,690",Solo - Female,Spanish,Alternative,Spain
+220,https://i.scdn.co/image/ab6761610000f1786dc42c750614c1101daef28e,DJ Khaled,0QHgL1lAIqAw0HtD7YldmP,"10,491,017,568",185,2,22,87,147,"352,690,292",Solo - Male,English,Pop,United States of America
+221,https://i.scdn.co/image/ab6761610000f178d0cdb283a7384a0edb665182,Slipknot,05fG473iIaoy82BF1aGhL8,"10,445,099,049",230,1,22,103,205,0,Group - Male,English,Metal,United States of America
+222,https://i.scdn.co/image/ab6761610000f17840a7268dd742e5f63759b960,Jung Kook,6HaGTQPmzraVmaVxvz6EUc,"10,402,870,126",46,4,18,33,46,"133,900,101",Solo - Male,Korean,K-Pop,South Korea
+223,https://i.scdn.co/image/ab6761610000f178f4593f7b778219838d858c34,Migos,6oMuImdp5ZcFhWP0ESe6mG,"10,402,434,023",278,1,19,93,182,"4,934,509,522",Group - Male,English,Hip-hop,United States of America
+224,https://i.scdn.co/image/ab6761610000f1784309e7be1610df9a1fd34793,Logic,4xRYI6VqpkE3UwrDrAZL8L,"10,396,254,702",297,1,19,149,260,"2,595,191,949",Solo - Male,English,Hip-hop,United States of America
+225,https://i.scdn.co/image/ab6761610000f17832845b1556f9dbdfe8ee6575,Rammstein,6wWVKhxIU2cEi0K81v7HvP,"10,393,722,341",254,0,31,102,198,0,Group - Male,German,Metal,Germany
+226,https://i.scdn.co/image/ab6761610000f178c32fbb7e33df6f50d445022e,Jul,3IW7ScrzXmPvZhB27hmfgy,"10,387,855,837",862,0,12,242,817,"2,911,382,376",Solo - Male,French,Hip-hop,France
+227,https://i.scdn.co/image/ab6761610000f178b4ddbc39706ef0f2ae0f7c9b,Oasis,2DaxqgrOhkeH0fpeiQq2f4,"10,266,851,539",274,2,20,74,223,0,Group - Male,English,Rock,United Kingdom
+228,https://i.scdn.co/image/ab6761610000f17816eec86fff40fa5ef0b57cef,Mitski,2uYWxilOVlUdk4oV9DvwqK,"10,256,838,081",97,2,20,79,96,"60,583,515",Solo - Female,English,Alternative,United States of America
+229,https://i.scdn.co/image/ab6761610000f17878a3800c3ef6e6e5f5cfc9a2,Eladio Carrion,5XJDexmWFLWOkjOEjOVX3e,"10,255,475,636",244,0,20,175,238,"1,257,480,514",Solo - Male,Spanish,Hip-hop,United States of America
+230,https://i.scdn.co/image/ab6761610000f178cd251af2268da17c3d967164,Grupo Firme,1dKdetem2xEmjgvyymzytS,"10,252,250,839",303,0,23,117,256,"1,137,305,289",Group - Male,Spanish,Regional Mexican,Mexico
+231,https://i.scdn.co/image/ab6761610000f17870d80b8ab8e193aef64223ec,Clean Bandit,6MDME20pz9RveH9rEXvrOM,"10,209,664,766",244,4,12,52,157,"46,607,937",Group - Mixed,English,Electronic,United Kingdom
+232,https://i.scdn.co/image/ab6761610000f1785da36f8b98dd965336a1507a,blink-182,6FBDaR13swtiWwGhX1WQsP,"10,184,281,316",210,2,17,121,204,"112,402,144",Group - Male,English,Rock,United States of America
+233,https://i.scdn.co/image/ab6761610000f17852aade0d2ea19706074da4b9,Bon Jovi,58lV9VcRSjABbAbfWS6skp,"10,144,626,375",456,3,14,59,239,"2,746,229",Group - Male,English,Hard Rock,United States of America
+234,https://i.scdn.co/image/ab6761610000f178207b21f3ed0ee96adce3166a,The Killers,0C0XlULifJtAgn6ZNCW2eu,"10,131,312,872",222,2,15,82,168,"711,643",Group - Male,English,Rock,United States of America
+235,https://i.scdn.co/image/ab6761610000f178daa727dd396963ba92dd6377,Charli XCX,25uiPmTg16RbhZWAqwLBy5,"10,120,585,005",265,0,28,124,206,"3,401,296,111",Solo - Female,English,Pop,United Kingdom
+236,https://i.scdn.co/image/ab6761610000f178240d44db603d49305d3d7b56,Meghan Trainor,6JL8zeS1NmiOftqZTRgdTz,"10,119,219,033",221,1,13,76,178,"1,433,188,978",Solo - Female,English,Pop,United States of America
+237,https://i.scdn.co/image/ab6761610000f1781db35bc9c01d2b1c151e44ce,Foo Fighters,7jy3rLJdDQY21OgRLCZ9sD,"10,098,122,636",251,1,15,103,191,"29,120,253",Group - Male,English,Rock,United States of America
+238,https://i.scdn.co/image/ab6761610000f178b78f77c5583ae99472dd4a49,David Bowie,0oSGxfWSnnOXhD2fKuz2Gy,"10,012,832,520","1,344",1,16,85,352,"80,438,445",Solo - Male,English,Alternative,United Kingdom
+239,https://i.scdn.co/image/ab6761610000f178e6797a9790d420f56e308f42,Reik,0vR2qb8m9WHeZ5ByCbimq2,"9,995,182,583",199,0,25,89,173,"1,496,725,861",Group - Male,Spanish,Pop,Mexico
+240,https://i.scdn.co/image/ab6761610000f178582fbf712f5b6a9bf65d9b84,Brent Faiyaz,3tlXnStJ1fFhdScmQeLpuG,"9,937,430,740",144,0,26,84,110,"2,412,480,811",Solo - Male,English,R&B,United States of America
+241,https://i.scdn.co/image/ab6761610000f1784cd0464ef7d8eb8521f72dd8,Aventura,1qto4hHid1P71emI6Fd8xi,"9,878,385,821",126,0,21,57,113,"1,483,362",Group - Male,Spanish,Tropical,United States of America
+242,https://i.scdn.co/image/ab6761610000f1780c6e752cbb1e6d1416970f5a,The 1975,3mIj9lX2MWuHmhNCA7LSCW,"9,776,318,760",217,0,25,100,171,"247,378,102",Group - Male,English,Alternative,United Kingdom
+243,https://i.scdn.co/image/ab6761610000f178d3aa7cc0e419b6c459b08e8e,Daft Punk,4tZwfgrHOc3mvqYlEYSvVi,"9,736,660,411",213,1,20,90,175,"6,677,584,120",Group - Male,English,Electronic,France
+244,https://i.scdn.co/image/ab6761610000f178d155a3a187977765ffd9e07a,Russ,1z7b1Pr1rSlvWRzsW3HOrS,"9,728,159,885",456,0,18,151,350,"237,802,969",Solo - Male,English,Hip-hop,United States of America
+245,https://i.scdn.co/image/ab6761610000f1784c2b62d4748524454a6f99b0,Conan Gray,4Uc8Dsxct0oMqx0P6i60ea,"9,725,325,311",64,2,21,61,64,0,Solo - Male,English,Pop,United States of America
+246,https://i.scdn.co/image/ab6761610000f17809791422702c3fa9780468d4,Lil Durk,3hcs9uc56yIGFCSy9leWe7,"9,713,009,185",426,1,14,177,356,"5,768,922,920",Solo - Male,English,Hip-hop,United States of America
+247,https://i.scdn.co/image/ab6761610000f178e06bc05ace04b055edeeff8d,Labrinth,2feDdbD5araYcm6JhFHHw7,"9,659,228,261",200,1,17,60,132,"824,723,937",Solo - Male,English,R&B,United States of America
+248,https://i.scdn.co/image/ab6761610000f178f48ae2285b2ad65c28928258,blackbear,2cFrymmkijnjDg9SS92EPM,"9,647,561,421",199,1,19,115,171,"2,431,457,316",Solo - Male,English,Pop,United States of America
+249,https://i.scdn.co/image/ab6761610000f1789c00ad0308287b38b8fdabc2,My Chemical Romance,7FBcuc1gsnv6Y1nwFtNRCb,"9,606,584,562",146,2,19,73,139,"190,755",Group - Male,English,Rock,United States of America
+250,https://i.scdn.co/image/ab6761610000f1783deda947e22df7dd3c8fe2c2,Paulo Londra,3vQ0GE3mI0dAaxIMYe5g7z,"9,574,425,499",69,1,24,55,69,"162,898,138",Solo - Male,Spanish,Hip-hop,Argentina
+251,https://i.scdn.co/image/fc074d287739cca12a89c76fd338ff7d4aa4acee,The Notorious B.I.G.,5me0Irg2ANcsgc93uaYrpb,"9,512,325,088",203,2,19,68,137,"1,076,605,178",Solo - Male,English,Hip-hop,United States of America
+252,https://i.scdn.co/image/16eb3cdae0d824b520ac17710e943a99d3ef6602,Led Zeppelin,36QJpDe2go2KgaRleHCDTp,"9,466,697,209",240,1,20,72,215,0,Group - Male,English,Hard Rock,United Kingdom
+253,https://i.scdn.co/image/ab6761610000f178a0c87c8f329b436eac8b9784,Chris Stapleton,4YLtscXsxbVgi031ovDDdh,"9,398,224,378",82,1,21,73,80,"763,427,786",Solo - Male,English,Country,United States of America
+254,https://i.scdn.co/image/ab6761610000f17890b6c3d093f9b02aad628eaf,Vishal-Shekhar,6Mv8GjQa7LKUGCAqa9qqdb,"9,392,691,298",554,0,27,108,228,"186,698,664",Group - Male,Hindi,Indian Film Music,India
+255,https://i.scdn.co/image/ab6761610000f178b0ff28b9d4bed74c66901b2b,Bryson Tiller,2EMAnMvWE2eb56ToJVfCWs,"9,389,276,789",125,2,17,70,122,"4,183,987,071",Solo - Male,English,R&B,United States of America
+256,https://i.scdn.co/image/ab6761610000f17846d0db8a86fda630ec12401f,Måneskin,0lAWpj5szCSwM4rUMHYmrr,"9,386,208,672",53,2,17,51,52,"18,475,683",Group - Mixed,English,Rock,Italy
+257,https://i.scdn.co/image/ab6761610000f1780fd2a334007fd4a3db1d8316,Zé Neto & Cristiano,487N2T9nIPEHrlTZLL3SQs,"9,345,410,718",257,0,28,132,216,"1,018,022,317",Group - Male,Portuguese,Sertanejo,Brazil
+258,https://i.scdn.co/image/ab6761610000f1780f882273183345499155d6ed,The Lumineers,16oZKvXb6WkQlVAjwo2Wbg,"9,341,456,533",143,2,14,70,104,0,Group - Male,English,Folk,United States of America
+259,https://i.scdn.co/image/ab6761610000f17888b4008513d5de75f95bc0ec,Bring Me The Horizon,1Ffb6ejR6Fe5IamqA5oRUF,"9,297,545,935",191,0,25,97,185,"255,522,522",Group - Male,English,Metal,United Kingdom
+260,https://i.scdn.co/image/ab6761610000f1784ad382f899596d8c7b9e8e09,Nickelback,6deZN1bslXzeGvOLaLMOIF,"9,277,737,257",190,1,20,75,135,"306,818",Group - Male,English,Hard Rock,Canada
+261,https://i.scdn.co/image/ab6761610000f1788e10d05db45e77a86256fc5d,Beéle,7a0XAaPaK2aDSqa8p3QnC7,"9,218,646,344",128,0,24,71,121,"478,782,934",Solo - Male,Spanish,Afrobeats,Colombia
+262,https://i.scdn.co/image/ab6761610000f17882ac2e2dc7ad57d445b544c9,La Arrolladora Banda El Limón De Rene Camacho,5bSfBBCxY8QAk4Pifveisz,"9,192,843,519",419,0,26,107,343,"25,302,290",Ensemble,Spanish,Regional Mexican,Mexico
+263,https://i.scdn.co/image/ab6761610000f178b5496c4b788e181679069ee8,Wisin & Yandel,1wZtkThiXbVNtj6hee6dz9,"9,165,158,913",332,0,29,78,197,"2,834,609,848",Group - Male,Spanish,Reggaeton,Puerto Rico
+264,https://i.scdn.co/image/ab6761610000f178c9aca5b6d4c528caf75e8a1d,Mac DeMarco,3Sz7ZnJQBIHsXLUSo0OQtM,"9,153,091,005",404,2,15,66,254,"144,314,952",Solo - Male,English,Alternative,Canada
+265,https://i.scdn.co/image/ab6761610000f17874f6b85fcea5488edc9f3259,U2,51Blml2LZPmy7TTiAg47vQ,"9,151,027,583",618,1,12,95,341,"500,903,321",Group - Male,English,Rock,Ireland
+266,https://i.scdn.co/image/ab6761610000f178b68234e1a673acc3d873d3e6,Benson Boone,22wbnEMDvgVIAGdFeek6ET,"9,122,454,116",55,3,12,43,52,0,Solo - Male,English,Pop,United States of America
+267,https://i.scdn.co/image/ab6761610000f178aea7377943d0c989fbef4bc7,Luis Fonsi,4V8Sr092TqfHkfAA5fXXqG,"9,110,825,083",263,3,12,56,162,"776,458,604",Solo - Male,Spanish,Pop,Puerto Rico
+268,https://i.scdn.co/image/ab6761610000f1782e23bb599452271e26e79275,Akon,0z4gvV4rjIZ9wHck67ucSV,"9,056,286,747",237,3,14,55,148,"7,019,300,266",Solo - Male,English,R&B,United States of America
+269,https://i.scdn.co/image/ab6761610000f178f357b48e4344812b4e3c336f,Bastille,7EQ0qTo7fWT7DPxmxtSYEc,"9,023,671,152",267,2,13,87,196,"189,444,688",Group - Male,English,Pop,United Kingdom
+270,https://i.scdn.co/image/ab6761610000f178152dcec8175d19fb12eeb8e0,Maná,7okwEbXzyT2VffBmyQBWLz,"9,010,499,495",266,0,24,75,178,"370,541,904",Group - Male,Spanish,Rock,Mexico
+271,https://i.scdn.co/image/ab6761610000f178b485cde5cba6de6e5685278a,Danny Ocean,5H1nN1SzW0qNeUEZvuXjAj,"8,965,240,230",118,1,15,65,108,"459,672,070",Solo - Male,Spanish,Reggaeton,Venezuela
+272,https://i.scdn.co/image/ab6761610000f178b98b3f22cf86542fc1bcfddf,Matheus & Kauan,2Z0lRIqr997lIUiPtrpKCr,"8,956,788,288",275,0,29,140,236,"760,772,177",Group - Male,Portuguese,Sertanejo,Brazil
+273,https://i.scdn.co/image/ab6761610000f178da8c189e3196e1f391568d1f,Ty Dolla $ign,7c0XG5cIJTrrAgEC3ULPiq,"8,932,909,968",237,1,16,104,209,"17,257,839,263",Solo - Male,English,Hip-hop,United States of America
+274,https://i.scdn.co/image/ab6761610000f178a4e2d7045cbcca592ba6c7dd,Chase Atlantic,7cYEt1pqMgXJdq00hAwVpT,"8,885,673,964",91,2,14,77,90,"62,818,526",Group - Male,English,Alternative,Australia
+275,https://i.scdn.co/image/ab6761610000f178f801dfae9ad055c7e8fd33b8,Jonas Blue,1HBjj22wzbscIZ9sEb5dyf,"8,868,796,406",204,3,15,47,126,"375,671,589",Solo - Male,English,Electronic,United Kingdom
+276,https://i.scdn.co/image/ab6761610000f1787dccb6280ed3402110d43ce3,Summer Walker,57LYzLEk2LcFghVwuWbcuS,"8,854,532,040",162,0,21,91,142,"1,543,189,021",Solo - Female,English,R&B,United States of America
+277,https://i.scdn.co/image/ab6761610000f17826e8cb3ff6fc7744b312811b,Troye Sivan,3WGpXCj9YhhfX11TToZcXP,"8,741,574,306",144,0,19,75,117,"1,333,248,715",Solo - Male,English,Pop,Australia
+278,https://i.scdn.co/image/ab6761610000f178c8e4ae1dad1347ca2cfa8a30,Julión Álvarez y su Norteño Banda,1bfl0AU8SqmLkElptOprhC,"8,706,542,570",244,0,25,88,211,"4,163,408",Group - Male,Spanish,Regional Mexican,Mexico
+279,https://i.scdn.co/image/ab6761610000f178a16a11aa5842607c88a8d8a9,Muse,12Chz98pHFMPJEknJQMWvI,"8,706,055,418",278,0,16,118,212,"2,526,182",Group - Male,English,Rock,United Kingdom
+280,https://i.scdn.co/image/ab6761610000f178f6d51e6f5342d2d363220920,Gracie Abrams,4tuJ0bMpJh08umKkEXKUI5,"8,687,180,682",67,2,17,65,66,"152,704,735",Solo - Female,English,Pop,United States of America
+281,https://i.scdn.co/image/ab6761610000f178b34057d59275011032ef8bc8,Billy Joel,6zFYqv1mOsgBRQbae3JJ9e,"8,686,369,350",531,3,15,52,177,"18,986,567",Solo - Male,English,Rock,United States of America
+282,https://i.scdn.co/image/ab6761610000f1782297f6d794be503fc5fd031f,Steve Lacy,57vWImR43h4CaDao012Ofp,"8,655,288,340",52,2,15,44,49,"1,152,273,045",Solo - Male,English,Soul / Motown R&B,United States of America
+283,https://i.scdn.co/image/ab6761610000f178397a7a1c7bbae495a35e8694,Miracle Tones,4rXABp4A7KjG9elWFNAbO4,"8,649,882,819",171,0,18,136,171,0,Solo - Male,Instrumental,Electronic,Sweden
+284,https://i.scdn.co/image/ab6761610000f1787071ddcde7ab1ef2c2b34442,Maria Becerra,1DxLCyH42yaHKGK3cl5bvG,"8,622,877,737",108,0,27,84,104,"1,367,763,541",Solo - Female,Spanish,Pop,Argentina
+285,https://i.scdn.co/image/ab6761610000f178ca118e3822061f7b7f6bc537,Ne-Yo,21E3waRsmPlU7jZsS13rcj,"8,621,553,536",254,2,12,50,158,"5,251,188,103",Solo - Male,English,R&B,United States of America
+286,https://i.scdn.co/image/ab6761610000f178bcb7b5ea25215172d09d4e2e,Yeat,3qiHUAX7zY4Qnjx8TNUzVx,"8,573,875,528",239,0,19,157,213,"968,637,585",Solo - Male,English,Hip-hop,United States of America
+287,https://i.scdn.co/image/ab6761610000f1786b07a040a57d013a7e49f908,Alok,0NGAZxHanS9e0iNHpR8f2W,"8,569,109,778",358,0,25,117,218,"1,028,341,574",Solo - Male,English,Electronic,Brazil
+288,https://i.scdn.co/image/ab6761610000f17835e36c368fdcd26aba296bd1,Miguel,360IAlyVv4PCEVjgyMZrxK,"8,527,337,326",175,1,17,59,147,"4,000,815,964",Solo - Male,English,R&B,United States of America
+289,https://i.scdn.co/image/ab6761610000f178836eb0a7a82eb8f4133ee04d,Florence + The Machine,1moxjboGR7GNWYIMWsRjgG,"8,497,070,578",233,1,14,106,194,"413,016,634",Group - Mixed,English,Alternative,United Kingdom
+290,https://i.scdn.co/image/ab6761610000f17865a9ac943abab7c9935ea282,Megan Thee Stallion,181bsRPaVXVlUKXrxwZfHK,"8,460,479,769",210,0,23,93,160,"4,482,274,359",Solo - Female,English,Hip-hop,United States of America
+291,https://i.scdn.co/image/ab6761610000f1782cf67eda29b21ec665663dba,Oscar Maydon,3l9G1G9MxH6DaRhwLklaf5,"8,430,580,027",105,0,22,67,103,"269,614,702",Solo - Male,Spanish,Regional Mexican,Mexico
+292,https://i.scdn.co/image/ab6761610000f178f7019a4ae65738627db5c56c,Jack Harlow,2LIk90788K0zvyj2JJVwkJ,"8,398,020,559",111,1,15,71,110,"4,048,975,223",Solo - Male,English,Hip-hop,United States of America
+293,https://i.scdn.co/image/ab6761610000f178cd9f60ab57585bf3b77ecc51,Whitney Houston,6XpaIBNiVzIetEPCWDvAFP,"8,386,288,896",339,2,14,58,174,"30,929,845",Solo - Female,English,Pop,United States of America
+294,https://i.scdn.co/image/ab67726900008f74250b3af4b06e1fcf538d398b,Dr. Dre,6DPYiyq5kWVQS4RGwxzPC7,"8,372,718,874",130,3,12,48,107,"4,419,991,933",Solo - Male,English,Hip-hop,United States of America
+295,https://i.scdn.co/image/ab6761610000f1784518cf16a45e35fc0cc82862,Alicia Keys,3DiDSECUqqY1AuBP8qtaIa,"8,347,217,983",461,2,12,70,211,"3,108,226,872",Solo - Female,English,Soul / Motown R&B,United States of America
+296,https://i.scdn.co/image/ab6761610000f17881df2fa2f937029ec986bbb8,Bruce Springsteen,3eqjTLE0HfPfh78zjh6TqT,"8,340,956,140","1,167",1,12,84,492,"189,847,015",Solo - Male,English,Rock,United States of America
+297,https://i.scdn.co/image/ab6761610000f1787844053470fa0a138eec6662,Ninho,6Te49r3A6f5BiIgBRxH7FH,"8,317,591,734",247,0,17,165,229,"2,817,011,749",Solo - Male,French,Hip-hop,France
+298,https://i.scdn.co/image/ab6761610000f178a9e1da6d545e2f5b05878d31,Gabito Ballesteros,6Sbl0NT50roqWvy746MfVf,"8,316,404,462",159,0,20,63,128,"187,511,940",Solo - Male,Spanish,Regional Mexican,Mexico
+299,https://i.scdn.co/image/ab6761610000f178aa2d9bd207a62adc3edf6631,Florida Georgia Line,3b8QkneNDz4JHKKKlLgYZg,"8,265,475,119",141,1,20,69,105,"2,252,236,146",Group - Male,English,Country,United States of America
+300,https://i.scdn.co/image/ab6761610000f178c19a88576ebe6fcbb325c297,Snoop Dogg,7hJcb9fa4alzcOq3EaNPoG,"8,246,173,666",873,1,13,64,380,"13,407,509,536",Solo - Male,English,Hip-hop,United States of America
+301,https://i.scdn.co/image/ab6761610000f17861a229ac35bdd68d42bffe32,Lil Tjay,6jGMq4yGs7aQzuGsMgVgZR,"8,223,971,049",120,0,19,83,114,"3,169,523,580",Solo - Male,English,Hip-hop,United States of America
+302,https://i.scdn.co/image/ab6761610000f178983c9d4a7428701043498acd,Lost Frequencies,7f5Zgnp2spUuuzKplmRkt7,"8,216,153,524",535,2,15,56,195,"226,967,257",Solo - Male,English,Electronic,Belgium
+303,https://i.scdn.co/image/ab6761610000f1780bf3ff1eaa4c0d6d664ccc3f,Jack Johnson,3GBPw9NK25X1Wt2OUvOwY3,"8,208,004,017",244,1,14,109,204,"217,952,066",Solo - Male,English,Rock,United States of America
+304,https://i.scdn.co/image/ab6761610000f178077a808cd0b0ffd30213eb3f,Skrillex,5he5w2lnU9x7JFhnwcekXX,"8,203,291,057",226,1,19,94,206,"3,041,490,353",Solo - Male,English,Electronic,United States of America
+305,https://i.scdn.co/image/ab6761610000f178cea575e8c9519d4367984256,Avril Lavigne,0p4nmQO2msCgU4IF37Wi3j,"8,198,474,355",161,1,14,93,141,"49,699,091",Solo - Female,English,Rock,Canada
+306,https://i.scdn.co/image/ab6761610000f178eb2cc96b0ed023c5e3675b6f,Glass Animals,4yvcSjfu4PC0CYQyLy4wSq,"8,198,304,226",126,1,15,64,102,"7,493,745",Group - Male,English,Alternative,United Kingdom
+307,https://i.scdn.co/image/ab6761610000f17888d7900663b237167c4be332,Roddy Ricch,757aE44tKEUQEqRuT6GnEB,"8,195,521,717",85,1,15,57,82,"5,225,580,347",Solo - Male,English,Hip-hop,United States of America
+308,https://i.scdn.co/image/ab6761610000f1788da3a229445fd3cd896cdd5c,SEVENTEEN,7nqOGRxlXj7N2JYbgNEjYH,"8,193,207,188",225,0,18,169,221,"12,474,655",Group - Male,Korean,K-Pop,South Korea
+309,https://i.scdn.co/image/ab6761610000f1783054c68decf0969f35305ed2,Luke Bryan,0BvkDsjIUla7X0k6CSWh1I,"8,165,996,001",176,0,23,81,148,"640,024,576",Solo - Male,English,Country,United States of America
+310,https://i.scdn.co/image/ab6761610000f17896f049daefd1875282baab0a,Tanishk Bagchi,4f7KfxeHq9BiylGmyXepGt,"8,157,437,082",339,0,30,93,195,"611,472,330",Solo - Male,Hindi,Indian Film Music,India
+311,https://i.scdn.co/image/ab6761610000f178371632043a8c12bb7eeeaf9d,Hans Zimmer,0YC192cP3KPCRWx8zr8MfZ,"8,147,423,222","2,180",0,9,158,789,"157,027,316",Solo - Male,Instrumental,Classical,Germany
+312,https://i.scdn.co/image/ab6761610000f1785e97fb0c8918ed67408f9edc,Kings of Leon,2qk9voo8llSGYcZ6xrBzKx,"8,129,487,319",142,2,14,83,130,0,Group - Male,English,Rock,United States of America
+313,https://i.scdn.co/image/ab6761610000f17872d02b5f21c6364c3d1928d7,Cartel De Santa,07PdYoE4jVRF6Ut40GgVSP,"8,082,057,705",142,0,26,78,137,"654,646,180",Group - Male,Spanish,Hip-hop,Mexico
+314,https://i.scdn.co/image/ab6761610000f178cb08296cca5a2d197caabb79,Jimin,1oSPZhvZMIrWW5I41kPkkY,"8,078,672,900",34,2,18,30,34,0,Solo - Male,Korean,K-Pop,South Korea
+315,https://i.scdn.co/image/ab6761610000f178c8ffe349895414f365db8163,Jonas Brothers,7gOdHgIoIKoe4i9Tta6qdD,"8,032,526,823",183,2,15,70,141,"613,243,777",Group - Male,English,Pop,United States of America
+316,https://i.scdn.co/image/ab6761610000f17801784e44ffd1a339350f4417,John Legend,5y2Xq6xcjJb2jVM54GHK3t,"8,026,460,812",364,1,11,85,230,"3,714,509,372",Solo - Male,English,Soul / Motown R&B,United States of America
+317,https://i.scdn.co/image/ab6761610000f1784a0b21cd87d8a8752fd32e94,The Script,3AQRLZ9PuTAozP28Skbq8V,"7,971,129,719",107,3,8,54,96,"27,767,781",Group - Male,English,Rock,Ireland
+318,https://i.scdn.co/image/ab6761610000f178e3ac5eb948e78d9285d1dbdb,Deftones,6Ghvu1VvMGScGpOUJBAHNH,"7,951,796,512",157,0,18,101,142,"937,196",Group - Male,English,Metal,United States of America
+319,https://i.scdn.co/image/ab6761610000f178d80695211689a9c8c3fee3b0,TV Girl,0Y6dVaC9DZtPNH4591M42W,"7,943,741,417",81,3,11,47,79,0,Group - Mixed,English,Alternative,United States of America
+320,https://i.scdn.co/image/ab6761610000f1782d05ef4037103c9e2a167a3c,Justin Quiles,14zUHaJZo1mnYtn6IBRaRP,"7,941,773,892",236,0,20,96,170,"6,765,727,070",Solo - Male,Spanish,Reggaeton,United States of America
+321,https://i.scdn.co/image/ab6761610000f178be6124fae4b13ca120033ddd,Meek Mill,20sxb77xiYeusSH8cVdatc,"7,916,125,275",283,1,15,110,235,"2,413,028,781",Solo - Male,English,Hip-hop,United States of America
+322,https://i.scdn.co/image/ab6761610000f1780320f28bac81532a14c0349d,Joan Sebastian,7FsRH5bw8iWpSbMX1G7xf1,"7,882,194,194",526,0,18,96,328,"102,321,989",Solo - Male,Spanish,Regional Mexican,Mexico
+323,https://i.scdn.co/image/ab6761610000f178ffb1ffb7c417745cdad67b88,The Offspring,5LfGQac0EIXyAN8aUwmNAQ,"7,879,437,935",197,2,12,66,152,0,Group - Male,English,Rock,United States of America
+324,https://i.scdn.co/image/ab6761610000f1786565fe4d7adf77eef43022a5,Felix Jaehn,4bL2B6hmLlMWnUEZnorEtG,"7,877,744,394",231,1,16,60,150,"136,255,042",Solo - Male,English,Electronic,Germany
+325,https://i.scdn.co/image/ab6761610000f178452691cfa37fdd5b3417ed0d,Alejandro Fernández,6sq1yF0OZEWA4xoXVKW1L9,"7,816,809,810",370,0,21,109,307,"592,655,177",Solo - Male,Spanish,Pop,Mexico
+326,https://i.scdn.co/image/ab6761610000f178c5733401b4689b2064458e7d,Aerosmith,7Ey4PD4MYsKc5I2dolUwbH,"7,800,896,610",336,2,14,38,180,0,Group - Male,English,Hard Rock,United States of America
+327,https://i.scdn.co/image/ab6761610000f178a8e7bd16561a36f5cc42fafa,Alfredo Olivas,5xYNmNkaWRqu3e5F4UXME8,"7,789,590,004",128,0,21,79,124,"526,767,453",Solo - Male,Spanish,Regional Mexican,Mexico
+328,https://i.scdn.co/image/ab6761610000f17820b8c7d395994dc81a85f291,Kelly Clarkson,3BmGtnKgCSGYIUhmivXKWX,"7,751,371,836",359,2,12,65,207,"366,659,685",Solo - Female,English,Pop,United States of America
+329,https://i.scdn.co/image/ab6761610000f178d9b43435c8221a8fe178f65c,Yandel,0eHQ9o50hj6ZDNBt6Ys1sD,"7,732,222,788",287,1,16,85,227,"4,613,893,965",Solo - Male,Spanish,Reggaeton,Puerto Rico
+330,https://i.scdn.co/image/ab6761610000f178f9cf783eb03eb66aa43943ba,Teddy Swims,33qOK5uJ8AR2xuQQAhHump,"7,717,851,619",122,1,12,74,113,"380,392,543",Solo - Male,English,Soul / Motown R&B,United States of America
+331,https://i.scdn.co/image/ab6761610000f1787b3634864a78ab6bd1d77c36,Backstreet Boys,5rSXSAkZ67PYJSvpUpkOr7,"7,710,301,359",175,1,14,58,144,"239,610,406",Group - Male,English,Pop,United States of America
+332,https://i.scdn.co/image/ab6761610000f1784be87c6d504aa62024a87f48,Vance Joy,10exVja0key0uqUkk6LJRT,"7,703,413,169",138,1,12,47,91,"223,736",Solo - Male,English,Pop,Australia
+333,https://i.scdn.co/image/ab6761610000f178bb4064bef3a825344d5eb79e,Sachin-Jigar,1mBydYMVBECdDmMfE2sEUO,"7,694,498,693",479,0,23,87,184,"375,861,603",Group - Male,Hindi,Indian Film Music,India
+334,https://i.scdn.co/image/ab6761610000f178d258ecb0d66244e6300bcf64,Chappell Roan,7GlBOeep6PqTfFi59PTUUN,"7,689,311,561",28,2,13,25,27,0,Solo - Female,English,Pop,United States of America
+335,https://i.scdn.co/image/ab6761610000f178f6469f2cbf0a7e78744a3173,Central Cee,5H4yInM5zmHqpKIoMNAx4r,"7,677,095,649",91,0,18,81,91,"1,662,875,534",Solo - Male,English,Hip-hop,United Kingdom
+336,https://i.scdn.co/image/ab6761610000f17872b4955eb23b46a5ad90f6f2,French Montana,6vXTefBL93Dj5IqAWq6OTv,"7,668,615,404",815,1,11,68,223,"4,590,463,297",Solo - Male,English,Hip-hop,United States of America
+337,https://i.scdn.co/image/c707552215757c7f2dc6071e32d487a3c7b28d3f,Bee Gees,1LZEQNv7sE11VDY3SdxQeN,"7,628,886,074",421,2,12,52,141,"163,004,783",Group - Male,English,Pop,United Kingdom
+338,https://i.scdn.co/image/ab6761610000f178e1b4af6dd9cad1b03d03218d,Phil Collins,4lxfqrEsLX6N1N4OCSkILp,"7,594,769,613",345,0,16,55,182,"230,500,192",Solo - Male,English,Pop,United Kingdom
+339,https://i.scdn.co/image/ab6761610000f1783d5b14b45d4c3d10d23b03ff,Big Sean,0c173mlxpT3dSFRgMO8XPh,"7,583,389,423",194,0,17,82,159,"8,329,494,122",Solo - Male,English,Hip-hop,United States of America
+340,https://i.scdn.co/image/ab6761610000f17874812095163769ef3b9d9df3,Dalex,0KPX4Ucy9dk82uj4GpKesn,"7,568,334,378",227,0,16,54,136,"2,132,752,485",Solo - Male,Spanish,Reggaeton,United States of America
+341,https://i.scdn.co/image/ab6761610000f178a6b5085fa84ce968ca556162,Alejandro Sanz,5sUrlPAHlS9NEirDB8SEbF,"7,538,671,843",440,0,16,89,270,"1,255,348,442",Solo - Male,Spanish,Pop,Spain
+342,https://i.scdn.co/image/ab6761610000f1787215ccc01c6b8f0fc59adebb,Neton Vega,6pV5zH2LzjOUHaAvENdMMa,"7,533,949,514",72,0,19,54,72,"699,836,229",Solo - Male,Spanish,Regional Mexican,Mexico
+343,https://i.scdn.co/image/ab6761610000f1783faf416d3be99d63fec18baa,Disclosure,6nS5roXSAGhTGr34W6n7Et,"7,528,266,191",223,2,13,69,162,"48,135,948",Group - Male,English,Electronic,United Kingdom
+344,https://i.scdn.co/image/ab6761610000f1780767e116a2307495e37cd7fb,Eagles,0ECwFtbIWEVNwjlrfc6xoL,"7,502,331,993",189,1,17,51,147,0,Group - Male,English,Rock,United States of America
+345,https://i.scdn.co/image/ab6761610000f17872248a25156ff63db20ed716,Calibre 50,4jogXSSvlyMkODGSZ2wc2P,"7,496,502,449",313,0,21,96,201,"441,298,447",Group - Male,Spanish,Regional Mexican,Mexico
+346,https://i.scdn.co/image/05489744160e3f6f94f707fa1e2a6d4bbd14a298,Stevie Wonder,7guDJrEfX3qb6FEbdPA5qi,"7,484,174,933",663,0,20,64,191,"591,096,973",Solo - Male,English,Soul / Motown R&B,United States of America
+347,https://i.scdn.co/image/ab6761610000f1782f23c7e361cef62490f44057,Dave,6Ip8FS7vWT1uKkJSweANQK,"7,480,966,272",79,1,22,73,79,"456,314,452",Solo - Male,English,Hip-hop,United Kingdom
+348,https://i.scdn.co/image/ab6761610000f1782ceb023b10da17590878e88c,Amy Winehouse,6Q192DXotxtaysaqNPy5yR,"7,462,044,252",163,1,14,57,122,"880,828,376",Solo - Female,English,Soul / Motown R&B,United Kingdom
+349,https://i.scdn.co/image/ab6761610000f1781c43cbfb50d7ac393df96ae5,Kesha,6LqNN22kT3074XbTVUrhzX,"7,458,182,386",192,2,13,56,141,"3,894,343,664",Solo - Female,English,Pop,United States of America
+350,https://i.scdn.co/image/8a1432cf84817d709bc7d78205ec772146e822d1,Plan B,2jSGzJw0ebJLu7OLVSOcBP,"7,453,978,744",95,1,16,40,76,"2,091,146,386",Group - Male,Spanish,Reggaeton,Puerto Rico
+351,https://i.scdn.co/image/e7a6ecc704516f1bdc3ff67e96fb51435ebeebbb,The Police,5NGO30tJxFlKixkPSgXcFE,"7,450,532,947",190,1,9,28,96,"174,502",Group - Male,English,Alternative,United Kingdom
+352,https://i.scdn.co/image/ab6761610000f1782e619cf7c1577485d14c2043,Three Days Grace,2xiIXseIJcq3nG7C8fHeBj,"7,448,671,898",109,1,14,82,109,"908,495",Group - Male,English,Hard Rock,Canada
+353,https://i.scdn.co/image/ab6761610000f1788674f92cf33931fa4cd298c2,Rod Wave,45TgXXqMDdF8BkjA83OM7z,"7,428,267,554",192,0,18,154,192,"268,257,407",Solo - Male,English,Hip-hop,United States of America
+354,https://i.scdn.co/image/ab6761610000f178b9b77f64bd278ffde2c94428,Gucci Mane,13y7CgLHjMVRMDqxdx0Xdo,"7,424,529,297","2,339",1,8,113,446,"7,073,709,051",Solo - Male,English,Hip-hop,United States of America
+355,https://i.scdn.co/image/ab6761610000f1785942de17bb5b5951b178929d,Avenged Sevenfold,0nmQIMXWTXfhgOBdNzhGOs,"7,424,291,890",178,0,19,90,157,"5,971,993",Group - Male,English,Metal,United States of America
+356,https://i.scdn.co/image/ab6761610000f178e83f3be9f66d84bfd7afba29,Bibi Blocksberg,3t2iKODSDyzoDJw7AsD99u,"7,418,959,108","6,186",0,1,1,"3,888",0,Audiobook,German,Non music,Germany
+357,https://i.scdn.co/image/ab6761610000f178c3b137793230f4043feb0089,The Strokes,0epOFNiUfyON9EYx7Tpr6V,"7,405,910,401",87,0,16,72,82,"4,003,544",Group - Male,English,Rock,United States of America
+358,https://i.scdn.co/image/ab6761610000f17818d0ae87d123dae4de445c0f,Vicente Fernández,4PPoI9LuYeFX8V674Z1R6l,"7,401,709,907",910,0,17,109,459,"236,639,735",Solo - Male,Spanish,Regional Mexican,Mexico
+359,https://i.scdn.co/image/d3a2542f2811b5b01ee3483ec7c193f72a882ea1,The Smiths,3yY2gUcIsjMr8hjo51PoJ8,"7,401,265,759",129,1,14,65,121,0,Group - Male,English,Alternative,United Kingdom
+360,https://i.scdn.co/image/ab6761610000f1788dae71b664393f38ba91f891,NewJeans,6HvZYsbFfjnjFrWF950C9d,"7,395,759,618",39,0,16,26,39,"1,669,751",Group - Female,Korean,K-Pop,South Korea
+361,https://i.scdn.co/image/ab6761610000f17800fe341805b27976b4302be0,Mumford & Sons,3gd8FJtBJtkRxdfbTu19U2,"7,394,107,049",145,0,18,78,137,"39,540,584",Group - Male,English,Folk,United Kingdom
+362,https://i.scdn.co/image/ab6761610000f178c39af2ce1337734a4cadadaf,Ricardo Arjona,0h1zs4CTlU9D2QtgPxptUD,"7,378,404,867",372,0,17,122,346,"13,591,799",Solo - Male,Spanish,Pop,Guatemala
+363,https://i.scdn.co/image/ab6761610000f1788d751eb2c4670d689d23734e,Los Ángeles Azules,0ZCO8oVkMj897cKgFH7fRW,"7,375,891,121",363,0,16,87,168,"11,372,505",Group - Mixed,Spanish,Tropical,Mexico
+364,https://i.scdn.co/image/ab6761610000f178efb9255bbd0acdcd6a32accb,Eslabon Armado,0XeEobZplHxzM9QzFQWLiR,"7,374,726,782",144,1,16,93,138,"379,378,917",Group - Male,Spanish,Regional Mexican,United States of America
+365,https://i.scdn.co/image/ab6761610000f1784bdaa8c5e65b64f50549c393,Dire Straits,0WwSkZ7LtFUFjGjMZBMt6T,"7,345,283,937",166,1,13,62,107,0,Group - Male,English,Rock,United Kingdom
+366,https://i.scdn.co/image/ab6761610000f1786823b6df396ecf49931e34a1,Disturbed,3TOqt5oJwL9BE2NG9MEwDa,"7,302,735,606",218,0,12,98,161,0,Group - Male,English,Metal,United States of America
+367,https://i.scdn.co/image/ab6761610000f178a0d42a558309507a6a3b3311,Tainy,0GM7qgcRCORpGnfcN2tCiB,"7,287,387,596",84,2,12,45,60,"2,021,633,519",Solo - Male,Spanish,Reggaeton,Puerto Rico
+368,https://i.scdn.co/image/ab6761610000f178e431fb8ba17cdee73e4ce08a,Pearl Jam,1w5Kfo2jwwIPruYS2UWh56,"7,265,111,134","4,103",0,11,68,279,"22,064,662",Group - Male,English,Hard Rock,United States of America
+369,https://i.scdn.co/image/ab6761610000f178954fa7ee5108a613c3f27edc,Jess Glynne,4ScCswdRlyA23odg9thgIO,"7,251,660,691",132,2,11,38,84,"388,068,803",Solo - Female,English,Pop,United Kingdom
+370,https://i.scdn.co/image/ab6761610000f17857082fd22d755e80a648fac3,Kehlani,0cGUm45nv7Z6M6qdXYQGTX,"7,191,469,458",164,0,16,90,151,"3,182,056,996",Solo - Non-Binary,English,R&B,United States of America
+371,https://i.scdn.co/image/ab6761610000f178bd8cf1e9c629ebf19cf76c48,Cris Mj,1Yj5Xey7kTwvZla8sqdsdE,"7,170,624,966",142,1,18,84,135,"3,521,494,168",Solo - Male,Spanish,Reggaeton,Chile
+372,https://i.scdn.co/image/ab6761610000f178ca1568791bf7ac0cf34dbc66,Rae Sremmurd,7iZtZyCzp3LItcw1wtPI3D,"7,169,469,669",78,1,13,52,77,"648,299,304",Solo - Male,English,Hip-hop,United States of America
+373,https://i.scdn.co/image/ab6761610000f178b3b564455dec95d51176e8a1,Jennifer Lopez,2DlGxzQSjYe5N6G9nkYghR,"7,146,476,536",362,0,17,60,174,"1,720,849,570",Solo - Female,English,Pop,United States of America
+374,https://i.scdn.co/image/ab6761610000f1781e7f796a17c2dc3c28bdeeb9,Five Finger Death Punch,5t28BP42x2axFnqOOMg3CM,"7,116,320,187",190,0,17,114,161,0,Solo - Male,English,Metal,United States of America
+375,https://i.scdn.co/image/ab6761610000f178e2c985e8509fc8788a5a5208,NLE Choppa,0ErzCpIMyLcjPiwT4elrtZ,"7,102,169,438",319,0,19,77,194,"1,921,307,977",Solo - Male,English,Hip-hop,United States of America
+376,https://i.scdn.co/image/ab6761610000f178f2f2bac430fcc17842ce69a6,NAV,7rkW85dBwwrJtlHRDkJDAC,"7,088,389,633",161,1,13,90,158,"1,518,646,919",Solo - Male,English,Hip-hop,Canada
+377,https://i.scdn.co/image/ab6761610000f1783c2f1ba4c1a3de141e63d775,Macklemore & Ryan Lewis,5BcAKTbp20cv7tC5VqPFoC,"7,051,965,406",48,2,7,34,48,"1,295,825",Group - Male,English,Hip-hop,United States of America
+378,https://i.scdn.co/image/ab6761610000f17896287bd47570ff13f0c01496,Anderson .Paak,3jK9MiCrA42lLAdMGUZpwa,"7,038,110,252",188,1,12,87,156,"2,294,663,040",Solo - Male,English,Hip-hop,United States of America
+379,https://i.scdn.co/image/ab6761610000f17843f8f52ac55da2d54fc8fdca,TINI,7vXDAI8JwjW531ouMGbfcp,"7,029,734,587",121,0,20,68,109,"1,084,352,294",Solo - Female,Spanish,Pop,Argentina
+380,https://i.scdn.co/image/ab6761610000f1782360c963315739fc33b01687,Tove Lo,4NHQUGzhtTLFvgF5SZesLK,"7,012,765,197",196,1,8,88,142,"1,796,802,470",Solo - Female,English,Pop,Sweden
+381,https://i.scdn.co/image/ab6761610000f1786ce83e3425a74cb9d6bdb1dc,Prince Royce,3MHaV05u0io8fQbZ2XPtlC,"6,976,288,118",178,0,20,76,162,"2,105,131,625",Solo - Male,Spanish,Tropical,United States of America
+382,https://i.scdn.co/image/ab6761610000f1784804c4a44c85afea1a72d1bd,Clairo,3l0CmX0FuQjFxr8SK7Vqag,"6,973,650,532",58,0,13,51,58,"1,445,489,968",Solo - Female,English,Alternative,United States of America
+383,https://i.scdn.co/image/ab6761610000f178901ccc452604c427ef5f202f,Rex Orange County,7pbDxGE6nQSZVfiFdq9lOL,"6,970,321,314",79,0,13,51,79,"521,314,535",Solo - Male,English,Alternative,United Kingdom
+384,https://i.scdn.co/image/ab6761610000f1784a69ef1c3d566709985ce452,Christina Aguilera,1l7ZsJRRS8wlW3WfJfPfNS,"6,962,066,557",316,1,16,65,187,"3,992,361,043",Solo - Female,English,Pop,United States of America
+385,https://i.scdn.co/image/ab6761610000f178995bc0b7ca4dcbfe2adb7905,Ryan Lewis,4myTppRgh0rojLxx8RycOp,"6,938,036,420",34,2,7,32,33,"47,274,080",Solo - Male,English,Hip-hop,United States of America
+386,https://i.scdn.co/image/ab6761610000f178c3b380448158e7b6e5863cde,Céline Dion,4S9EykWXhStSc15wEx8QFK,"6,936,808,926",505,0,14,82,315,"214,061,901",Solo - Female,English,Pop,Canada
+387,https://i.scdn.co/image/ab6761610000f1782403c5e6acee38b042033062,Rita Ora,5CCwRZC6euC8Odo6y9X8jr,"6,915,023,304",191,0,15,50,119,"1,012,194,619",Solo - Female,English,Pop,United Kingdom
+388,https://i.scdn.co/image/ab6761610000f1788a4c60d0eebe893f72e42979,Karan Aujla,6DARBhWbfcS9E4yJzcliqQ,"6,876,154,075",171,0,19,96,138,"216,567,203",Solo - Male,Punjabi,Hip-hop,India
+389,https://i.scdn.co/image/ab6761610000f178d5222dc17c903bf3e236e0e3,Blessd,1TA5sGRlKUJXBN4ZyJuDIX,"6,870,848,183",168,0,16,96,161,"835,622,587",Solo - Male,Spanish,Reggaeton,Colombia
+390,https://i.scdn.co/image/ab6761610000f178a8e3627e392a1d8f539cb575,JENNIE,250b0Wlc5Vk0CoUsaCY84M,"6,855,611,046",36,1,11,27,29,"81,836,379",Solo - Female,English,K-Pop,South Korea
+391,https://i.scdn.co/image/ab6761610000f17892c352a742a1452b5a639815,Dean Lewis,3QSQFmccmX81fWCUSPTS7y,"6,851,385,427",115,1,12,48,95,"171,562,602",Solo - Male,English,Pop,Australia
+392,https://i.scdn.co/image/ab6761610000f178f8e7a2d1a01fd98e43ee57dc,6LACK,4IVAbR2w4JJNJDDRFP3E83,"6,825,673,106",185,0,13,74,116,"2,129,613,292",Solo - Male,English,Hip-hop,United States of America
+393,https://i.scdn.co/image/ab6761610000f178291068247978a7f2bdc0120d,Jason Aldean,3FfvYsEGaIb52QPXhg4DcH,"6,813,315,467",212,0,20,96,180,"247,745,183",Solo - Male,English,Country,United States of America
+394,https://i.scdn.co/image/ab6761610000f17877144f838397a467e807df65,GIMS,0GOx72r5AAEKRGQFn3xqXK,"6,798,691,430",253,0,15,94,232,"832,970,698",Solo - Male,French,Hip-hop,France
+395,https://i.scdn.co/image/ab6761610000f178d19c0a4b9bdef344dd7efcbf,Wesley Safadão,1AL2GKpmRrKXkYIcASuRFa,"6,789,657,520",498,0,18,119,425,"811,590,565",Solo - Male,Portuguese,Sertanejo,Brazil
+396,https://i.scdn.co/image/ab6761610000f1783720de93c4193c43bab78b7f,ENHYPEN,5t5FqBwTcgKTaWmfEbwQY9,"6,781,795,608",156,0,18,92,122,"494,133",Group - Male,Korean,K-Pop,South Korea
+397,https://i.scdn.co/image/ab6761610000f178f2ce0f1899ab2bf14a4eb286,6ix9ine,7gZfnEnfiaHzxARJ2LeXrf,"6,769,370,092",79,0,16,43,75,"1,368,098,777",Solo - Male,English,Hip-hop,United States of America
+398,https://i.scdn.co/image/ab6761610000f178b1b325e2081e6afbfb6e7569,Niall Horan,1Hsdzj7Dlq2I7tHP7501T4,"6,760,416,914",126,2,12,54,93,"1,248,174,490",Solo - Male,English,Pop,Ireland
+399,https://i.scdn.co/image/ab6761610000f1789a02a042b56cfa1452beb459,Piso 21,4bw2Am3p9ji3mYsXNXtQcd,"6,743,462,244",140,1,15,47,105,"1,113,056,192",Group - Male,Spanish,Pop,Colombia
+400,https://i.scdn.co/image/ab6761610000f1789333e218db341b192817db03,Bryan Adams,3Z02hBLubJxuFJfhacLSDc,"6,724,540,840",512,2,10,49,180,"271,228,448",Solo - Male,English,Rock,Canada
+401,https://i.scdn.co/image/ab6761610000f178c3b370fc26c83312db52af14,Jason Mraz,4phGZZrJZRo4ElhRtViYdl,"6,717,930,511",279,2,6,60,173,"158,328,302",Solo - Male,English,Pop,United States of America
+402,https://i.scdn.co/image/ab6761610000f1789e339e423b680759b0006a63,benny blanco,5CiGnKThu5ctn9pBxv7DGa,"6,716,492,532",44,1,13,27,42,"100,285,913",Solo - Male,English,Pop,United States of America
+403,https://i.scdn.co/image/ab6761610000f1781c81416bbbfe539adb9d7050,TOMORROW X TOGETHER,0ghlgldX5Dd6720Q3qFyQB,"6,716,385,210",147,0,19,100,139,"54,904,216",Group - Male,Korean,K-Pop,South Korea
+404,https://i.scdn.co/image/ab6761610000f1788d54cd36e5e639bf4d4f5583,Jay Wheeler,2cPqdH7XMvwaBJEVjheH8g,"6,716,264,237",246,1,16,90,220,"1,016,827,541",Solo - Male,Spanish,Reggaeton,Puerto Rico
+405,https://i.scdn.co/image/ab6761610000f178daf1894b7edbfe3376d397d9,Thomas Rhett,6x2LnllRG5uGarZMsD4iO8,"6,697,202,051",206,0,21,78,146,"353,847,521",Solo - Male,English,Country,United States of America
+406,https://i.scdn.co/image/ab6761610000f1786967a2af978373dac3b01b2b,Bazzi,4GvEc3ANtPPjt1ZJllr5Zl,"6,665,563,467",72,1,14,41,67,"106,999,987",Solo - Male,English,Pop,United States of America
+407,https://i.scdn.co/image/ab6761610000f1785af962a543938243f083cbb9,Alec Benjamin,5IH6FPUwQTxPSXurCrcIov,"6,635,732,121",78,1,13,45,72,"25,617",Solo - Male,English,Pop,United States of America
+408,https://i.scdn.co/image/ab6761610000f178bcf0a0b7d6dabc8f6376f045,Calum Scott,6ydoSd3N2mwgwBHtF6K7eX,"6,577,304,128",113,3,7,40,94,"396,505,439",Solo - Male,English,Pop,United Kingdom
+409,https://i.scdn.co/image/ab6761610000f178ce58b196dad2c3170f954f53,Kevin Gates,1gPhS1zisyXr5dHTYZyiMe,"6,540,113,465",419,0,9,141,309,"1,176,158,398",Solo - Male,English,Hip-hop,United States of America
+410,https://i.scdn.co/image/ab6761610000f178282bed40bfeb28455afeeed2,Los Temerarios,3YbOSxo85kla7RID8ugnW3,"6,529,766,925",319,0,18,92,164,"348,035",Group - Male,Spanish,Pop,Mexico
+411,https://i.scdn.co/image/ab6761610000f1787588597dfd7ebcb857b8dc5e,Grupo Marca Registrada,1gW6pz5n1aK249L0GvfQCC,"6,519,843,578",380,0,17,78,215,"199,983,405",Group - Male,Spanish,Regional Mexican,Mexico
+412,https://i.scdn.co/image/ab6761610000f17829af2ffb6f4ddd6324f878bc,Korn,3RNrq3jvMZxD9ZyoOZbQOD,"6,512,439,363",303,0,13,79,235,"20,321,295",Group - Male,English,Metal,United States of America
+413,https://i.scdn.co/image/ab6761610000f178f0789cd783c20985ec3deb4e,Pharrell Williams,2RdwBSPQiwcmiDo9kixcl8,"6,509,016,933",146,2,12,42,85,"8,872,400,906",Solo - Male,English,Soul / Motown R&B,United States of America
+414,https://i.scdn.co/image/ab6761610000f17833c342a253daee2d1c9d5931,Milo j,19HM5j0ULGSmEoRcrSe5x3,"6,508,622,833",111,0,18,79,92,"715,115,552",Solo - Male,Spanish,Hip-hop,Argentina
+415,https://i.scdn.co/image/ab6761610000f17860f60edeaa78efbf3d335b2c,Armin van Buuren,0SfsnGyD8FpIN4U4WCkBZ5,"6,491,596,985","10,901",0,9,103,535,"319,791,022",Solo - Male,English,Electronic,Netherlands
+416,https://i.scdn.co/image/ab6761610000f178d5c8cd0d841b6998fde26a99,Marc Anthony,4wLXwxDeWQ8mtUIRPxGiD6,"6,477,447,651",222,0,13,85,171,"3,045,389,950",Solo - Male,Spanish,Tropical,United States of America
+417,https://i.scdn.co/image/ab6761610000f1786cde43f126518af0ef8eddc2,Alessia Cara,2wUjUUtkb5lvLKcGKsKqsR,"6,477,206,953",162,1,9,46,106,"5,761,193,083",Solo - Female,English,Pop,Canada
+418,https://i.scdn.co/image/ab6761610000f178dd427c765c409ec02dc3a868,The Cure,7bu3H8JO7d0UbMoVzbo70s,"6,471,152,969",653,1,10,58,267,"3,120,303",Group - Male,English,Alternative,United Kingdom
+419,https://i.scdn.co/image/ab6761610000f178fa844599a8631cca451a93e5,Zion & Lennox,21451j1KhjAiaYKflxBjr1,"6,445,605,281",211,1,14,55,125,"5,880,281,909",Group - Male,Spanish,Reggaeton,Puerto Rico
+420,https://i.scdn.co/image/ab6761610000f17828a25297f5580906f6be7b79,Luan Santana,3qvcCP2J0fWi0m0uQDUf6r,"6,441,559,027",315,0,19,102,272,"796,425,821",Solo - Male,Portuguese,Sertanejo,Brazil
+421,https://i.scdn.co/image/ab6761610000f17826b71e79bead8d2481411ae6,Juan Gabriel,2MRBDr0crHWE5JwPceFncq,"6,435,044,902",563,0,15,98,314,"209,133,220",Solo - Male,Spanish,Pop,Mexico
+422,https://i.scdn.co/image/ab6761610000f1782f0129f850e50486a7c849b8,Lizzo,56oDRnqbIiwx4mymNEv7dS,"6,428,028,395",99,1,13,43,76,"88,570,315",Solo - Female,English,R&B,United States of America
+423,https://i.scdn.co/image/ab6761610000f17889633578648b0b51f53d167f,Tom Odell,2txHhyCwHjUEpJjWrEyqyX,"6,426,147,359",168,1,8,39,130,"536,562,296",Solo - Male,English,Pop,United Kingdom
+424,https://i.scdn.co/image/ab6761610000f17894a8326675bfcafb20f0a235,Johnny Cash,6kACVPfCOnqzgfEF5ryl0x,"6,402,493,784","1,702",0,12,85,362,"794,946,020",Solo - Male,English,Country,United States of America
+425,https://i.scdn.co/image/ab6761610000f1788218332656745840f9ed0a50,LANY,49tQo2QULno7gxHutgccqF,"6,396,692,916",127,0,15,87,123,"588,185,221",Group - Male,English,Alternative,United States of America
+426,https://i.scdn.co/image/ab6761610000f178fe613747ea3666f4c75b9884,Train,3FUY2gzHeIiaesXtOAdB7A,"6,395,968,912",225,3,9,24,100,"20,580,007",Group - Male,English,Rock,United States of America
+427,https://i.scdn.co/image/ab6761610000f178124e69a915968e8648d3bfce,RAF Camora,0Dvx6p8JDyzeOPGmaCIH1L,"6,388,587,078",471,0,13,132,244,"1,230,362,171",Solo - Male,German,Hip-hop,Austria
+428,https://i.scdn.co/image/ab6761610000f1784da4a196cc973f65b68fe67b,YNW Melly,1cNDP5yjU5vjeR8qMf4grg,"6,387,794,860",94,1,12,45,89,"520,002,780",Solo - Male,English,Hip-hop,United States of America
+429,https://i.scdn.co/image/ab6761610000f178893d346288179a0ba471acc9,Ana Castela,2CKOmarVWvWqkNWUatHCex,"6,383,360,813",146,0,20,73,111,"1,324,898,675",Solo - Female,Portuguese,Sertanejo,Brazil
+430,https://i.scdn.co/image/ab6761610000f178e45baead32e4991a74dc9454,Kane Brown,3oSJ7TBVCWMDMiYjXNiCKE,"6,362,719,759",146,0,14,72,124,"912,671,129",Solo - Male,English,Country,United States of America
+431,https://i.scdn.co/image/67ab66b1154c3115005086d60853fc954717a2ea,Limp Bizkit,165ZgPlLkK7bf5bDoFc6Sb,"6,358,948,192",144,1,10,52,116,"5,790,466",Group - Male,English,Metal,United States of America
+432,https://i.scdn.co/image/ab6761610000f178de2e2ac1d53fdf9518354798,RAYE,5KKpBU5eC2tJDzf0wmlRp2,"6,350,009,723",182,2,9,58,138,"2,401,521,820",Solo - Female,English,Pop,United Kingdom
+433,https://i.scdn.co/image/ab6761610000f178d2ce0bf5614b54bd44e059d5,Nelly Furtado,2jw70GZXlAI8QzWeY2bgRc,"6,337,800,148",252,3,7,27,93,"774,636,997",Solo - Female,English,Pop,Canada
+434,https://i.scdn.co/image/ab6761610000f178417db49cde3ed1c5a65e3514,H.E.R.,3Y7RZ31TRPVadSFVy1o8os,"6,310,952,331",120,1,11,69,102,"1,058,250,684",Solo - Female,English,R&B,United States of America
+435,https://i.scdn.co/image/ab6761610000f178e80d1ffb81aa6503ad41c574,League of Legends,47mIJdHORyRerp4os813jD,"6,305,246,790",625,0,19,63,211,"4,037,377,761",Brand,English,Pop,United States of America
+436,https://i.scdn.co/image/ab6761610000f1780cb3f95b9f8f7337e135a925,Outkast,1G9G7WwrXka3Z1r7aIDjI7,"6,284,222,569",212,2,8,40,137,"294,867,335",Group - Male,English,Hip-hop,United States of America
+437,https://i.scdn.co/image/ab6761610000f1788135b474ec66b7fe6abea851,Maiara & Maraisa,59jlthNnbmim5l9tmNA7se,"6,283,355,165",232,0,21,94,209,"1,195,275,682",Group - Female,Portuguese,Sertanejo,Brazil
+438,https://i.scdn.co/image/ab6761610000f1785912045be22cb4a0761adbb0,Bibi und Tina,2x8vG4f0HYXzMEo3xNsoiI,"6,277,715,588","4,588",0,1,22,"2,982",0,Audiobook,German,Non music,Germany
+439,https://i.scdn.co/image/ab6761610000f178893d6ee4bb02e21096e1114d,Die drei !!!,2Jc4AEeBTE47KwuKgYOtcL,"6,272,857,908","4,408",0,0,3,"3,437",0,Audiobook,German,Non music,Germany
+440,https://i.scdn.co/image/ab67726900008f74ffdb43fbb983b2c991cc3685,Nelly,2gBjLmx6zQnFGQJCAQpRgw,"6,229,543,232",210,1,13,37,111,"980,894,355",Solo - Male,English,Hip-hop,United States of America
+441,https://i.scdn.co/image/ab6761610000f1787bda087d6fb48d481efd3344,Galantis,4sTQVOfp9vEMCemLw50sbu,"6,208,885,009",326,1,10,69,190,"116,010,530",Group - Male,English,Electronic,Sweden
+442,https://i.scdn.co/image/ab6761610000f178d1a725f75427ad3c3062dae2,Lin-Manuel Miranda,4aXXDj9aZnlshx7mzj3W1N,"6,208,051,481",109,0,28,48,88,"59,345,610",Solo - Male,English,Musical,United States of America
+443,https://i.scdn.co/image/ab6761610000f1781306b2b87b62721032d33004,Los Tigres Del Norte,3hYtANQYrE6pd2PbtEyTIy,"6,207,760,128",683,0,15,93,370,"354,692,942",Group - Male,Spanish,Regional Mexican,United States of America
+444,https://i.scdn.co/image/ab6761610000f178c751deb23ed62e7cadfb669a,Laufey,7gW0r5CkdEUMm42w9XpyZO,"6,205,380,245",111,1,14,69,108,"60,329,641",Solo - Female,English,Jazz / Swing,Iceland
+445,https://i.scdn.co/image/ab6761610000f178ee632cde061121a5fe48c1d6,d4vd,5y8tKLUfMvliMe8IKamR32,"6,181,386,732",62,2,6,39,60,"22,318,387",Solo - Male,English,Alternative,United States of America
+446,https://i.scdn.co/image/ab6761610000f178be936a26ceb9cbbdec7df15b,George Ezra,2ysnwxxNtSgbb9t1m2Ur4j,"6,167,091,827",88,2,10,48,74,"42,535",Solo - Male,English,Folk,United Kingdom
+447,https://i.scdn.co/image/ab6761610000f178a961383967f3a3a54e794a15,Hailee Steinfeld,5p7f24Rk5HkUZsaS3BLG5F,"6,154,646,807",37,2,11,23,33,"702,564,631",Solo - Female,English,Pop,United States of America
+448,https://i.scdn.co/image/ab6761610000f1783afda6e209cde491e2ec3ace,Lenny Tavárez,1pQWsZQehhS4wavwh7Fnxd,"6,148,897,073",156,0,13,62,123,"7,719,472,596",Solo - Male,Spanish,Reggaeton,Puerto Rico
+449,https://i.scdn.co/image/ab6761610000f1780c387e6ddb399d55a8e51341,José José,4mN0qcMxWX8oToqfDPM5yV,"6,122,343,034",515,0,17,70,328,"334,921,998",Solo - Male,Spanish,Pop,Mexico
+450,https://i.scdn.co/image/ab6761610000f17886c7c38d4c8c461dba55035c,Lil Yachty,6icQOAFXDZKsumw3YXyusw,"6,063,143,006",255,0,15,98,223,"7,067,443,927",Solo - Male,English,Hip-hop,United States of America
+451,https://i.scdn.co/image/ab6761610000f1787c0578274e203f069f5f411c,Soda Stereo,7An4yvF7hDYDolN4m5zKBp,"6,044,903,495",202,0,11,82,186,"151,477",Group - Male,Spanish,Rock,Argentina
+452,https://i.scdn.co/image/ab6761610000f1780d4d3bb72e9375017fd94f71,Lord Huron,6ltzsmQQbmdoHHbLZ4ZN25,"6,035,562,237",98,1,6,42,86,0,Group - Male,English,Folk,United States of America
+453,https://i.scdn.co/image/ab6761610000f1788d20b240a306b76178f9f88c,Calmly,5OWksQm7ONWIGZqMXovSli,"6,022,678,125",171,0,1,132,159,0,N/A,TBD,Non music,Australia
+454,https://i.scdn.co/image/ab6761610000f178b4cd562b2dfbfb953c45e881,Nicki Nicole,2UZIAOlrnyZmyzt1nuXr9y,"6,002,144,788",92,0,20,68,92,"1,155,323,248",Solo - Female,Spanish,Hip-hop,Argentina
+455,https://i.scdn.co/image/ab6761610000f178105cc9628c315b29d299fbb4,Mark Ronson,3hv9jJF3adDNsBSIQDqcjp,"5,992,371,053",205,2,5,33,99,"1,923,679,742",Solo - Male,English,Pop,United Kingdom
+456,https://i.scdn.co/image/ab6761610000f178ebd0610816b0a89f40cdb4c2,Jhené Aiko,5ZS223C6JyBfXasXxrRqOk,"5,991,715,531",121,0,13,84,111,"4,529,115,325",Solo - Female,English,R&B,United States of America
+457,https://i.scdn.co/image/ab6761610000f17821b75feae67bdf60ecf2eed2,Sfera Ebbasta,23TFHmajVfBtlRx5MXqgoz,"5,974,256,969",143,0,20,107,127,"3,233,257,535",Solo - Male,Italian,Hip-hop,Italy
+458,https://i.scdn.co/image/ab6761610000f178766df8f443e0160f7b35545d,Cage The Elephant,26T3LtbuGT1Fu9m0eRq5X3,"5,967,396,546",126,1,9,59,100,0,Group - Male,English,Alternative,United States of America
+459,https://i.scdn.co/image/ab6761610000f17868f34b7f256e21cd1679d4fe,Grupo Menos É Mais,6vTqEFbTtTRJsuIpzZgjxi,"5,957,971,272",172,0,14,95,164,"518,628,183",Group - Male,Portuguese,Samba / Pagode,Brazil
+460,https://i.scdn.co/image/ab6761610000f17886b13e4d2e65ebf694384ef4,John Williams,3dRfiJ2650SZu6GbydcHNb,"5,957,365,077","2,735",1,5,71,447,"104,757,532",Solo - Male,Instrumental,Classical,United States of America
+461,https://i.scdn.co/image/ab6761610000f178a9ee173e9fbacd3273fe5381,White Noise Radiance,0QUBaF6Rtta4TTmxYYfzux,"5,936,090,129","4,157",0,6,87,297,"57,511,825",N/A,Instrumental,Non music,United Kingdom
+462,https://i.scdn.co/image/aa28a931be2da1c33411b0d6c106bcf6e3d17de7,Marvin Gaye,3koiLjNrgRTNbOwViDipeA,"5,928,266,641",864,1,8,42,165,"86,566,399",Solo - Male,English,Soul / Motown R&B,United States of America
+463,https://i.scdn.co/image/ab6761610000f178e848dfb35ea4969099662dfd,Journey,0rvjqX7ttXeg3mTy8Xscbt,"5,926,994,982",276,1,9,25,114,"124,140",Group - Male,English,Rock,United States of America
+464,https://i.scdn.co/image/ab6761610000f17878be1444357da95706de5d12,Morad,4az97MtWmBQ5Db3GfDh9j9,"5,918,769,589",172,0,9,113,172,"746,443,799",Solo - Male,Spanish,Hip-hop,Spain
+465,https://i.scdn.co/image/ab6761610000f1789d7ed10720669900a0649c98,The Cranberries,7t0rwkOPGlDPEhaOcVtOt9,"5,902,346,099",322,2,9,41,145,0,Group - Mixed,English,Alternative,Ireland
+466,https://i.scdn.co/image/ab6761610000f1785acb3cb0a8b87d3952738b97,Fifth Harmony,1l8Fu6IkuTP0U5QetQJ5Xt,"5,892,659,175",78,2,9,47,76,"306,285,644",Group - Female,English,Pop,United States of America
+467,https://i.scdn.co/image/ab6761610000f178b4e44d0f4e3e47af2cf06f3f,Burna Boy,3wcj11K77LjEY1PkEazffa,"5,862,001,122",221,0,11,94,153,"3,698,875,870",Solo - Male,English,Afrobeats,Nigeria
+468,https://i.scdn.co/image/ab6761610000f17842b3fb34e3451c79c55cbe73,Alesso,4AVFqumd2ogHFlRbKIjp1t,"5,860,250,499",180,0,15,49,125,"1,629,983,126",Solo - Male,English,Electronic,Sweden
+469,https://i.scdn.co/image/ab6761610000f1788ddeab89a67542470e2631c8,Jeremih,3KV3p5EY4AvKxOlhGHORLg,"5,859,938,246",218,0,10,43,122,"3,914,769,175",Solo - Male,English,R&B,United States of America
+470,https://i.scdn.co/image/ba0a93f82502495617bc233f726b0debed5c43d9,Glee Cast,0SCbttzoZTnLFebDYmAWCm,"5,851,599,164",717,0,2,165,647,"1,988,076",Various,English,Musical,United States of America
+471,https://i.scdn.co/image/ab6761610000f1785751de055799e71658c49655,MC Ryan SP,75i9GaW2MJUgt4BkdUnuUY,"5,845,500,288",365,0,10,117,251,"5,654,538,366",Solo - Male,Portuguese,Brazilian funk,Brazil
+472,https://i.scdn.co/image/ab6761610000f178aa5350248841ba12e12467af,Devi Sri Prasad,5sSzCxHtgL82pYDvx2QyEU,"5,824,105,294","1,027",0,2,160,493,"83,939,912",Solo - Male,Telugu,Indian Film Music,India
+473,https://i.scdn.co/image/ab6761610000f178f4e08c9a3cea561e8f3332a5,Tyler Childers,13ZEDW6vyBF12HYcZRr4EV,"5,812,996,900",110,0,16,56,100,"119,222,030",Solo - Male,English,Country,United States of America
+474,https://i.scdn.co/image/ab6761610000f1783ad617606a561c6837586c32,MEDUZA,0xRXCcSX89eobfrshSVdyu,"5,804,215,317",150,2,9,36,92,"45,297,549",Group - Male,English,Electronic,Italy
+475,https://i.scdn.co/image/ab6761610000f1789614fcf985ad6fc5b4a7c3de,Swedish House Mafia,1h6Cn3P4NGzXbaXidqURXs,"5,770,582,227",126,2,10,38,91,"318,150,288",Group - Male,English,Electronic,Sweden
+476,https://i.scdn.co/image/ab6761610000f1788ffb1b02e4435c5176b28ed2,Fetty Wap,6PXS4YHDkKvl1wkIl4V8DL,"5,759,051,063",169,1,9,45,115,"2,474,583,271",Solo - Male,English,Hip-hop,United States of America
+477,https://i.scdn.co/image/ab6761610000f178aa3d392b9f2b4470bde531c6,Ryan Castro,7j6DKwmjbxvpQO8h914uEz,"5,726,901,697",171,0,11,65,155,"968,180,113",Solo - Male,Spanish,Reggaeton,Colombia
+478,https://i.scdn.co/image/ab6761610000f178f2903326ec44d5ecb37dcad9,Dominic Fike,6USv9qhCn6zfxlBQIYJ9qs,"5,724,303,559",67,1,10,49,67,"395,160,333",Solo - Male,English,Hip-hop,United States of America
+479,https://i.scdn.co/image/ab6761610000f1789973157bdaedef3f77ef8e13,Sidhu Moose Wala,4PULA4EFzYTrxYvOVlwpiQ,"5,721,399,536",165,0,11,97,133,"71,359,486",Solo - Male,Punjabi,Hip-hop,India
+480,https://i.scdn.co/image/ab6761610000f178c03a9c5b81e21ffb4239625b,Pablo Alborán,5M9Bb4adKAgrOFOhc05Y50,"5,721,398,503",206,0,13,74,160,"825,592,721",Solo - Male,Spanish,Pop,Spain
+481,https://i.scdn.co/image/ab6761610000f1788d1be46721e37bc398ec96e7,Skillet,49bzE5vRBRIota4qeHtQM8,"5,710,755,435",224,1,10,68,153,"17,075,670",Group - Male,English,Metal,United States of America
+482,https://i.scdn.co/image/ab6761610000f178224062e2aca51b1c9f2b43ab,Trueno,2x7PC78TmgqpEIjaGAZ0Oz,"5,703,372,257",124,0,16,61,92,"236,506,932",Solo - Male,Spanish,Hip-hop,Argentina
+483,https://i.scdn.co/image/ab6761610000f178aff13c9484fdad590ccfb73c,Depeche Mode,762310PdDnwsDxAQxzQkfX,"5,689,135,679",909,0,11,70,381,"3,564,835",Group - Male,English,Alternative,United Kingdom
+484,https://i.scdn.co/image/ab6761610000f17834fc3fe8848042315d55eacf,Jesse & Joy,1mX1TWKpNxDSAH16LgDfiR,"5,687,007,603",147,0,15,48,118,"807,288,403",Group - Mixed,Spanish,Pop,Mexico
+485,https://i.scdn.co/image/ab6761610000f1788689ec0dec0267c9928a592e,Bonez MC,1aS5tqEs9ci5P9KD9tZWa6,"5,675,126,459",303,0,10,123,232,"2,839,076,318",Solo - Male,German,Hip-hop,Germany
+486,https://i.scdn.co/image/ab6761610000f178e45a6e4cee2ef5f4c0fec713,Baby Keem,5SXuuuRpukkTvsLuUknva1,"5,653,676,581",70,1,11,44,70,"479,463,768",Solo - Male,English,Hip-hop,United States of America
+487,https://i.scdn.co/image/ab6761610000f1780f794f3394223026afa7776d,Offset,4DdkRBBYG6Yk9Ka8tdJ9BW,"5,649,491,001",124,1,8,49,93,"8,411,499,243",Solo - Male,English,Hip-hop,United States of America
+488,https://i.scdn.co/image/ab6761610000f178fb505b37709fa86cfd8f55b3,AP Dhillon,6LEG9Ld1aLImEFEVHdWNSB,"5,647,111,296",63,0,21,54,63,"412,769",Solo - Male,Punjabi,Hip-hop,India
+489,https://i.scdn.co/image/ab6761610000f178791742524609864273747ef5,Bob Dylan,74ASZWbe4lXaubB36ztrGX,"5,641,549,323","1,426",0,11,68,428,0,Solo - Male,English,Folk,United States of America
+490,https://i.scdn.co/image/ab6761610000f17892b8a2548ec8c91bb5ef418e,Jessie J,2gsggkzM5R49q6jpPvazou,"5,631,443,731",151,1,8,36,111,"74,385,139",Solo - Female,English,Pop,United Kingdom
+491,https://i.scdn.co/image/ab6761610000f178d6ec6e1162ee709ad829cf82,Flume,6nxWCVXbOlEVRexSbLsTer,"5,626,018,000",187,1,12,68,164,"260,732,173",Solo - Male,English,Electronic,Australia
+492,https://i.scdn.co/image/ab6761610000f17890f7f9fdc4aace2429df5883,Natti Natasha,1GDbiv3spRmZ1XdM1jQbT7,"5,615,664,781",119,1,12,50,94,"2,992,313,718",Solo - Female,Spanish,Reggaeton,Dominican Republic
+493,https://i.scdn.co/image/ab6761610000f1789095683b555d7c16fd3b633f,LE SSERAFIM,4SpbR6yFEvexJuaBpgAU5p,"5,606,567,429",119,0,16,51,82,0,Group - Female,Korean,K-Pop,South Korea
+494,https://i.scdn.co/image/ab6761610000f17827e96bc9bbb0c28566c5d788,Bryant Myers,6w9ToX5slZ4uIdmD17hJ3c,"5,605,215,444",150,0,16,82,142,"6,301,479,973",Solo - Male,Spanish,Reggaeton,Puerto Rico
+495,https://i.scdn.co/image/ab6761610000f178d6f6bf343b8bf12f12dc1a25,Becky Hill,4EPJlUEBy49EX1wuFOvtjK,"5,598,788,947",266,1,15,46,132,"95,912,364",Solo - Female,English,Pop,United Kingdom
+496,https://i.scdn.co/image/ab6761610000f1783cd35451daa1b690cfbbb2d4,Weezer,3jOstUTkEu2JkjvRdBA5Gu,"5,598,310,991",337,1,8,65,254,"59,077,437",Group - Male,English,Rock,United States of America
+497,https://i.scdn.co/image/ab6761610000f178ccd633470e8b93efcd8f9246,AJR,6s22t5Y3prQHyaHWUN1R1C,"5,596,586,191",118,0,11,72,96,"113,550,792",Group - Male,English,Pop,United States of America
+498,https://i.scdn.co/image/ab6761610000f178383a90d1849dfb7f0c11d809,Matuê,5nP8x4uEFjAAmDzwOEc9b8,"5,588,857,173",63,0,19,53,63,"669,436,086",Solo - Male,Portuguese,Hip-hop,Brazil
+499,https://i.scdn.co/image/ab6761610000f17858d57084e75247d33ce25eaf,James Bay,4EzkuveR9pLvDVFNx6foYD,"5,584,672,806",114,1,12,48,90,"31,666,237",Solo - Male,English,Rock,United Kingdom
+500,https://i.scdn.co/image/ab6761610000f1788e7d00d3aae87cf8fc6946e2,V,3JsHnjpbhX4SnySpvpa9DK,"5,580,327,640",32,1,12,26,32,0,Solo - Male,Korean,K-Pop,South Korea
+501,https://i.scdn.co/image/ab6761610000f178e79374211456f3edbb005e2c,Daya,6Dd3NScHWwnW6obMFbl1BH,"5,576,324,338",93,1,7,32,71,"52,123,940",Solo - Female,English,Pop,United States of America
+502,https://i.scdn.co/image/ab6761610000f1780654e511623cba4e0e9e2f0c,NIKI,2kxP07DLgs4xlWz8YHlvfh,"5,574,188,010",86,0,12,54,86,"550,091,258",Solo - Female,English,R&B,Indonesia
+503,https://i.scdn.co/image/ab6761610000f1787ab9ab65a8d38cad451d3417,Chencho Corleone,37230BxxYs9ksS7OkZw3IU,"5,538,228,347",46,1,9,34,44,"4,692,494,207",Solo - Male,Spanish,Reggaeton,Puerto Rico
+504,https://i.scdn.co/image/ab6761610000f17848769fa9ef3b5f24af90a09d,Giveon,4fxd5Ee7UefO4CUXgwJ7IP,"5,533,272,495",55,1,13,47,51,"3,191,030,845",Solo - Male,English,R&B,United States of America
+505,https://i.scdn.co/image/ab6761610000f1780b6fd24c14a46a5027d65e47,Mrs. GREEN APPLE,4QvgGvpgzgyUOo8Yp8LDm9,"5,527,660,871",182,0,12,81,144,0,Group - Mixed,Japanese,Rock,Japan
+506,https://i.scdn.co/image/ab6761610000f1785e6e65ed12891b12233db44b,Ricky Martin,7slfeZO9LsJbWgpkIoXBUJ,"5,505,546,780",300,0,12,61,160,"778,085,582",Solo - Male,Spanish,Pop,Puerto Rico
+507,https://i.scdn.co/image/ab6761610000f178ae81417d966e209b735b1160,Daryl Hall & John Oates,77tT1kLj6mCWtFNqiOmP9H,"5,500,704,116",440,3,10,20,74,"10,299",Group - Male,English,Pop,United States of America
+508,https://i.scdn.co/image/ab6761610000f1785c4a6a8bb5dbefb53944151c,KHEA,4m6ubhNsdwF4psNf3R8kwR,"5,490,245,743",143,0,14,75,133,"1,661,490,306",Solo - Male,Spanish,Reggaeton,Argentina
+509,https://i.scdn.co/image/ab6761610000f178a2709df1d241734826f363e3,Tones And I,2NjfBq1NflQcKSeiDooVjY,"5,487,398,867",78,1,6,24,55,"9,066,074",Solo - Female,English,Pop,Australia
+510,https://i.scdn.co/image/ab6761610000f17822b8e662f0cfdddac8ab22bb,Foster The People,7gP3bB2nilZXLfPHJhMdvc,"5,471,400,093",112,1,8,39,84,"66,802,757",Group - Male,English,Alternative,United States of America
+511,https://i.scdn.co/image/ab6761610000f17836a0eb4370abc996654faa4d,Nio Garcia,5hdhHgpxyniooUiQVaPxQ0,"5,471,372,149",167,1,9,37,118,"440,300,794",Solo - Male,Spanish,Reggaeton,Puerto Rico
+512,https://i.scdn.co/image/ab6761610000f17829831a7ff6177ec357478850,YG,0A0FS04o6zMoto8OKPsDwY,"5,462,147,234",273,0,9,87,184,"6,357,356,984",Solo - Male,English,Hip-hop,United States of America
+513,https://i.scdn.co/image/ab6761610000f178194e3f91e6c0c81e82ba4328,Ludovico Einaudi,2uFUBdaVGtyMqckSeCl0Qj,"5,448,961,876",694,0,8,89,362,"9,476,863",Solo - Male,Instrumental,Classical,Italy
+514,https://i.scdn.co/image/ab6761610000f178cfd0928fb3b79430a91235bd,Dan + Shay,7z5WFjZAIYejWy0NI5lv4T,"5,437,265,380",119,1,10,54,90,"29,697,817",Group - Male,English,Country,United States of America
+515,https://i.scdn.co/image/ab6761610000f1786bf10d74063b45938f5d8656,PinkPantheress,78rUTD7y6Cy67W1RVzYs7t,"5,432,758,985",84,2,10,44,76,"164,243,921",Solo - Female,English,Alternative,United Kingdom
+516,https://i.scdn.co/image/ab6761610000f1789d818606c2582549402ca755,Marco Antonio Solís,3tJnB0s6c3oXPq1SCCavnd,"5,403,466,576",203,0,14,63,170,"1,499,339,627",Solo - Male,Spanish,Pop,Mexico
+517,https://i.scdn.co/image/ab6761610000f178a59a5bcab211f964fe9bfb06,TOTO,0PFtn5NtBbbUNbU9EAmIWF,"5,401,463,963",241,2,5,15,102,"70,950",Group - Male,English,Rock,United States of America
+518,https://i.scdn.co/image/ab6761610000f178ca3679f4ed95ac9e58595a0f,Alex Warren,0fTSzq9jAh4c36UVb4V7CB,"5,388,390,613",41,1,12,35,41,0,Solo - Male,English,Pop,United States of America
+519,https://i.scdn.co/image/ab6761610000f1780f9e37891dc9f665195b0b87,Carlos Vives,4vhNDa5ycK0ST968ek7kRr,"5,388,215,774",315,0,11,54,202,"808,642,596",Solo - Male,Spanish,Tropical,Colombia
+520,https://i.scdn.co/image/ab6761610000f178f9978ad4808f6f2723124d19,Iron Maiden,6mdiAmATAx73kdxrNrnlao,"5,375,933,295",426,0,9,86,298,0,Group - Male,English,Metal,United Kingdom
+521,https://i.scdn.co/image/ab6761610000f17851767bb5e3e3add66699344b,PNL,3NH8t45zOTqzlZgBvZRjvB,"5,348,775,105",73,0,18,73,73,0,Group - Male,French,Hip-hop,France
+522,https://i.scdn.co/image/ab6761610000f1781455a186c8aaeb027ccfadb4,Juanes,0UWZUmn7sybxMCqrw9tGa7,"5,335,638,252",248,0,16,46,140,"3,576,158,386",Solo - Male,Spanish,Rock,Colombia
+523,https://i.scdn.co/image/ab6761610000f1784870cd833ebe1092601820c3,Black Sabbath,5M52tdBnJaKSvOpJGz8mfZ,"5,320,395,387",323,1,9,50,171,"21,814,575",Group - Male,English,Metal,United Kingdom
+524,https://i.scdn.co/image/ab6761610000f1789722e16a886767adf1178f92,"Earth, Wind & Fire",4QQgXkCYTt3BlENzhyNETg,"5,320,088,077",384,1,6,30,99,"153,614,620",Group - Male,English,Soul / Motown R&B,United States of America
+525,https://i.scdn.co/image/ab6761610000f17888abc33494ac89655dc80fa2,Los Tucanes De Tijuana,014WIDx7H4BRCHB1faiisK,"5,316,393,424",798,0,13,68,311,"24,419,296",Group - Male,Spanish,Regional Mexican,Mexico
+526,https://i.scdn.co/image/ab6761610000f1780809c08ca0610e3e7168e0dc,Capital Bra,4WZGDpNwrC0vNQyl9QzF7d,"5,297,850,456",339,0,10,104,269,"835,060,524",Solo - Male,German,Hip-hop,Germany
+527,https://i.scdn.co/image/ab6761610000f17827901c1c025fa90f5dc007ef,Jelly Roll,19k8AgwwTSxeaxkOuCQEJs,"5,296,568,487",393,0,13,83,233,"725,244,667",Solo - Male,English,Country,United States of America
+528,https://i.scdn.co/image/ab6761610000f1785c7577ad44daeb7ce4b941a1,Olivia Dean,00x1fYSGhdqScXBRpSj3DW,"5,286,995,985",90,0,14,52,84,"51,402,742",Solo - Female,English,Soul / Motown R&B,United Kingdom
+529,https://i.scdn.co/image/ab6761610000f178cd9d661b6955241f33ef8a0a,Rema,46pWGuE3dSwY3bMMXGBvVS,"5,278,947,700",108,1,6,57,96,"612,044,830",Solo - Male,English,Afrobeats,Nigeria
+530,https://i.scdn.co/image/ab6761610000f1785ce86e86ff94ea8995587ff2,Zac Brown Band,6yJCxee7QumYr820xdIsjo,"5,278,332,295",176,0,10,63,139,"23,151,815",Group - Male,English,Country,United States of America
+531,https://i.scdn.co/image/ab67616d000048514dcb6c5df15cf74596ab25a4,KPop Demon Hunters Cast,7mW7Tv7NvywKKXqafZo0Lc,"5,275,462,644",39,1,7,16,34,0,Various,Korean,K-Pop,United States of America
+532,https://i.scdn.co/image/ab6761610000f178722ff085bbc5edba2d396801,MARINA,6CwfuxIqcltXDGjfZsMd9A,"5,269,577,311",165,0,10,68,116,"9,636,854",Solo - Female,English,Alternative,United Kingdom
+533,https://i.scdn.co/image/ab6761610000f178e60d7a790ebea50d205bda93,Yuvan Shankar Raja,6AiX12wXdXFoGJ2vk8zBjy,"5,256,675,521","1,350",0,4,135,353,"313,898,610",Solo - Male,Tamil,Indian Film Music,India
+534,https://i.scdn.co/image/ab6761610000f178a340be7e0bd2c71a3f2ca9ce,Passenger,0gadJ2b9A4SKsB1RFkBb66,"5,221,850,053",274,1,4,61,213,"2,433,381",Solo - Male,English,Folk,United Kingdom
+535,https://i.scdn.co/image/ab6761610000f178a74cfdcc8251c711227bb0e5,Lukas Graham,25u4wHJWxCA9vO0CzxAbK7,"5,208,694,838",84,1,4,37,76,"236,437,148",Group - Male,English,Pop,Denmark
+536,https://i.scdn.co/image/ab6761610000f1780926e7e07e3e3f5e67173900,Luísa Sonza,4PzYKhC14sTJNEr0dzoo0d,"5,202,103,103",139,0,20,79,106,"510,660,940",Solo - Female,Portuguese,Pop,Brazil
+537,https://i.scdn.co/image/ab6761610000f1786334ab6a83196f36475ada7f,R.E.M.,4KWTAlx2RvbpseOGMEmROg,"5,188,756,538",803,1,8,37,181,"2,381,617",Group - Male,English,Alternative,United States of America
+538,https://i.scdn.co/image/ab6761610000f178fa1d9471f2a10a3a5da1a646,Bon Iver,4LEiUm1SRbFMgfqnQTwUbQ,"5,187,926,981",73,0,11,49,67,"1,989,278,935",Group - Male,English,Folk,United States of America
+539,https://i.scdn.co/image/ab6761610000f17876986713496efc3717ce32ee,Noriel,3RtNN1VnooWEn3KQk03DUL,"5,182,663,812",136,0,13,52,113,"2,662,571,153",Solo - Male,Spanish,Reggaeton,Puerto Rico
+540,https://i.scdn.co/image/ab6761610000f1787635220f042a75ef8b4ffde9,LUDMILLA,3CDoRporvSjdzTrm99a3gi,"5,174,366,751",269,0,11,112,238,"789,016,626",Solo - Female,Portuguese,Brazilian funk,Brazil
+541,https://i.scdn.co/image/ab6761610000f1787ecf213c7dd78e0049379c5b,Evanescence,5nGIFgo0shDenQYSE0Sn7c,"5,173,869,864",120,1,6,53,105,0,Group - Mixed,English,Metal,United States of America
+542,https://i.scdn.co/image/ab6761610000f1781b15c2ad299fdcf864a09742,girl in red,3uwAm6vQy7kWPS2bciKWx9,"5,162,141,665",45,1,10,32,44,"14,137,879",Solo - Female,English,Alternative,Norway
+543,https://i.scdn.co/image/ab6761610000f1789bd641ceb72d35b63fbb314a,Mithoon,09UmIX92EUH9hAK4bxvHx6,"5,153,896,646",254,0,15,45,99,"473,869,774",Solo - Male,Hindi,Indian Film Music,India
+544,https://i.scdn.co/image/ab6761610000f17892883b0e094a36d2f43ad284,Sade,47zz7sob9NUcODy0BTDvKx,"5,152,481,679",115,0,11,64,106,"5,543,321",Group - Mixed,English,Soul / Motown R&B,United Kingdom
+545,https://i.scdn.co/image/ab6761610000f178d52229f479361a2375f6021c,Quavo,0VRj0yCOv2FXJNP47XQnx5,"5,124,475,769",133,0,11,76,123,"13,896,839,363",Solo - Male,English,Hip-hop,United States of America
+546,https://i.scdn.co/image/ab6761610000f178e23033f623a49ece86d3eb3d,Gera MX,2hejA1Dkf8v8R0koF44FvW,"5,124,355,973",261,0,6,109,240,"1,182,452,839",Solo - Male,Spanish,Hip-hop,Mexico
+547,https://i.scdn.co/image/ab6761610000f178efe796d5f0fcc9bc5a757f74,Cheat Codes,7DMveApC7UnC2NPfPvlHSU,"5,123,603,746",224,0,7,49,131,"837,090,865",Group - Male,English,Electronic,United States of America
+548,https://i.scdn.co/image/ab6761610000f1785b0446d66cb8dff19ea33ff5,Wisin,3E6xrwgnVfYCrCs0ePERDz,"5,122,677,756",185,0,12,56,143,"7,660,820,268",Solo - Male,Spanish,Reggaeton,Puerto Rico
+549,https://i.scdn.co/image/ab6761610000f178440959e022afc20e819050bd,The Doors,22WZ7M8sxp5THdruNY3gXt,"5,118,844,607",803,0,13,58,156,"119,723,200",Group - Male,English,Rock,United States of America
+550,https://i.scdn.co/image/ab6761610000f17851055ae5a7950c3399243e59,Rain Sounds,5nSGBmlgUdqWNExnOX8VtV,"5,106,518,491","3,097",0,6,76,180,0,Solo - Not applicabl,Instrumental,Non music,?land
+551,https://i.scdn.co/image/ab6761610000f178e7c585e9ecd65c76b7bf91ac,bbno$,41X1TR6hrK8Q2ZCpp2EqCz,"5,105,815,826",206,1,10,79,185,"718,199,561",Solo - Male,English,Hip-hop,Canada
+552,https://i.scdn.co/image/ab6761610000f178dfb9d2cb6a43021d9002a10e,C. Tangana,5TYxZTjIPqKM8K8NuP9woO,"5,101,768,114",85,0,12,60,83,"296,502,940",Solo - Male,Spanish,Hip-hop,Spain
+553,https://i.scdn.co/image/ab6761610000f17818d4cb767d2dfe5f4b28ba07,aespa,6YVMFz59CuY7ngCxTxjpxE,"5,072,855,947",124,0,15,59,97,"9,057,759",Group - Female,Korean,K-Pop,South Korea
+554,https://i.scdn.co/image/ab6761610000f178d4d9941b20bbf2bbe3714acc,Mon Laferte,4boI7bJtmB1L3b1cuL75Zr,"5,070,639,482",175,0,8,63,165,"619,394,995",Solo - Female,Spanish,Alternative,Chile
+555,https://i.scdn.co/image/ab6761610000f178d3757f63ec317d0309a8115a,Papa Roach,4RddZ3iHvSpGV4dvATac9X,"5,069,482,204",250,1,9,59,176,"118,860,825",Group - Male,English,Metal,United States of America
+556,https://i.scdn.co/image/ab6761610000f1788272bf414106646e0e4a89f3,Carly Rae Jepsen,6sFIWsNpZYqfjUpaCgueju,"5,069,427,333",183,1,5,48,134,"82,864,460",Solo - Female,English,Pop,Canada
+557,https://i.scdn.co/image/ab6761610000f178cfb4350222919670128ff2dc,ROSÉ,3eVa5w3URK5duf6eyVDbu9,"5,052,677,993",17,1,8,17,17,"98,165,058",Solo - Female,English,K-Pop,South Korea
+558,https://i.scdn.co/image/ab6761610000f1786efc8af9a429dbb709726f68,The Beach Boys,3oDbviiivRWhXwIE8hxkVV,"5,028,880,779","1,845",0,11,42,195,"10,677,976",Group - Male,English,Rock,United States of America
+559,https://i.scdn.co/image/ab6761610000f17889caf0227244708a91a016e5,George Michael,19ra5tSw0tWufvUp8GotLo,"5,020,694,626",228,1,10,39,133,"47,211,323",Solo - Male,English,Pop,United Kingdom
+560,https://i.scdn.co/image/ab6761610000f178cf85b39d94c486218a687248,Steve Aoki,77AiFEVeAVj2ORpC85QVJs,"5,015,532,619",766,0,8,84,325,"2,239,774,595",Solo - Male,English,Electronic,United States of America
+561,https://i.scdn.co/image/ab6761610000f1786fa137c74960a6a81f11ee70,Elevation Worship,3YCKuqpv9nCsIhJ2v8SMix,"5,004,724,060",325,0,9,101,273,"85,594,130",Group - Mixed,English,Religious,United States of America
+562,https://i.scdn.co/image/ab6761610000f1781e8366050ddb70f1267cde51,TKKG,61qDotnjM0jnY5lkfOP7ve,"4,995,083,856","5,705",0,0,1,"1,149",0,Audiobook,German,Non music,Germany
+563,https://i.scdn.co/image/ab6761610000f178af586afa2b397f1288683a76,The Marías,2sSGPbdZJkaSE2AbcGOACx,"4,993,051,030",54,0,14,50,53,"1,058,840,896",Group - Mixed,English,Alternative,United States of America
+564,https://i.scdn.co/image/ab6761610000f178670c3c362b6b4e622e04fdc4,ILLENIUM,45eNHdiiabvmbp4erw26rg,"4,983,248,599",323,0,8,92,220,"389,879,182",Solo - Male,English,Electronic,United States of America
+565,https://i.scdn.co/image/ab6761610000f178650e79afafd00492e33d7b8c,Ice Cube,3Mcii5XWf6E0lrY3Uky4cA,"4,979,834,787",329,1,7,34,203,"492,454,246",Solo - Male,English,Hip-hop,United States of America
+566,https://i.scdn.co/image/ab6761610000f178a0ff263b8dc91a36467fd9ca,Jax Jones,4Q6nIcaBED8qUel8bBx6Cr,"4,979,524,630",159,0,13,34,99,"572,304,436",Solo - Male,English,Electronic,United Kingdom
+567,https://i.scdn.co/image/ab6761610000f178dad22bae6da453082af63719,Young Miko,3qsKSpcV3ncke3hw52JSMB,"4,977,828,454",80,1,13,43,78,"881,726,398",Solo - Female,Spanish,Hip-hop,Puerto Rico
+568,https://i.scdn.co/image/ab6761610000f1785c0b2129a88c7d6ed0704556,King Von,6QtgPSJPSzcnn7dPZ4VINp,"4,963,610,430",95,0,12,66,92,"934,890,721",Solo - Male,English,Hip-hop,United States of America
+569,https://i.scdn.co/image/ab6761610000f178301a9c599d85d89e7a90fed0,Damso,2UwqpfQtNuhBwviIC0f2ie,"4,953,711,372",145,0,9,103,144,"1,190,252,299",Solo - Male,French,Hip-hop,Belgium
+570,https://i.scdn.co/image/ab6761610000f178e29cc283caab8912cd315718,Tiago PZK,5Y3MV9DZ0d87NnVm56qSY1,"4,946,785,143",93,0,10,50,82,"2,194,557,415",Solo - Male,Spanish,Hip-hop,Argentina
+571,https://i.scdn.co/image/ab6761610000f178b84be6517b80fe83f9941252,Hillsong Worship,3SgHzT552wy2W8pNLaLk24,"4,945,091,535",702,0,8,90,365,0,Ensemble,English,Religious,Australia
+572,https://i.scdn.co/image/ab6761610000f1780eb25db573261498b72fb6f3,Filipe Ret,7gJN8W0589FisSYJS17K54,"4,940,822,576",171,0,15,88,162,"1,493,331,270",Solo - Male,Portuguese,Hip-hop,Brazil
+573,https://i.scdn.co/image/ab6761610000f178507349709ae19263301a62f7,YOASOBI,64tJ2EAv1R6UaZqc4iOCyj,"4,928,739,965",73,0,14,41,71,0,Group - Mixed,Japanese,Pop,Japan
+574,https://i.scdn.co/image/ab6761610000f1781a52daf60d0a426b294f5be5,24kGoldn,6fWVd57NKTalqvmjRd2t8Z,"4,925,805,529",93,1,7,36,70,"865,217,377",Solo - Male,English,Hip-hop,United States of America
+575,https://i.scdn.co/image/ab6761610000f1783f02c2ff7ea1aa208e015f57,Lynyrd Skynyrd,4MVyzYMgTwdP7Z49wAZHx0,"4,923,426,270",447,1,7,30,109,"13,418,437",Group - Male,English,Rock,United States of America
+576,https://i.scdn.co/image/ab6761610000f178c40600e02356cc86f0debe84,Atif Aslam,2oSONSC9zQ4UonDKnLqksx,"4,918,373,078",238,0,17,51,105,"2,354,460,077",Solo - Male,Hindi,Indian Film Music,Pakistan
+577,https://i.scdn.co/image/ab6761610000f17868a2a81ddb9d084ed14bfa8d,The Black Keys,7mnBLXK823vNxN3UWB7Gfz,"4,913,628,137",196,0,9,74,184,"662,869",Group - Male,English,Rock,United States of America
+578,https://i.scdn.co/image/ab6761610000f1781b098899f1cc5be055471b4d,Julia Michaels,0ZED1XzwlLHW4ZaG4lOT6m,"4,901,410,739",62,1,8,32,53,"4,746,924,621",Solo - Female,English,Pop,United States of America
+579,https://i.scdn.co/image/ab6761610000f1781c91ee64878b36dcee243160,Lil Skies,7d3WFRME3vBY2cgoP38RDo,"4,898,930,243",110,0,11,52,86,"1,032,442,436",Solo - Male,English,Hip-hop,United States of America
+580,https://i.scdn.co/image/ab6761610000f178598ae29b6fe6c2547f40bce5,Ovy On The Drums,3m5qlPf2OkihLz3dRYnkPA,"4,897,068,697",67,0,11,36,61,"2,114,942,342",Solo - Male,Spanish,Reggaeton,Colombia
+581,https://i.scdn.co/image/ab6761610000f1783863fa2fdb07fb4fe1a9607d,James Blunt,7KMqksf0UMdyA0UCf4R3ux,"4,895,032,260",208,1,9,60,141,"216,250,995",Solo - Male,English,Pop,United Kingdom
+582,https://i.scdn.co/image/ab6761610000f178b7554bfcddafd5500ed89062,Zoé,6IdtcAwaNVAggwd6sCKgTI,"4,891,966,730",198,0,9,58,124,"21,959,458",Group - Male,Spanish,Rock,Mexico
+583,https://i.scdn.co/image/ab6761610000f178e7b66b8c4ba729848574df7a,The Goo Goo Dolls,2sil8z5kiy4r76CRTXxBCA,"4,889,313,510",351,1,5,29,110,"164,610",Group - Male,English,Rock,United States of America
+584,https://i.scdn.co/image/ab6761610000f178e7c6cea0c83857388127fced,beabadoobee,35l9BRT7MXmM8bv2WDQiyB,"4,876,013,497",139,0,13,57,93,"2,063,385,935",Solo - Female,English,Alternative,United Kingdom
+585,https://i.scdn.co/image/ab6761610000f178f55733229a6dd1c8c7b46d08,Luciano,3CJKkU0XuElRT1z8rEtIYg,"4,873,937,216",260,0,4,118,217,"1,385,274,534",Solo - Male,German,Hip-hop,Germany
+586,https://i.scdn.co/image/ab6761610000f1788dd6d79e9fd4d7a80875b1a3,Noah Cyrus,55fhWPvDiMpLnE4ZzNXZyW,"4,868,433,054",103,1,7,42,83,"268,893,105",Solo - Female,English,Pop,United States of America
+587,https://i.scdn.co/image/ab6761610000f178c806f3e714afa21861e20248,Empire of the Sun,67hb7towEyKvt5Z8Bx306c,"4,866,539,796",137,2,7,27,86,"1,314,490,873",Group - Male,English,Electronic,Australia
+588,https://i.scdn.co/image/ab6761610000f1784d2ec27a528f9854297e0e74,Chino Pacas,2rmkQLzj0k4nZdQehOUByO,"4,857,192,837",53,1,11,30,52,"288,042,529",Solo - Male,Spanish,Regional Mexican,Mexico
+589,https://i.scdn.co/image/ab6761610000f178a11b0b5c37498f5dddb1bd7b,Latto,3MdXrJWsbVzdn6fe5JYkSQ,"4,840,946,309",172,1,3,46,110,"560,263,823",Solo - Female,English,Hip-hop,United States of America
+590,https://i.scdn.co/image/ab6761610000f17803bf2fe26e397122faa3d323,Paul McCartney,4STHEaNw4mPZ2tzheohgXB,"4,839,231,929",953,1,6,47,254,"692,887,836",Solo - Male,English,Rock,United Kingdom
+591,https://i.scdn.co/image/ab6761610000f17869b92908b14aa8f0b4cd175d,Melendi,1EXjXQpDx2pROygh8zvHs4,"4,831,564,271",237,0,10,85,224,"327,770,180",Solo - Male,Spanish,Pop,Spain
+592,https://i.scdn.co/image/ab6761610000f178cc8e116e76c85e1880d9889f,Santa Fe Klan,4tm8CEdm4pkQsEh4jIr9Yp,"4,829,922,207",336,0,10,79,220,"1,336,500,262",Solo - Male,Spanish,Hip-hop,Mexico
+593,https://i.scdn.co/image/ab6761610000f17823eb1af2ef13c5db234ff824,Milky Chance,1hzfo8twXdOegF3xireCYs,"4,829,846,323",147,1,7,53,113,"9,713,235",Group - Male,English,Alternative,Germany
+594,https://i.scdn.co/image/ab6761610000f178ed83d3ea063d87ce7e708f00,Norah Jones,2Kx7MNY7cI1ENniW7vT30N,"4,829,802,119",366,0,8,73,220,"296,286,889",Solo - Female,English,Jazz / Swing,United States of America
+595,https://i.scdn.co/image/ab6761610000f17892f6dba2793814a1c5aa8d35,Keane,53A0W3U0s8diEn9RhXQhVz,"4,823,186,979",265,1,5,39,128,"880,964",Group - Male,English,Alternative,United Kingdom
+596,https://i.scdn.co/image/ab6761610000f17867bc48f32d1cc16497865361,Charlie Brown Jr.,1on7ZQ2pvgeQF4vmIA09x5,"4,820,997,092",259,0,13,72,226,"68,835,830",Group - Male,Portuguese,Rock,Brazil
+597,https://i.scdn.co/image/ab6761610000f1789a3b23dfadda753fa679a6a8,Hugo & Guilherme,1LIuN7ov1IBQDdLsU83ojl,"4,818,441,087",184,0,13,81,164,"678,981,976",Group - Male,Portuguese,Sertanejo,Brazil
+598,https://i.scdn.co/image/ab6761610000f178aa03b29eb3a550f139fbb955,Blake Shelton,1UTPBmNbXNTittyMJrNkvw,"4,805,577,514",243,0,16,52,167,"566,097,571",Solo - Male,English,Country,United States of America
+599,https://i.scdn.co/image/ab6761610000f178e816aaf5f96c04fdfa8fadc7,Chief Keef,15iVAtD3s3FsQR4w1v6M0P,"4,800,554,340",623,0,7,53,318,"1,360,511,458",Solo - Male,English,Hip-hop,United States of America
+600,https://i.scdn.co/image/ab6761610000f1789a02f80a6ba2cbc17948b950,Gerardo Ortiz,4J13m9IZh03PEhoxAxRhXO,"4,787,111,957",309,0,15,72,231,"1,039,488,668",Solo - Male,Spanish,Regional Mexican,United States of America
+601,https://i.scdn.co/image/ab6761610000f178febafbabd8a364c4aa61016e,El Fantasma,0my6Pg4I28dVcZLSpAkqhv,"4,774,929,622",401,0,10,78,224,"139,166,968",Solo - Male,Spanish,Regional Mexican,Mexico
+602,https://i.scdn.co/image/ab6761610000f1785cd3b3af8b72e32be78571ec,LISA,5L1lO4eRHmJ7a0Q6csE5cT,"4,769,272,076",30,1,8,23,27,"214,719,197",Solo - Female,English,K-Pop,Thailand
+603,https://i.scdn.co/image/ab6761610000f178fc043bea91ac91c222d235c9,Diljit Dosanjh,2FKWNmZWDBZR4dE5KX4plR,"4,764,439,505",451,0,10,81,216,"590,172,376",Solo - Male,Punjabi,Indian Film Music,India
+604,https://i.scdn.co/image/ab6761610000f1789bbbc124c9f0f75af892d97d,Christina Perri,7H55rcKCfwqkyDFH9wpKM6,"4,763,782,811",140,1,6,20,97,"315,788,562",Solo - Female,English,Pop,United States of America
+605,https://i.scdn.co/image/ab6761610000f178bd6977f3970a7a4a8d4becbe,Tim McGraw,6roFdX1y5BYSbp60OTJWMd,"4,760,118,167",356,0,12,63,162,"215,070,863",Solo - Male,English,Country,United States of America
+606,https://i.scdn.co/image/ab6761610000f1786c1d2882997b15d14a7a7661,Aleman,4QFG9KrGWEbr6hNA58CAqE,"4,759,027,478",221,0,12,83,205,"1,107,975,435",Solo - Male,Spanish,Hip-hop,Mexico
+607,https://i.scdn.co/image/ab6761610000f178ebc38443c371677783ebd465,El Alfa,2oQX8QiMXOyuqbcZEFsZfm,"4,758,547,614",244,0,13,65,178,"3,848,847,197",Solo - Male,Spanish,Reggaeton,Dominican Republic
+608,https://i.scdn.co/image/ab6761610000f178d9531e79636e5bfa61817e43,Ski Mask The Slump God,2rhFzFmezpnW82MNqEKVry,"4,747,990,989",132,0,8,55,108,"1,946,594,600",Solo - Male,English,Hip-hop,United States of America
+609,https://i.scdn.co/image/ab6761610000f1780b151573a50ab626ee721307,Lil Pump,3wyVrVrFCkukjdVIdirGVY,"4,742,828,974",108,0,11,43,71,"454,422,374",Solo - Male,English,Hip-hop,United States of America
+610,https://i.scdn.co/image/ab6761610000f178c67ffae065558fd7f08a845c,Dimitri Vegas & Like Mike,73jBynjsVtofjRpdpRAJGk,"4,727,191,503",361,0,9,86,206,"163,195,538",Group - Male,English,Electronic,Belgium
+611,https://i.scdn.co/image/ab6761610000f178faae1d3eac51a47b9f51c9bd,Ruth B.,2WzaAvm2bBCf4pEhyuDgCY,"4,721,025,099",59,1,6,16,48,0,Solo - Female,English,Pop,Canada
+612,https://i.scdn.co/image/ab6761610000f178173c878a651babb8d0db4cee,T-Pain,3aQeKQSyrW4qWr35idm0cy,"4,709,850,038",278,0,12,32,156,"6,612,058,281",Solo - Male,English,Hip-hop,United States of America
+613,https://i.scdn.co/image/ab6761610000f178381c41adc678e4ce864eb274,Fred again..,4oLeXFyACqeem2VImYeBFe,"4,696,265,203",164,0,14,63,141,"139,786,575",Solo - Male,English,Electronic,United Kingdom
+614,https://i.scdn.co/image/ab6761610000f1781d3f755fce4073e3fbae9437,Jeremy Zucker,3gIRvgZssIb9aiirIg0nI3,"4,687,709,897",129,0,9,47,113,"181,840,187",Solo - Male,English,Pop,United States of America
+615,https://i.scdn.co/image/ab6761610000f17877f28b2422efbabde324291c,George Strait,5vngPClqofybhPERIqQMYd,"4,676,517,631",454,0,10,70,260,"157,560,631",Solo - Male,English,Country,United States of America
+616,https://i.scdn.co/image/ab6761610000f17875bd36e435556651eff48254,DJ Nelson,2ydZrTy8U3kOMOzx20s3dg,"4,667,160,027",683,1,10,43,97,"843,173,922",Solo - Male,Spanish,Reggaeton,Puerto Rico
+617,https://i.scdn.co/image/ab6761610000f178e49a051508f6c1eeaecff664,Madison Beer,2kRfqPViCqYdSGhYSM9R0Q,"4,664,918,460",79,0,11,53,72,"1,112,131,848",Solo - Female,English,Pop,United States of America
+618,https://i.scdn.co/image/ab6761610000f178d773fade50b148f70662c783,Imanbek,5rGrDvrLOV2VV8SCFVGWlj,"4,661,815,273",113,1,6,25,64,"61,852,491",Solo - Male,English,Electronic,Kazakhstan
+619,https://i.scdn.co/image/ab6761610000f178f965d7facfd674f3780158a7,Los Bukis,16kOCiqZ1auY4sokSeZuKf,"4,655,240,243",235,0,12,66,123,"7,270,941",Group - Male,Spanish,Pop,Mexico
+620,https://i.scdn.co/image/ab6761610000f178f75e64532704bd6acf0b4e76,Destiny's Child,1Y8cdNmUJH7yBTd9yOvr5i,"4,651,180,708",160,1,13,26,91,"23,471,852",Group - Female,English,R&B,United States of America
+621,https://i.scdn.co/image/ab6761610000f178ec4b5ff594ae3d7c5622cf23,Robbie Williams,2HcwFjNelS49kFbfvMxQYw,"4,645,015,372",481,0,9,55,250,"44,672,254",Solo - Male,English,Pop,United Kingdom
+622,https://i.scdn.co/image/ab6761610000f178adc7d14bfd40daa7972fa0c2,R3HAB,6cEuCEZu7PAE9ZSzLLc2oQ,"4,643,069,708",369,0,6,84,239,"3,021,001,344",Solo - Male,English,Electronic,Netherlands
+623,https://i.scdn.co/image/ab6761610000f1783a0f8f319aeef1aa4115f5e8,keshi,3pc0bOVB5whxmD50W79wwO,"4,634,511,058",77,0,14,66,77,"105,549,491",Solo - Male,English,R&B,United States of America
+624,https://i.scdn.co/image/ab6761610000f17861978f04a57032e5fec7819f,Van Morrison,44NX2ffIYHr6D4n7RaZF7A,"4,633,869,805",993,1,8,38,200,"183,594,160",Solo - Male,English,Folk,United Kingdom
+625,https://i.scdn.co/image/ab6761610000f1789028079005146db88f6133d0,JVKE,164Uj4eKjl6zTBKfJLFKKK,"4,630,060,424",109,1,7,47,95,"415,260,123",Solo - Male,English,Pop,United States of America
+626,https://i.scdn.co/image/ab6761610000f178206a97aa01385ef684f8e58c,Shiloh Dynasty,1wxPItEzr7U7rGSMPqZ25r,"4,629,523,688","4,043",0,9,77,335,"1,063,417,592",Solo - Male,English,Alternative,United States of America
+627,https://i.scdn.co/image/ab6761610000f1781e63dea1bded4ae1d53b5c9a,Tears For Fears,4bthk9UfsYUYdcFyqxmSUU,"4,623,557,707",246,1,7,21,109,"3,902,613",Group - Male,English,Pop,United Kingdom
+628,https://i.scdn.co/image/ab6761610000f178f70cb5cef7d3848570900de5,Aitana,7eLcDZDYHXZCebtQmVFL25,"4,611,028,734",129,0,13,77,125,"1,023,674,159",Solo - Female,Spanish,Pop,Spain
+629,https://i.scdn.co/image/ab6761610000f178071291b50cd2f68a7bfe1337,Rise Against,6Wr3hh341P84m3EI8qdn9O,"4,609,270,950",190,0,8,75,171,0,Group - Male,English,Rock,United States of America
+630,https://i.scdn.co/image/ab6761610000f178b5b52f7e13f720c7a4856306,Ozzy Osbourne,6ZLTlhejhndI4Rh53vYhrY,"4,607,899,113",235,0,9,42,179,"133,180,093",Solo - Male,English,Metal,United Kingdom
+631,https://i.scdn.co/image/b32f349333d0710b002b0439fc504558e46bcb07,Simon & Garfunkel,70cRZdQywnSFp9pnc2WTCE,"4,601,757,949",175,0,11,36,131,0,Group - Male,English,Folk,United States of America
+632,https://i.scdn.co/image/ab6761610000f1785548b9bc004104051513c8d7,Dermot Kennedy,5KNNVgR6LBIABRIomyCwKJ,"4,597,824,830",105,0,9,61,96,"17,201,686",Solo - Male,English,Pop,Ireland
+633,https://i.scdn.co/image/ab6761610000f178b3106bc5be728505c84b5585,Pentatonix,26AHtbjWKiwYzsoGoUZq53,"4,588,262,941",221,0,7,107,176,"11,049,326",Group - Mixed,English,Pop,United States of America
+634,https://i.scdn.co/image/ab6761610000f1789dccdc8f4087cbe2bdedc9d3,MGMT,0SwO7SWeDHJijQ3XNS7xEE,"4,585,920,148",98,2,5,27,71,"1,797,278,130",Group - Male,English,Alternative,United States of America
+635,https://i.scdn.co/image/ab6761610000f1786c8167ef48a872b6f190078f,MF DOOM,2pAWfrd7WFF3XhVt9GooDL,"4,581,245,460",565,0,10,74,286,"424,682,326",Solo - Male,English,Hip-hop,United States of America
+636,https://i.scdn.co/image/ab6761610000f178bc7e4fffd515b47ff1ebbc1f,Yo Yo Honey Singh,7uIbLdzzSEqnX0Pkrb56cR,"4,579,318,359",291,0,11,67,151,"608,247,148",Solo - Male,Hindi,Hip-hop,India
+637,https://i.scdn.co/image/ab6761610000f1783fb5214e667e278a20878a6b,alt-J,3XHO7cRUPCLOr6jwp8vsx5,"4,578,434,073",135,1,11,50,104,"2,106,595",Group - Male,English,Alternative,United Kingdom
+638,https://i.scdn.co/image/ab6761610000f1784490e20daec093c04ede38c6,Shubh,5r3wPya2PpeTTsXsGhQU8O,"4,574,124,305",34,0,15,30,34,0,Solo - Male,Punjabi,Hip-hop,India
+639,https://i.scdn.co/image/ab6761610000f1782287136f17708c9d01fa538c,Sigala,1IueXOQyABrMOprrzwQJWN,"4,573,411,349",163,0,16,43,97,"71,851,005",Solo - Male,English,Electronic,United Kingdom
+640,https://i.scdn.co/image/ab6761610000f1787adb9b4f4a089a65b069e6b9,Mike Posner,2KsP6tYLJlTBvSUxnwlVWa,"4,569,394,153",219,1,4,24,85,"361,926,037",Solo - Male,English,Pop,United States of America
+641,https://i.scdn.co/image/ab6761610000f178721445cb649bbf71a4039a1c,Emilia,0AqlFI0tz2DsEoJlKSIiT9,"4,562,895,452",89,0,15,55,81,"960,966,010",Solo - Female,Spanish,Pop,Argentina
+642,https://i.scdn.co/image/ab6761610000f178a7f80939b43d9efe1ca73a22,The Smashing Pumpkins,40Yq4vzPs9VNUrIBG5Jr2i,"4,562,777,298",496,0,9,46,185,"5,052,553",Group - Mixed,English,Rock,United States of America
+643,https://i.scdn.co/image/ab6761610000f17853462891ab7799f2934b568e,Tulus,2iDVt6mFbtbDEZG5ax0dTi,"4,556,727,823",68,0,14,37,67,"11,155,572",Solo - Male,Indonesian,Pop,Indonesia
+644,https://i.scdn.co/image/ab6761610000f1787440170c0628c2945da819c3,Scorpions,27T030eWyCQRmDyuvr1kxY,"4,549,924,079",375,1,8,41,207,"195,184",Group - Male,English,Hard Rock,Germany
+645,https://i.scdn.co/image/ab6761610000f178d8475001d2700686e1008dfb,Van Halen,2cnMpRsOVqtPMfq7YiFE6K,"4,548,681,563",216,1,10,45,137,"56,001",Group - Male,English,Hard Rock,United States of America
+646,https://i.scdn.co/image/ab6761610000f178db253ca1b593bf197493a9fc,Lil Mosey,5zctI4wO9XSKS8XwcnqEHk,"4,544,829,374",85,1,7,33,66,"818,319,003",Solo - Male,English,Hip-hop,United States of America
+647,https://i.scdn.co/image/ab6761610000f178d9fee554b5ae9ad3427c0320,Mc IG,2q9wk5fkeU2C9CgCKdh4AN,"4,541,405,795",327,0,10,87,223,"2,306,318,910",Solo - Male,Portuguese,Brazilian funk,Brazil
+648,https://i.scdn.co/image/ab6761610000f178f673fca644777c0c45abf71d,Banda El Recodo,6AcOTCYBMvjKYy4zms0kaC,"4,535,633,241",704,0,9,77,273,"91,971,219",Ensemble,Spanish,Regional Mexican,Mexico
+649,https://i.scdn.co/image/ab6761610000f1785de44c9558a47909debca2cd,Kenny Chesney,3grHWM9bx2E9vwJCdlRv9O,"4,531,264,339",299,0,11,67,230,"315,617,276",Solo - Male,English,Country,United States of America
+650,https://i.scdn.co/image/ab6761610000f178f090afe7b8ea177c248d4f5f,Sam Feldt,20gsENnposVs2I4rQ5kvrf,"4,529,577,516",264,0,11,71,171,"421,127,460",Solo - Male,English,Electronic,Netherlands
+651,https://i.scdn.co/image/ab6761610000f178a59f2f483877c8d0142f71f3,ScHoolboy Q,5IcR3N7QB1j6KBL8eImZ8m,"4,525,727,693",109,0,10,59,104,"3,065,271,660",Solo - Male,English,Hip-hop,United States of America
+652,https://i.scdn.co/image/ab6761610000f1786114a63659d0d5c0a801f733,Alice In Chains,64tNsm6TnZe2zpcMVMOoHL,"4,519,262,540",137,0,9,59,111,"11,833,654",Group - Male,English,Rock,United States of America
+653,https://i.scdn.co/image/ab6761610000f178c341faffb8b1f403c3150b45,FloyyMenor,7CvTknweLr9feJtRGrpDBy,"4,513,893,367",54,1,7,23,45,"8,491,872",Solo - Male,Spanish,Reggaeton,Chile
+654,https://i.scdn.co/image/ab6761610000f178ff528d242b11fdc4261d05da,Breaking Benjamin,5BtHciL0e0zOP7prIHn3pP,"4,512,993,060",105,0,10,65,101,0,Group - Male,English,Hard Rock,United States of America
+655,https://i.scdn.co/image/ab6761610000f178778483686ae247c1906f02fb,Birdy,2WX2uTcsvV5OnS0inACecP,"4,512,406,252",149,0,8,51,122,"139,686,106",Solo - Female,English,Alternative,United Kingdom
+656,https://i.scdn.co/image/ab6761610000f1786d2f8e8fbf5b13b1baa1eeff,Moneybagg Yo,3tJoFztHeIJkJWMrx0td2f,"4,510,385,301",309,0,8,98,256,"2,539,362,874",Solo - Male,English,Hip-hop,United States of America
+657,https://i.scdn.co/image/ab67726900008f74a60e8f215103f6841d8a83f0,Eric Clapton,6PAt558ZEZl0DmdXlnjMgD,"4,503,878,712",822,0,8,48,319,"268,002,624",Solo - Male,English,Rock,United Kingdom
+658,https://i.scdn.co/image/ab6761610000f1789c402bedf5a5387477b9d804,Ke Personajes,06Q5VlSAku57lFzyME3HrM,"4,486,626,677",118,0,11,59,98,"835,773",Group - Male,Spanish,Tropical,Argentina
+659,https://i.scdn.co/image/ab6761610000f1781263a7722e01be16b21ab944,Harris Jayaraj,29aw5YCdIw2FEXYyAJZI8l,"4,486,239,300",594,0,6,104,245,"24,079,035",Solo - Male,Tamil,Indian Film Music,India
+660,https://i.scdn.co/image/ab6761610000f178c7b9e9a3adcc3f5cbc92fb0b,Trey Songz,2iojnBLj0qIMiKPvVhLnsH,"4,483,923,552",272,0,9,66,199,"1,913,124,567",Solo - Male,English,R&B,United States of America
+661,https://i.scdn.co/image/ab6761610000f17885563828c7493e4edf175379,Sleepy Hallow,6EPlBSH2RSiettczlz7ihV,"4,479,975,652",113,1,9,67,112,"710,097,522",Solo - Male,English,Hip-hop,United States of America
+662,https://i.scdn.co/image/ab6761610000f17831783fb959349f0c82e39bfe,Eric Church,2IvkS5MXK0vPGnwyJsrEyV,"4,469,954,844",326,0,9,63,139,"852,675,999",Solo - Male,English,Country,United States of America
+663,https://i.scdn.co/image/ab6761610000f178cc129f1c9b5047760d66aae2,Stromae,5j4HeCoUlzhfWtjAfM1acR,"4,464,527,075",70,0,8,41,58,"336,234,479",Solo - Male,French,Pop,Belgium
+664,https://i.scdn.co/image/ab6761610000f178a91405d63c939682e4efdcbc,Canserbero,1wGIhYkKWSq4yACtTkCkSX,"4,463,929,637",123,0,12,63,96,"118,100,738",Solo - Male,Spanish,Hip-hop,Venezuela
+665,https://i.scdn.co/image/ab6761610000f178491b2242456d456e76cd0c58,Key Glock,0RESbWvOMyua0yuyVrztJ5,"4,460,493,645",237,0,10,73,225,"668,797,215",Solo - Male,English,Hip-hop,United States of America
+666,https://i.scdn.co/image/ab6761610000f178fbde447822e329707f1c4ea3,The Fray,0zOcE3mg9nS6l3yxt1Y0bK,"4,458,376,661",103,1,5,30,71,"5,199,687",Solo - Male,English,Rock,United States of America
+667,https://i.scdn.co/image/ab6761610000f178800647d0d619aa4bbfc10a53,Sam Hunt,2kucQ9jQwuD8jWdtR9Ef38,"4,454,100,233",68,1,11,37,65,"176,258,662",Solo - Male,English,Country,United States of America
+668,https://i.scdn.co/image/ab6761610000f178227c30a483da30759b462071,Boyce Avenue,7CQwac16i1W5ej8YpuL3dv,"4,451,174,056",521,0,5,112,389,"184,152",Group - Male,English,Pop,United States of America
+669,https://i.scdn.co/image/ab6761610000f178e726280500259dbdb97a8be4,Sublime,0EdvGhlC1FkGItLOWQzG4J,"4,448,331,909",283,1,7,49,144,"1,803,960",Group - Male,English,Alternative,United States of America
+670,https://i.scdn.co/image/ab6761610000f17819668bfd2d3ba192ca3a4944,Julieta Venegas,2QWIScpFDNxmS6ZEMIUvgm,"4,434,939,546",187,1,7,28,111,"1,467,351,374",Solo - Female,Spanish,Pop,Mexico
+671,https://i.scdn.co/image/ab6761610000f178e61627c00d64dcb4de8001d2,CNCO,0eecdvMrqBftK0M1VKhaF4,"4,433,285,682",105,0,10,56,91,"298,298,479",Group - Male,Spanish,Pop,United States of America
+672,https://i.scdn.co/image/ab6761610000f178a657aa5506945d264e147244,The Game,0NbfKEOTQCcwd6o7wSDOHI,"4,433,195,660",742,1,9,50,241,"1,359,410,266",Solo - Male,English,Hip-hop,United States of America
+673,https://i.scdn.co/image/ab67726900008f741dce50b93ca0b1e2f459d9e6,Alan Jackson,4mxWe1mtYIYfP040G38yvS,"4,432,706,062",295,0,12,61,229,"160,304,347",Solo - Male,English,Country,United States of America
+674,https://i.scdn.co/image/ab6761610000f178d8205a492a79bfe4b34c567a,KISS,07XSN3sPlIlB2L2XNcTwJw,"4,430,362,967",727,1,7,36,236,0,Group - Male,English,Hard Rock,United States of America
+675,https://i.scdn.co/image/ab6761610000f178afae170b6ddc09d155ace3af,Bruno & Marrone,5JXhkyafynxCvxtov7C1PV,"4,430,104,097",585,0,6,90,341,"351,658,713",Group - Male,Portuguese,Sertanejo,Brazil
+676,https://i.scdn.co/image/ab6761610000f17816051e1b5d6dd8a45b8633e4,(G)I-DLE,2AfmfGFbe0A0WsTYm0SDTx,"4,424,569,764",124,0,14,56,98,"87,732,231",Group - Female,Korean,K-Pop,South Korea
+677,https://i.scdn.co/image/ab6761610000f178e117b72110c334c07dc13135,La Oreja de Van Gogh,4U7lXyKdSf1JbM1aXvsodC,"4,419,133,083",209,1,10,55,175,"104,352,683",Group - Mixed,Spanish,Pop,Spain
+678,https://i.scdn.co/image/ab6761610000f17802b3aa55ba238b2ceafb09da,Jay Chou,2elBjNSdBE2Y3f0j1mjrql,"4,416,538,113",351,0,5,94,243,"46,745,538",Solo - Male,Mandarin,Pop,Taiwan
+679,https://i.scdn.co/image/ab6761610000f17865dfd5444ab66e12975674dd,Ha*Ash,5xd2Tg7Zo8755eCy8Gxkp8,"4,413,611,352",160,0,12,62,138,"974,651,186",Group - Female,Spanish,Pop,United States of America
+680,https://i.scdn.co/image/ab6761610000f17855cb9c8f81fcf4d31d3e29dc,Joel Corry,6DgP9otnZw5z6daOntINxp,"4,409,806,394",298,1,8,31,110,"80,711,178",Solo - Male,English,Electronic,United Kingdom
+681,https://i.scdn.co/image/ab6761610000f178ae59aa2a67a1c5ec69555d1f,Xavi,3Me35AWHCGqW4sZ7bWWJt1,"4,407,978,000",61,1,8,34,58,"61,656,730",Solo - Male,Spanish,Regional Mexican,United States of America
+682,https://i.scdn.co/image/ab6761610000f1782d972470f1f8110be7c07017,Ghost,1Qp56T7n950O3EGMsSl81D,"4,388,995,604",133,0,8,76,122,"98,448",Group - Male,English,Hard Rock,Sweden
+683,https://i.scdn.co/image/ab6761610000f178356dc7e9ba8792cb86a0c50c,Shaggy,5EvFsr3kj42KNv97ZEnqij,"4,385,798,609",470,1,6,35,139,"1,019,802,672",Solo - Male,English,Reggae / Dancehall,Jamaica
+684,https://i.scdn.co/image/ab6761610000f178c9a97fba42e640d955fedf46,B.o.B,5ndkK3dpZLKtBklKjxNQwT,"4,380,474,196",487,2,8,26,90,"2,635,532,957",Solo - Male,English,Hip-hop,United States of America
+685,https://i.scdn.co/image/ab6761610000f178d5112a5b16a01e971ebb049c,Leon Bridges,3qnGvpP8Yth1AqSBMqON5x,"4,378,131,496",111,0,11,57,101,"148,782,450",Solo - Male,English,Soul / Motown R&B,United States of America
+686,https://i.scdn.co/image/ab6761610000f178447a60e587e104c24ed3c890,EXO,3cjEqqelV9zb4BYE3qDQ4O,"4,369,066,123",332,0,10,85,226,0,Group - Male,Korean,K-Pop,South Korea
+687,https://i.scdn.co/image/ab6761610000f178f74070a7e4a3e7743f68b058,Rudimental,4WN5naL3ofxrVBgFpguzKo,"4,364,503,691",275,1,7,39,148,"295,344,233",Group - Male,English,Electronic,United Kingdom
+688,https://i.scdn.co/image/ab6761610000f178f556662d187b9191c421be1c,2 Chainz,17lzZA2AlOHwCwFALHttmp,"4,361,986,744",419,0,9,68,216,"9,785,954,965",Solo - Male,English,Hip-hop,United States of America
+689,https://i.scdn.co/image/ab6761610000f1789e9e37346b72b418474088af,Juan Luis Guerra 4.40,3nlpTZci9O5W8RsNoNH559,"4,360,052,254",286,0,12,60,177,"1,747,506,671",Group - Male,Spanish,Tropical,Dominican Republic
+690,https://i.scdn.co/image/ab6761610000f178fc0524cca1171fac8678f4bf,Sabaton,3o2dn2O0FCVsWDFSh8qxgG,"4,352,670,361",353,0,6,102,226,0,Group - Male,English,Metal,Sweden
+691,https://i.scdn.co/image/ab6761610000f17850d78514ff06d15be59fbbc3,Maren Morris,6WY7D3jk8zTrHtmkqqo5GI,"4,349,986,135",108,1,8,30,87,"825,435,162",Solo - Female,English,Country,United States of America
+692,https://i.scdn.co/image/438b280a22e63f994fd39feb031683fb861a31cb,Johann Sebastian Bach,5aIqB5nVVvmFsvSdExz408,"4,329,961,886","17,156",0,3,57,513,"694,785",Solo - Male,Instrumental,Classical,Germany
+693,https://i.scdn.co/image/ab6761610000f178d4d18d62a36a26fe36b70e2a,Chance the Rapper,1anyVhU62p31KFi8MEzkbf,"4,323,275,746",133,0,11,58,119,"7,361,285,557",Solo - Male,English,Hip-hop,United States of America
+694,https://i.scdn.co/image/ab6761610000f1785f47b9b3519a7f3bae080731,Jon Pardi,4MoAOfV4ROWofLG3a3hhBN,"4,318,763,693",103,0,9,33,77,"286,767,104",Solo - Male,English,Country,United States of America
+695,https://i.scdn.co/image/ab6761610000f178cfa5421bfe01fa7eea6308fe,Chayanne,1JbemQ1fPt2YmSLjAFhPBv,"4,317,495,006",234,0,11,45,132,"314,765,867",Solo - Male,Spanish,Pop,Puerto Rico
+696,https://i.scdn.co/image/ab6761610000f178d8b08d3199d2bd40f909e449,Apache 207,1qQLhymHXFPtP5U8KNKsm6,"4,317,130,110",89,0,11,67,88,"201,126,215",Solo - Male,German,Hip-hop,Germany
+697,https://i.scdn.co/image/ab6761610000f17811b1fd4dfaa772c272ac98ec,A$AP Ferg,5dHt1vcEm9qb8fCyLcB3HL,"4,314,609,100",143,0,7,55,106,"1,747,199,657",Solo - Male,English,Hip-hop,United States of America
+698,https://i.scdn.co/image/ab6761610000f1786f8f8d13be17bf486219edc7,Pierce The Veil,4iJLPqClelZOBCBifm8Fzv,"4,311,512,762",82,0,10,73,80,"12,474,859",Group - Male,English,Hard Rock,United States of America
+699,https://i.scdn.co/image/ab6761610000f1781b1d1a60a2e95efc4eea8259,Aya Nakamura,7IlRNXHjoOCgEAWN5qYksg,"4,299,553,645",117,0,8,68,114,"306,923,319",Solo - Female,French,R&B,France
+700,https://i.scdn.co/image/ab6761610000f178876f7ad601fe9a02247b9fb9,Rod Stewart,2y8Jo9CKhJvtfeKOsYzRdT,"4,296,232,422",708,0,10,59,266,"1,029,270,642",Solo - Male,English,Rock,United Kingdom
+701,https://i.scdn.co/image/ab6761610000f178287ab5054de3388bf615a42d,BigXthaPlug,6qxpnaukVayrQn6ViNvu9I,"4,294,997,416",119,0,11,56,90,"486,400,405",Solo - Male,English,Hip-hop,United States of America
+702,https://i.scdn.co/image/ab6761610000f178dd4ee0f4cb8d05ecff5c8c88,De La Ghetto,3EiLUeyEcA6fbRPSHkG5kb,"4,291,903,042",247,0,11,55,153,"6,053,486,068",Solo - Male,English,Hip-hop,United States of America
+703,https://i.scdn.co/image/ab6761610000f178b1fa84619efb4bdf4f5e9c4b,Cody Johnson,6zLBxLdl60ekBLpawtT63I,"4,285,062,531",172,0,13,58,148,"174,958,778",Solo - Male,English,Country,United States of America
+704,https://i.scdn.co/image/ab6761610000f178cf14abc10b18bc3c2373491f,Shinedown,70BYFdaZbEKbeauJ670ysI,"4,280,876,179",214,0,11,71,169,0,Group - Male,English,Hard Rock,United States of America
+705,https://i.scdn.co/image/ab6761610000f17878edaa6468cae153565c2c97,sombr,4G9NDjRyZFDlJKMRL8hx3S,"4,265,693,080",34,1,7,23,34,"27,564,122",Solo - Male,English,Alternative,United States of America
+706,https://i.scdn.co/image/ab6761610000f178da4bd2b213cae330e2a4a901,Rage Against The Machine,2d0hyoQ5ynDBnkvAbJKORj,"4,263,614,755",123,1,9,37,83,0,Group - Male,English,Metal,United States of America
+707,https://i.scdn.co/image/ab6761610000f17812057d342f33c61b3768f2bc,T.I.,4OBJLual30L7gRl5UkeRcT,"4,262,141,681",433,0,8,52,224,"4,830,252,264",Solo - Male,English,Hip-hop,United States of America
+708,https://i.scdn.co/image/ab6761610000f1789400a1dccee9f0df97847c0f,Bradley Cooper,4VIvfOurcf0vuLRxLkGnIG,"4,258,908,057",14,1,5,10,10,"816,539",Solo - Male,English,Musical,United States of America
+709,https://i.scdn.co/image/ab6761610000f178b786cb6de7505caff17fe11f,Hindia,51kyrUsAVqUBcoDEMFkX12,"4,257,492,301",80,0,11,42,79,"11,490,933",Solo - Male,Indonesian,Alternative,Indonesia
+710,https://i.scdn.co/image/ab6761610000f178153198caeef9e3bda92f9285,Nas,20qISvAhX20dpIbOOzGK3q,"4,244,921,129",439,0,9,69,297,"1,404,954,170",Solo - Male,English,Hip-hop,United States of America
+711,https://i.scdn.co/image/ab6761610000f1787fbd42b2f8ddebe1a817c53a,Dolly Parton,32vWCbZh0xZ4o9gkz4PsEU,"4,237,277,930","1,101",0,6,35,228,"497,000,836",Solo - Female,English,Country,United States of America
+712,https://i.scdn.co/image/ab6761610000f178eaec0febbefd0b52023e9425,Ella Henderson,7nDsS0l5ZAzMedVRKPP8F1,"4,236,999,735",172,0,11,39,87,"536,420,348",Solo - Female,English,Pop,United Kingdom
+713,https://i.scdn.co/image/ab6761610000f1782ebf587c72f9e5159da9ce55,Wham!,5lpH0xAS4fVfLkACg9DAuM,"4,233,079,176",55,2,4,14,33,"1,127,518",Group - Male,English,Pop,United Kingdom
+714,https://i.scdn.co/image/ab6761610000f178a9a6d54d23c227f375487916,Mau y Ricky,2wkoKEfS6dXwThbyTnZWFU,"4,224,826,674",109,0,7,43,92,"633,260,691",Group - Male,Spanish,Pop,Venezuela
+715,https://i.scdn.co/image/ab6761610000f178b09a31f853166e721d4d46b2,KK,4fEkbug6kZzzJ8eYX6Kbbp,"4,224,716,882",449,0,11,57,134,"1,930,681,694",Solo - Male,Hindi,Indian Film Music,India
+716,https://i.scdn.co/image/ab6761610000f17808b1ae876402b0a3c83d0030,Hillsong UNITED,74cb3MG0x0BOnYNW1uXYnM,"4,220,710,799",412,0,7,84,301,"134,807,345",Ensemble,English,Religious,Australia
+717,https://i.scdn.co/image/ab6761610000f1789ce996547e0b307c94f662e6,Enya,6uothxMWeLWIhsGeF7cyo4,"4,209,762,391",148,0,7,83,135,"1,070,570,703",Solo - Female,English,New Age,Ireland
+718,https://i.scdn.co/image/ab6761610000f1782d29da5c868bc5a81d545b79,Ufo361,5pVRwX5ZQR7hfJ18w8ZYkl,"4,202,916,195",312,0,4,104,257,"905,080,027",Solo - Male,German,Hip-hop,Germany
+719,https://i.scdn.co/image/ab6761610000f17893028abb7c53726222b50072,DJ Luian,64aJYyrXljOodnUG6jvhRD,"4,200,053,742",50,0,9,22,44,"4,351,550,939",Solo - Male,Spanish,Electronic,Puerto Rico
+720,https://i.scdn.co/image/ab6761610000f178d570667643682f6c1e99167e,Dean Martin,49e4v89VmlDcFCMyDv9wQ9,"4,193,986,714",755,1,9,40,169,"33,664,061",Solo - Male,English,Pop,United States of America
+721,https://i.scdn.co/image/ab6761610000f17870cc06de8fc28226d4743cd9,The White Stripes,4F84IBURUo98rz4r61KF70,"4,190,900,800",198,1,6,33,117,0,Group - Mixed,English,Rock,United States of America
+722,https://i.scdn.co/image/ab6761610000f178625af80b68ae4eb559c6c417,Sum 41,0qT79UgT5tY4yudH9VfsdT,"4,185,200,001",131,0,8,49,121,"21,406,729",Group - Male,English,Rock,Canada
+723,https://i.scdn.co/image/ab6761610000f178d25f86760d4360b22f8696da,Ferrugem,5ZfBThYiIIhL7jHMG8gDB2,"4,175,064,470",338,0,11,72,234,"682,695,497",Solo - Male,Portuguese,Samba / Pagode,Brazil
+724,https://i.scdn.co/image/ab6761610000f1789754b38c722fc1882174c874,Nat King Cole,7v4imS0moSyGdXyLgVTIV7,"4,173,657,850","1,096",0,9,46,173,"127,182,372",Solo - Male,English,Jazz / Swing,United States of America
+725,https://i.scdn.co/image/ab6761610000f178cb243eb64e92b61504ea957b,Gwen Stefani,4yiQZ8tQPux8cPriYMWUFP,"4,171,046,438",120,0,8,23,82,"1,750,888,908",Solo - Female,English,Pop,United States of America
+726,https://i.scdn.co/image/ab6761610000f178f023bccf9a510b84294b3956,Cosculluela,00me4Ke1LsvMxt5kydlMyU,"4,169,539,914",200,0,10,47,134,"1,926,162,426",Solo - Male,Spanish,Reggaeton,Puerto Rico
+727,https://i.scdn.co/image/ab6761610000f17885090748e02f553d5b14592c,Kevin Kaarl,6OBGbSaBUvQtk9wpQfDbOE,"4,158,464,891",68,0,12,48,59,"16,609,600",Solo - Male,Spanish,Folk,Mexico
+728,https://i.scdn.co/image/ab6761610000f1781e054306a04746038131cf7a,Topic,0u6GtibW46tFX7koQ6uNJZ,"4,150,510,147",134,1,5,35,77,"1,004,610,814",Solo - Male,English,Electronic,Germany
+729,https://i.scdn.co/image/ab6761610000f1783c5f7536a20f0f2e7824d250,Volbeat,0L5fC7Ogm2YwgqVCRcF1bT,"4,140,907,355",217,0,7,73,174,0,Group - Male,English,Hard Rock,Denmark
+730,https://i.scdn.co/image/ab6761610000f178536bd31ff8011be5430502cd,Yuridia,5B8ApeENp4bE4EE3LI8jK2,"4,134,742,575",186,0,10,69,138,"143,355,864",Solo - Female,Spanish,Pop,Mexico
+731,https://i.scdn.co/image/ab6761610000f1782064b57344edc592454c8090,3 Doors Down,2RTUTCvo6onsAnheUk3aL9,"4,121,762,876",161,1,6,35,110,"2,225,173",Group - Male,English,Hard Rock,United States of America
+732,https://i.scdn.co/image/ab6761610000f178bccdbb98ab5d54454cd0fe85,Swae Lee,1zNqQNIdeOUZHb8zbZRFMX,"4,116,742,378",71,0,9,39,62,"11,271,380,779",Solo - Male,English,Hip-hop,United States of America
+733,https://i.scdn.co/image/ab6761610000f17855c7e48dcca39da16ac29471,Gazo,5gqmbbfjcikQBzPB5Hv13I,"4,116,053,242",126,0,11,72,124,"354,219,558",Solo - Male,French,Hip-hop,France
+734,https://i.scdn.co/image/ab6761610000f1789160fac7a1ecb8ee89a633ac,Why Don't We,2jnIB6XdLvnJUeNTy5A0J2,"4,109,968,395",99,0,10,65,89,"99,689,329",Group - Male,English,Pop,United States of America
+735,https://i.scdn.co/image/ab6761610000f1784a733f510df96652c3bea05b,Falling In Reverse,2CmaKO2zEGJ1NWpS1yfVGz,"4,109,359,618",75,0,9,57,75,0,Group - Male,English,Metal,United States of America
+736,https://i.scdn.co/image/ab6761610000f178b5393a6579d549f00d4fa987,Prince,5a2EaR3hamoenG9rDuVn8j,"4,107,559,283",903,0,8,48,237,"22,094,595",Solo - Male,English,Soul / Motown R&B,United States of America
+737,https://i.scdn.co/image/ab6761610000f1787ebb9816fc711b44d4fe58e5,Intocable,108moq3rq6bm1M4Ypz0J02,"4,107,420,010",342,0,10,56,246,"40,954,984",Group - Male,Spanish,Regional Mexican,Mexico
+738,https://i.scdn.co/image/ab6761610000f178b713079a55dcf937d241dd2b,Timbaland,5Y5TRrQiqgUO4S36tzjIRZ,"4,104,861,026",201,1,5,22,86,"4,972,652,013",Solo - Male,English,R&B,United States of America
+739,https://i.scdn.co/image/ab6761610000f17802a562ea6b1dc718394010ac,Red Velvet,1z4g3DjTBBZKhvAroFlhOM,"4,100,866,096",157,0,7,64,148,"30,385,283",Group - Female,Korean,K-Pop,South Korea
+740,https://i.scdn.co/image/ab6761610000f178da3f48cf2309aacaab0edce2,Ñengo Flow,12vb80Km0Ew53ABfJOepVz,"4,093,377,374",367,0,10,59,222,"7,896,949,633",Solo - Male,Spanish,Reggaeton,Puerto Rico
+741,https://i.scdn.co/image/ab6761610000f178a14f3c128a04fc7d7def9f7c,Lunay,47MpMsUfWtgyIIBEFOr4FE,"4,078,385,627",68,1,10,37,68,"1,657,822,001",Solo - Male,Spanish,Reggaeton,Puerto Rico
+742,https://i.scdn.co/image/ab6761610000f1780a052faab8058ca12cd9ff9b,Ivan Cornejo,6PH3FLQAxtqYy46Zv08bpV,"4,074,092,593",40,0,15,38,40,"537,735,668",Solo - Male,Spanish,Regional Mexican,United States of America
+743,https://i.scdn.co/image/ab6761610000f1787c82ddc68c54bcffb9f7a034,Hungria Hip Hop,0vLuOi2k62sHujIfplInlK,"4,071,579,098",135,0,11,72,114,"253,988,084",Solo - Male,Portuguese,Hip-hop,Brazil
+744,https://i.scdn.co/image/ab6761610000f1786ee22df4403027ae525ced87,Electric Light Orchestra,7jefIIksOi1EazgRTfW2Pk,"4,063,803,875",312,1,8,31,174,"99,355,873",Group - Male,English,Rock,United Kingdom
+745,https://i.scdn.co/image/ab6761610000f1786634ca0e7f75951bfcee22fa,X Ambassadors,3NPpFNZtSTHheNBaWC82rB,"4,061,332,334",161,0,6,34,104,"1,638,017,138",Group - Male,English,Rock,United States of America
+746,https://i.scdn.co/image/ab6761610000f178881ed0aa97cc8420685dc90e,Mambo Kingz,2T1aUibqR2QC2sINIDQOAK,"4,060,533,401",45,0,10,16,23,"4,119,803,402",Group - Male,Spanish,Reggaeton,Puerto Rico
+747,https://i.scdn.co/image/ab6761610000f178a37271f7a4862a6e99ce345f,Amit Trivedi,7HCqGPJcQTyGJ2yqntbuyr,"4,049,420,173",606,0,14,66,202,"151,536,027",Solo - Male,Hindi,Indian Film Music,India
+748,https://i.scdn.co/image/ab6761610000f178a7320e387a6032ed6ef726ff,Victor Mendivil,5YqI7p8zYsOpKJtjxYdOce,"4,048,297,707",55,0,15,49,54,"387,596,134",Solo - Male,Spanish,Hip-hop,Mexico
+749,https://i.scdn.co/image/ab6761610000f178b26146b5962c243babaa11f0,Darshan Raval,2GoeZ0qOTt6kjsWW4eA6LS,"4,047,372,234",169,0,12,48,110,"480,939,535",Solo - Male,Hindi,Indian Film Music,India
+750,https://i.scdn.co/image/ab6761610000f1784b245e1bf79a109b7a1876d2,Oliver Tree,6TLwD7HPWuiOzvXEa3oCNe,"4,044,491,237",121,0,9,51,99,"455,707,687",Solo - Male,English,Alternative,United States of America
+751,https://i.scdn.co/image/ab6761610000f178bfb79df787104f6b3363529f,Kim Petras,3Xt3RrJMFv5SZkCfUE8C1J,"4,041,181,616",143,1,3,47,125,"787,368,915",Solo - Female,English,Pop,Germany
+752,https://i.scdn.co/image/ab6761610000f178d39f6882e384376eaf3271a0,SAINt JHN,0H39MdGGX6dbnnQPt6NQkZ,"4,039,541,360",86,1,4,47,71,"193,116,664",Solo - Male,English,Hip-hop,United States of America
+753,https://i.scdn.co/image/ab6761610000f178a82c4769b72aaa8474f4f099,Jorja Smith,1CoZyIx7UvdxT5c8UkMzHd,"4,038,767,069",135,0,9,56,108,"919,680,793",Solo - Female,English,R&B,United Kingdom
+754,https://i.scdn.co/image/ab6761610000f17852c3a2c1fa4472bb5cf6a9bb,Funk Wav,4A0TivfinfALCAMJqqjZIk,"4,033,833,286",11,2,6,11,11,0,Solo - Male,English,Electronic,United Kingdom
+755,https://i.scdn.co/image/ab6761610000f178fe8a6cb29ef8acc97e6bb3b1,Veigh,4YqwRbMLqGHRHLS1w2ZKse,"4,030,115,130",107,0,10,73,101,"602,344,265",Solo - Male,Portuguese,Hip-hop,Brazil
+756,https://i.scdn.co/image/ab6761610000f178d045f0bbfc6ca6d1986161b8,Carrie Underwood,4xFUf1FHVy696Q1JQZMTRj,"4,027,521,621",194,0,10,56,143,"557,997,042",Solo - Female,English,Country,United States of America
+757,https://i.scdn.co/image/ab6761610000f1780168ba8148c07c2cdeb7d067,a-ha,2jzc5TC5TVFLXQlBNiIUzE,"4,024,999,510",375,1,4,21,107,"26,962",Group - Male,English,Alternative,Norway
+758,https://i.scdn.co/image/500d9d449b4ad8e8158d5417de875438c16fd9da,Ms. Lauryn Hill,2Mu5NfyYm8n5iTomuKAEHl,"4,017,649,458",74,0,9,29,60,"716,311,551",Solo - Female,English,Hip-hop,United States of America
+759,https://i.scdn.co/image/ab6761610000f178a54adba5045ec1bf457a9666,Lofi Fruits Music,1dABGukgZ8XKKOdd2rVSHM,"4,013,890,242","1,114",0,0,52,752,"311,660,937",Franchise,Instrumental,Electronic,Netherlands
+760,https://i.scdn.co/image/ab6761610000f178543c49af42b2a867c12a6327,Brytiago,00XhexlJEXQstHimpZN910,"4,002,496,918",140,0,10,54,114,"3,738,795,329",Solo - Male,Spanish,Reggaeton,Puerto Rico
+761,https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b,Phoebe Bridgers,1r1uxoy19fzMxunt3ONAkG,"3,988,951,477",65,0,11,42,64,"2,481,202,522",Solo - Female,English,Folk,United States of America
+762,https://i.scdn.co/image/ab6761610000f178347ca7e9f41f3ff8e2b19034,Roxette,2SHhfs4BiDxGQ3oxqf0UHY,"3,977,460,443",557,0,8,33,144,"454,195",Group - Mixed,English,Rock,Sweden
+763,https://i.scdn.co/image/ab6761610000f17877ef80571a40d9d19cf52208,The Vamps,7gAppWoH7pcYmphCVTXkzs,"3,974,524,818",169,0,11,48,120,"1,042,602",Group - Male,English,Pop,United Kingdom
+764,https://i.scdn.co/image/ab6761610000f17897c652b3442755c921c1277f,Years & Years,5vBSrE1xujD2FXYRarbAXc,"3,970,480,831",161,0,10,41,110,"162,490,788",Group - Male,English,Pop,United Kingdom
+765,https://i.scdn.co/image/ab6761610000f1788625dac822c90c5f8c605170,All Time Low,46gyXjRIvN1NL1eCB8GBxo,"3,970,196,164",256,0,5,77,225,"8,245,556",Group - Male,English,Alternative,United States of America
+766,https://i.scdn.co/image/ab6761610000f178909899cd7ed1cd7353ac24f1,Shania Twain,5e4Dhzv426EvQe3aDb64jL,"3,969,797,396",239,0,7,44,142,"478,496,239",Solo - Female,English,Country,Canada
+767,https://i.scdn.co/image/ab6761610000f17890c8b988fa6e6b40e0d0bf81,Jimi Hendrix,776Uo845nYHJpNaStv1Ds4,"3,969,078,627",642,0,7,41,178,"4,987,169",Solo - Male,English,Rock,United States of America
+768,https://i.scdn.co/image/ab6761610000f17806f04f40ecb8ca92cb714908,Amitabh Bhattacharya,2fMqTqiTxUDlmcOEPaQSsx,"3,968,213,554",185,0,12,35,66,"6,675,219,556",Solo - Male,Hindi,Indian Film Music,India
+769,https://i.scdn.co/image/ab6761610000f17895ccca370d8bd50e84c222bc,Ken Car$on,3gBZUcNeVumkeeJ19CY2sX,"3,968,150,213",109,0,9,75,108,"380,132,812",Solo - Male,English,Hip-hop,United States of America
+770,https://i.scdn.co/image/ab6761610000f178f9b7423c2a64c31474ae92ea,Carlos Rivera,39yVoqm6sYFvvqF1RciUVf,"3,967,709,171",266,0,10,70,204,"1,010,777,107",Solo - Male,Spanish,Pop,Mexico
+771,https://i.scdn.co/image/ab6761610000f1782ab7328003efce0578d1ed91,Vishal Mishra,5wJ1H6ud777odtZl5gG507,"3,958,810,526",390,0,10,39,127,"735,419,075",Solo - Male,Hindi,Indian Film Music,India
+772,https://i.scdn.co/image/ab6761610000f1786cb9e713c8980cfc466381d7,Stephen Sanchez,5XKFrudbV4IiuE5WuTPRmT,"3,956,331,072",43,2,5,22,38,"2,067,487",Solo - Male,English,Pop,United States of America
+773,https://i.scdn.co/image/ab6761610000f1787b386b1320742bd6686854e7,Badshah,0y59o4v8uw5crbN9M3JiL1,"3,953,963,034",271,0,13,58,136,"1,621,077,719",Solo - Male,Hindi,Hip-hop,India
+774,https://i.scdn.co/image/ab6761610000f178b3e38a46a56a423d8f741c09,Beach House,56ZTgzPBDge0OvCGgMO3OY,"3,953,961,271",116,1,6,49,108,0,Group - Mixed,English,Alternative,United States of America
+775,https://i.scdn.co/image/ab6761610000f178d930a9c4f1d37c230d303a86,MC Kevin o Chris,2UMj7NCbuqy1yUZmiSYGjJ,"3,924,359,175",456,0,12,50,155,"638,088,082",Solo - Male,Portuguese,Brazilian funk,Brazil
+776,https://i.scdn.co/image/ab6761610000f178961ef259d6d8101edd2f80c0,M83,63MQldklfxkjYDoUE4Tppz,"3,917,725,954",295,1,5,41,142,"17,476,348",Group - Male,English,Electronic,France
+777,https://i.scdn.co/image/ab6761610000f1783c7fd92646cae6da47d7f092,Sorriso Maroto,1fUSLFr4WUBx7joEcGwpvG,"3,917,099,429",453,0,5,79,342,"357,260,923",Group - Male,Portuguese,Samba / Pagode,Brazil
+778,https://i.scdn.co/image/4957431c9881f30a238aeb0c2bc76e05e6a46831,Los Enanitos Verdes,4TK1gDgb7QKoPFlzRrBRgR,"3,914,824,580",202,0,8,28,119,"35,346,748",Group - Male,Spanish,Rock,Argentina
+779,https://i.scdn.co/image/ab6761610000f1785cb57224cd6e74a82b2accd6,Bronco,0VKh7CQDi9MkUvaBMoK1V0,"3,912,636,926",530,0,9,71,241,"94,384,494",Group - Male,Spanish,Regional Mexican,Mexico
+780,https://i.scdn.co/image/ab6761610000f1787b2223531cf35493f38426a6,Diego & Victor Hugo,3k68C6mNMJL6OaAdWeW2ZF,"3,912,624,255",245,0,10,50,155,"70,588,005",Group - Male,Portuguese,Sertanejo,Brazil
+781,https://i.scdn.co/image/ab6761610000f178a70aeaa15efdfd6a23d5d568,Gustavo Mioto,1X6ORK7IekgmyjV6IFPszP,"3,909,552,433",200,0,14,59,143,"111,914,647",Solo - Male,Portuguese,Sertanejo,Brazil
+782,https://i.scdn.co/image/ab6761610000f17883a6dd3444d8a133e48486a0,NEFFEX,3z97WMRi731dCvKklIf2X6,"3,904,391,365",292,0,8,66,279,0,Solo - Male,English,Electronic,United States of America
+783,https://i.scdn.co/image/ab6761610000f1786fb848e6126054ad4f4dbb70,La Santa Grifa,1oH2B8tcHn4Gpl2bmmyd4A,"3,902,031,644",273,0,7,65,207,"220,000,716",Group - Male,Spanish,Hip-hop,Mexico
+784,https://i.scdn.co/image/ab6761610000f178750cf05b8b670b7d2c056822,Bethel Music,26T4yOaOoFJvUvxR87Y9HO,"3,888,091,650",414,0,5,94,349,"468,164",Label,English,Religious,United States of America
+785,https://i.scdn.co/image/ab6761610000f1782fd40dfb96a93257ef5e5cbf,Murilo Huff,3hq7WoPJsrRP0KMSLhUgRz,"3,884,376,536",177,0,14,70,153,"259,880,286",Solo - Male,Portuguese,Sertanejo,Brazil
+786,https://i.scdn.co/image/ab6761610000f178f12270128127ba170f90097d,Aretha Franklin,7nwUJBm0HE4ZxD3f5cy5ok,"3,875,378,997",881,0,7,40,174,"19,470,988",Solo - Female,English,Soul / Motown R&B,United States of America
+787,https://i.scdn.co/image/ab6761610000f178dbe0d58f538b7d18e324af5e,RÜFÜS DU SOL,5Pb27ujIyYb33zBqVysBkj,"3,873,484,800",233,0,9,60,148,"16,950,155",Group - Male,English,Electronic,Australia
+788,https://i.scdn.co/image/ab6761610000f178ab559c0d48ef955cecd4555d,Mc Don Juan,7Lmrb6KcIzfkmgbtokjsAL,"3,870,080,174",304,0,12,62,157,"2,403,085,773",Solo - Male,Portuguese,Brazilian funk,Brazil
+789,https://i.scdn.co/image/ab6761610000f178ac92824eb3acb40fe677ef99,Eden Muñoz,1gJdf4Yybu4X5A2xYV3NMV,"3,870,000,879",145,0,9,57,133,"223,401,583",Solo - Male,Spanish,Regional Mexican,Mexico
+790,https://i.scdn.co/image/ab6761610000f1788de0e6e7e55d7773931ab7f4,Udit Narayan,70B80Lwx2sxti0M1Ng9e8K,"3,869,577,677","1,540",0,4,91,355,"4,310,375,901",Solo - Male,Hindi,Indian Film Music,India
+791,https://i.scdn.co/image/ab6761610000f178f7fd0489c7de07aa1e98ba06,LUCKI,5tQMB0cuNXdCtzovGt55uD,"3,867,003,689",249,0,8,85,236,"253,878,639",Solo - Male,English,Hip-hop,United States of America
+792,https://i.scdn.co/image/ab6761610000f178fa27f66f319b25d81452b876,UZI,51DevdOxIJin6DB1FXJpD1,"3,861,089,348",112,0,11,70,108,"435,224,729",Solo - Male,Turkish,Hip-hop,Turkey
+793,https://i.scdn.co/image/ab6761610000f178eefc6f13cec94fe613a6c1c8,AURORA,1WgXqy2Dd70QQOU7Ay074N,"3,857,147,007",158,1,5,72,133,"817,510,320",Solo - Female,English,Alternative,Norway
+794,https://i.scdn.co/image/ab6761610000f1785685a95f87c28ae5efc5ba48,BROCKHAMPTON,1Bl6wpkWCQ4KVgnASpvzzA,"3,856,040,750",141,0,10,78,138,0,Group - Male,English,Hip-hop,United States of America
+795,https://i.scdn.co/image/ab6761610000f178ab0922f900e6c22b8ef4c01c,Mötley Crüe,0cc6vw3VN8YlIcvr1v7tBL,"3,852,379,278",231,0,10,38,125,"4,167,120",Group - Male,English,Hard Rock,United States of America
+796,https://i.scdn.co/image/ab6761610000f17847df925e56857f312974ff55,Axwell,1xNmvlEiICkRlRGqlNFZ43,"3,849,010,420",228,1,7,32,82,"183,636,989",Solo - Male,English,Electronic,Sweden
+797,https://i.scdn.co/image/ab6761610000f1788196a8109c28a8b8aca28fae,Rick Ross,1sBkRIssrMs1AbVkOJbc7a,"3,839,324,116",376,0,6,66,228,"8,221,362,105",Solo - Male,English,Hip-hop,United States of America
+798,https://i.scdn.co/image/ab6761610000f178acad48182c5778b5a0ec77ed,Sido,4Yttlv9ndGjCDCVLqM7ACq,"3,834,211,807",383,0,8,83,233,"809,849,435",Solo - Male,German,Hip-hop,Germany
+799,https://i.scdn.co/image/ab6761610000f178fdfbc01d2597633aae65f6b7,Mother Mother,0e86yPdC41PGRkLp2Q1Bph,"3,831,039,763",227,0,10,38,143,"94,417",Group - Mixed,English,Rock,Canada
+800,https://i.scdn.co/image/ab6761610000f1787fa9108c6dadb8c3ec21da88,Wolfgang Amadeus Mozart,4NJhFmfw43RLBLjQvxDuRS,"3,824,051,622","15,805",0,3,53,523,"606,460",Solo - Male,Instrumental,Classical,Austria
+801,https://i.scdn.co/image/ab6761610000f178e70700c1329d2f26971c3914,Sufjan Stevens,4MXUO7sVCaFgFjoTI5ox5c,"3,823,149,359",461,0,8,35,224,"84,298,012",Solo - Male,English,Folk,United States of America
+802,https://i.scdn.co/image/ab6761610000f1786ffa6712d289598ae7dfea4a,Guilherme & Benuto,6m6e7D2TnV0aYMllFFwMxu,"3,814,469,485",223,0,11,46,134,"356,400,632",Group - Male,Portuguese,Sertanejo,Brazil
+803,https://i.scdn.co/image/ab6761610000f178945c7dd5f0ca173c79fb58ab,WILLOW,3rWZHrfrsPBxVy692yAIxF,"3,811,661,043",122,1,7,30,100,"639,270,751",Solo - Female,English,Alternative,United States of America
+804,https://i.scdn.co/image/ab6761610000f1783db0499a689aa9b4a47ebba3,Shankar-Ehsaan-Loy,0L5GV6LN8SWWUWIdBbTLTZ,"3,808,963,475",325,0,9,58,143,"487,476,722",Group - Male,Hindi,Indian Film Music,India
+805,https://i.scdn.co/image/ab6761610000f178612fce95c244265fd9c89c83,JP Cooper,4kYGAK2zu9EAomwj3hXkXy,"3,807,274,933",162,1,6,39,101,"151,351,195",Solo - Male,English,Pop,United Kingdom
+806,https://i.scdn.co/image/ab6761610000f1786e6e182a0d4e0f481db722e2,Kylie Minogue,4RVnAU35WRWra6OZ3CbbMA,"3,806,481,555","1,101",0,4,60,240,"208,204,170",Solo - Female,English,Pop,Australia
+807,https://i.scdn.co/image/ab6761610000f1786164f861e5e683c9067f4395,A Day To Remember,4NiJW4q9ichVqL1aUsgGAN,"3,803,146,221",146,0,10,75,139,0,Group - Male,English,Rock,United States of America
+808,https://i.scdn.co/image/ab6761610000f178e336079626f2a1be7456486c,John Lennon,4x1nvY2FN8jxqAFA0DA02H,"3,798,921,111",830,0,6,33,132,"7,734,555",Solo - Male,English,Alternative,United Kingdom
+809,https://i.scdn.co/image/ab6761610000f178ede8cb4558f41d638f13dfc6,PNAU,6n28c9qs9hNGriNa72b26u,"3,794,338,121",164,1,4,23,51,"23,366,934",Group - Male,English,Electronic,Australia
+810,https://i.scdn.co/image/ab6761610000f178dfa641458cddcca4325c6afa,Andy Grammer,2oX42qP5ineK3hrhBECLmj,"3,782,712,413",114,0,6,39,90,"6,396,344",Solo - Male,English,Pop,United States of America
+811,https://i.scdn.co/image/2ac716bdcc95f3639d6cf3cea19e2c9bde5ed509,Bill Withers,1ThoqLcyIYvZn7iWbj8fsj,"3,782,194,817",122,2,6,17,72,"862,747,578",Solo - Male,English,Soul / Motown R&B,United States of America
+812,https://i.scdn.co/image/ab6761610000f178c5c0e1d109d8a876076187f1,Mabel,1MIVXf74SZHmTIp4V4paH4,"3,779,243,217",164,1,9,26,102,"9,004,292",Solo - Female,English,Pop,United Kingdom
+813,https://i.scdn.co/image/ab6761610000f17813ec8d2390f7335cbcefdf53,Calle 24,6dLuQ5qXxIuWc5urxfIiZR,"3,779,050,427",90,1,9,35,87,"306,059,720",Solo - Male,Spanish,Regional Mexican,Mexico
+814,https://i.scdn.co/image/ab6761610000f178392af601eddfa5a0c705141d,Young Dolph,3HiuzBlSW7pGDXlSFMhO2g,"3,775,128,920",441,0,4,88,220,"693,382,141",Solo - Male,English,Hip-hop,United States of America
+815,https://i.scdn.co/image/ab6761610000f17890b1775a323db4e9ec05b0dc,Orochi,3rfM2cGqF6DB0kUyytMkXx,"3,769,228,261",175,0,7,70,162,"1,207,405,293",Solo - Male,Portuguese,Hip-hop,Brazil
+816,https://i.scdn.co/image/ab6761610000f1784765752968677b1aaab0279c,Mari Fernandez,0BHm7qbh3ENxvXzkQAG7MP,"3,766,738,520",158,0,8,55,135,"70,700,638",Solo - Female,Portuguese,Sertanejo,Brazil
+817,https://i.scdn.co/image/ab6761610000f1784b2a3fffa1076ea1c920dcb2,Liam Payne,5pUo3fmmHT8bhCyHE52hA6,"3,766,073,776",52,1,8,22,41,"18,512,489",Solo - Male,English,Pop,United Kingdom
+818,https://i.scdn.co/image/ab6761610000f178c0b860256b49e3f681d491eb,PLK,3DCWeG2J1fZeu0Oe6i5Q6m,"3,762,557,514",185,0,7,92,177,"443,397,068",Solo - Male,French,Hip-hop,France
+819,https://i.scdn.co/image/ab67726900008f74a5740b294929582aecbdc681,Annie Lennox,5MspMQqdVbdwP6ax3GXqum,"3,755,227,309",325,1,7,28,107,"75,454,493",Solo - Female,English,Pop,United Kingdom
+820,https://i.scdn.co/image/ab6761610000f178f1f749eb3a877a0efb76a29d,Danna Paola,5xSx2FM8mQnrfgM1QsHniB,"3,753,611,249",162,0,8,52,99,"312,004,383",Solo - Female,Spanish,Pop,Mexico
+821,https://i.scdn.co/image/ab6761610000f17899ce0c46ce1710d30cea8179,Benjamin Blümchen,1l6d0RIxTL3JytlLGvWzYe,"3,753,584,805","7,284",0,0,2,538,0,Audiobook,German,Non music,Germany
+822,https://i.scdn.co/image/ab6761610000f17809882b1b7b33732abd60fc38,Santana,6GI52t8N5F02MxU0g5U69P,"3,748,309,533",690,0,8,41,181,"12,269,748",Group - Male,English,Rock,United States of America
+823,https://i.scdn.co/image/ab6761610000f178e3a03c0ae301118c4c887abf,Os Barões Da Pisadinha,5Lv2GUVwqmQBPwrTrxucE5,"3,745,000,970",266,0,8,79,168,"81,907,857",Group - Male,Portuguese,Sertanejo,Brazil
+824,https://i.scdn.co/image/ab6761610000f178cf5593ced80101db5e41c1c2,Camila,2gRP1Ezbtj3qrERnd0XasU,"3,744,031,427",118,0,11,34,88,"310,732,814",Group - Male,Spanish,Rock,Mexico
+825,https://i.scdn.co/image/ab6761610000f178d32dbe03236eda653b1a2bd0,Sezen Aksu,64d1rUxfizSAOE9UbMnUZd,"3,741,571,975",522,0,6,78,244,"144,529,798",Solo - Female,Turkish,Ethno-pop,Turkey
+826,https://i.scdn.co/image/ab6761610000f17831672210ac133d978de5ce45,BONES,5v2WhpA59TJSdPh7LCx1lN,"3,738,922,515",871,0,6,46,491,"506,581,266",Solo - Male,English,Hip-hop,United States of America
+827,https://i.scdn.co/image/ab6761610000f178ec891c36864eb59b28f65cf8,Ilaiyaraaja,3m49WVMU4zCkaVEKb8kFW7,"3,737,779,365","3,545",0,0,108,503,"101,920,500",Solo - Male,Tamil,Indian Film Music,India
+828,https://i.scdn.co/image/ab6761610000f17851921ae2a8c8a5101fa9f249,Dilsinho,4NUePmzDvCYqilXBFa91Hg,"3,736,041,170",312,0,8,73,229,"1,023,095,447",Solo - Male,Portuguese,Sertanejo,Brazil
+829,https://i.scdn.co/image/ab6761610000f17831ad986e8e1328db4b3d83cd,Aminé,3Gm5F95VdRxW3mqCn8RPBJ,"3,733,269,715",118,0,5,57,104,"233,246,926",Solo - Male,English,Hip-hop,United States of America
+830,https://i.scdn.co/image/ab6761610000f178ab47bb63dae13065213602cd,Ice Spice,3LZZPxNDGDFVSIPqf4JuEf,"3,723,276,502",54,1,8,31,46,"123,346,096",Solo - Female,English,Hip-hop,United States of America
+831,https://i.scdn.co/image/ab6761610000f1786e2648826fa7ff10d943b0a4,Seeb,5iNrZmtVMtYev5M9yoWpEq,"3,722,186,355",129,1,4,25,69,"1,209,253,422",Group - Male,English,Electronic,Norway
+832,https://i.scdn.co/image/ab6761610000f178a157f5d0d147079578719e9d,ATEEZ,68KmkJeZGfwe1OUaivBa2L,"3,712,118,894",219,0,10,87,190,"54,505,910",Group - Male,Korean,K-Pop,South Korea
+833,https://i.scdn.co/image/ab6761610000f1789420fc7bac8669f61a9f45c3,Marilyn Manson,2VYQTNDsvvKN9wmU5W7xpj,"3,711,480,706",232,0,7,57,196,"197,504,656",Group - Male,English,Metal,United States of America
+834,https://i.scdn.co/image/ab6761610000f178bc959d7569618ec2af2210f5,Sonu Nigam,1dVygo6tRFXC8CSWURQJq2,"3,703,147,324","1,544",0,5,81,328,"1,870,725,712",Solo - Male,Hindi,Indian Film Music,India
+835,https://i.scdn.co/image/ab6761610000f17825c2401c3595f0ac35e19b98,j-hope,0b1sIQumIAsNbqAoIClSpy,"3,697,189,694",61,0,14,32,56,"420,419,454",Solo - Male,Korean,Hip-hop,South Korea
+836,https://i.scdn.co/image/ab6761610000f17816d7677a56104e6d0749935c,Lauana Prado,6TYimByryGphZCtwYopH0y,"3,695,601,188",249,0,8,77,183,"46,471,582",Solo - Female,Portuguese,Sertanejo,Brazil
+837,https://i.scdn.co/image/ab6761610000f1782a02b713cac51be638001b05,Jordan Davis,77kULmXAQ6vWer7IIHdGzI,"3,683,364,505",81,0,9,35,78,"25,497,544",Solo - Male,English,Country,United States of America
+838,https://i.scdn.co/image/ab6761610000f178935b2dd507212bd72a71d7f9,Alka Yagnik,3gBKY0y3dFFVRqicLnVZYz,"3,679,084,362","1,381",0,1,73,261,"5,389,371,173",Solo - Female,Hindi,Indian Film Music,India
+839,https://i.scdn.co/image/ab6761610000f178ee205e5029a04bd0460e16e4,Sean Kingston,6S0dmVVn4udvppDhZIWxCr,"3,678,674,693",159,1,7,16,54,"247,352,405",Solo - Male,English,Hip-hop,United States of America
+840,https://i.scdn.co/image/ab6761610000f178e55372097569b7b56b439365,Frédéric Chopin,7y97mc3bZRFXzT2szRM4L4,"3,678,197,071","14,016",0,3,46,527,"1,466,037",Solo - Male,Instrumental,Classical,Poland
+841,https://i.scdn.co/image/ab6761610000f1782fc4d22f2e060511db2ae971,The Clash,3RGLhK1IP9jnYFH4BRFJBS,"3,677,899,957",207,1,5,29,112,"86,160",Group - Male,English,Rock,United States of America
+842,https://i.scdn.co/image/ab6761610000f178384297241424034f1bddd83e,Rag'n'Bone Man,4f9iBmdUOhQWeP7dcAn1pf,"3,666,715,901",176,1,5,36,106,"106,369,304",Solo - Male,English,Soul / Motown R&B,United Kingdom
+843,https://i.scdn.co/image/ab6761610000f178f516ed43c65fe21e21a7c5bd,DNCE,6T5tfhQCknKG4UnH90qGnz,"3,665,638,922",40,1,6,23,37,"381,337,262",Group - Mixed,English,Pop,United States of America
+844,https://i.scdn.co/image/ab6761610000f178ed95357b2b295b2be5058b0b,NCT DREAM,1gBUSTR3TyDdTVFIaQnc02,"3,656,461,253",151,0,11,85,130,"50,540,095",Group - Male,Korean,K-Pop,South Korea
+845,https://i.scdn.co/image/ab6761610000f17845ec07bbcf1fed2a4747e780,Cavetown,2hR4h1Cao2ueuI7Cx9c7V8,"3,649,718,510",153,0,9,53,120,"96,962,845",Solo - Male,English,Alternative,United Kingdom
+846,https://i.scdn.co/image/ab6761610000f1783dd0a55ca117602bec62cc64,PEDRO SAMPAIO,5wbf52LA6kcaboHSN6NEF1,"3,646,758,871",72,0,14,43,65,"7,145,026",Group - Male,Portuguese,Brazilian funk,Brazil
+847,https://i.scdn.co/image/ab67726900008f7453b6519baafe8f4d6135453e,Louis Armstrong,19eLuQmk9aCobbVDHc6eek,"3,630,800,533","1,961",0,8,38,176,"33,932,752",Solo - Male,English,Jazz / Swing,United States of America
+848,https://i.scdn.co/image/ab6761610000f17873edfbd970917913cfc647c7,Queens of the Stone Age,4pejUc4iciQfgdX6OKulQn,"3,628,326,614",154,0,7,63,130,0,Group - Male,English,Rock,United States of America
+849,https://i.scdn.co/image/ab6761610000f1788bbd3a3e5242b91f33d9cf3d,Omar Courtz,3E12tRURRvPfHz0hAMCFYc,"3,625,943,960",103,0,9,55,93,"1,309,472,315",Solo - Male,Spanish,Reggaeton,Puerto Rico
+850,https://i.scdn.co/image/ab6761610000f1786296c04d12f719f7ea4fe566,Werenoi,3YBJLs7RqR0aPGBgU27nDh,"3,625,575,924",109,0,6,86,109,"25,741,533",Solo - Male,French,Hip-hop,France
+851,https://i.scdn.co/image/ab6761610000f178efb8cc9d57eabb9f1e3f8d0b,Natalia Lafourcade,1hcdI2N1023RvSwLzTtdsp,"3,619,397,382",224,0,8,55,158,"1,643,889,061",Solo - Female,Spanish,Alternative,Mexico
+852,https://i.scdn.co/image/ab6761610000f178af50264c42782538634391f9,Boney M.,54R6Y0I7jGUCveDTtI21nb,"3,610,909,511",369,0,8,26,124,"16,192,758",Group - Mixed,English,Pop,Germany
+853,https://i.scdn.co/image/ab6761610000f178ae01fe0d10cd8ebb4707c461,Joey Bada$$,2P5sC9cVZDToPxyomzF1UH,"3,609,656,295",142,0,7,66,118,"1,191,779,797",Solo - Male,English,Hip-hop,United States of America
+854,https://i.scdn.co/image/ab6761610000f178a52eb8324be9da54c529d78f,KayBlack,2h5Ha0ZiMFmOQD3iYcSXsy,"3,609,087,770",99,0,13,43,85,"576,287,413",Solo - Male,Portuguese,Hip-hop,Brazil
+855,https://i.scdn.co/image/ab6761610000f17825745e4d94f2f780b62fdee3,Jaani,5gZhfbckaWo89OzDSk3gdT,"3,606,458,883",185,0,9,57,114,"425,832,833",Solo - Male,Punjabi,Indian Film Music,India
+856,https://i.scdn.co/image/ab6761610000f1789fdb4dab484a9f12e347c216,Sting,0Ty63ceoRnnJKVEYP0VQpk,"3,604,004,976",628,0,6,42,268,"676,262,333",Solo - Male,English,Alternative,United Kingdom
+857,https://i.scdn.co/image/ab6761610000f178d00c2ff422829437e6b5f1e0,Sleep Token,2n2RSaZqBuUUukhbLlpnE6,"3,603,974,919",82,0,9,59,65,0,Group - Male,English,Metal,United Kingdom
+858,https://i.scdn.co/image/ab6761610000f17882f8ed27ed944af47c747a0c,Simone Mendes,2eK9gcJQ6uqVvJL63dnOM3,"3,603,709,621",76,0,11,42,71,"115,817,649",Solo - Female,Portuguese,Sertanejo,Brazil
+859,https://i.scdn.co/image/ab6761610000f1782330b544681056e09558a95e,Cyndi Lauper,2BTZIqw0ntH9MvilQ3ewNY,"3,602,818,363",271,2,3,11,54,"18,974,284",Solo - Female,English,Pop,United States of America
+860,https://i.scdn.co/image/ab6761610000f178551104d6bfdfc4de65b057a2,Kenshi Yonezu,1snhtMLeb2DYoMOcVbb8iB,"3,600,098,681",112,0,8,55,108,"219,990,496",Solo - Male,Japanese,Alternative,Japan
+861,https://i.scdn.co/image/ab6761610000f178e4dd88af4c7ea59464728229,Of Monsters and Men,4dwdTW1Lfiq0cM8nBAqIIz,"3,598,990,930",90,1,6,32,69,"4,254,532",Group - Mixed,English,Folk,Iceland
+862,https://i.scdn.co/image/ab6761610000f178054c067d4cfa3b8094f3400f,Keith Urban,0u2FHSq3ln94y5Q57xazwf,"3,597,302,289",234,0,8,53,145,"670,354,331",Solo - Male,English,Country,Australia
+863,https://i.scdn.co/image/ab6761610000f1787299fecc45211132432d7d8c,Westlife,5Z1CCuBsyhEHngq3U5IraY,"3,597,171,833",224,0,11,57,171,"1,327,687",Group - Male,English,Pop,Ireland
+864,https://i.scdn.co/image/ab6761610000f1789414ef07d0ca697726912df1,*NSYNC,6Ff53KvcvAj5U7Z1vojB5o,"3,589,358,821",88,1,7,29,78,"80,405,976",Group - Male,English,Pop,United States of America
+865,https://i.scdn.co/image/ab6761610000f1788431fb1f7c89e2511c2a790e,CRO,3utZ2yeQk0Z3BCOBWP7Vlu,"3,587,742,443",213,0,9,72,165,"237,724,175",Solo - Male,German,Hip-hop,Germany
+866,https://i.scdn.co/image/ab6761610000f178ab9610e36fae856c0fd9b46b,WALK THE MOON,6DIS6PRrLS3wbnZsf7vYic,"3,587,156,231",107,1,4,28,61,"113,622,648",Group - Male,English,Pop,United States of America
+867,https://i.scdn.co/image/ab6761610000f1785a0f2cf56db7278f4aada135,Jesús Adrián Romero,29SeiO68HQHBs7pDdWOvvX,"3,586,107,574",331,0,7,67,205,"542,517,073",Solo - Male,Spanish,Religious,Mexico
+868,https://i.scdn.co/image/ab6761610000f178e9ca5b96ca8e0b3587e0b4c7,Sin Bandera,7xeM7V59cA1X8GKyKKQV87,"3,573,586,674",138,0,9,30,104,"261,267,034",Group - Male,Spanish,Pop,Mexico
+869,https://i.scdn.co/image/ab6761610000f17881faab2a81545f832f6206e1,Kontra K,4lDiJcOJ2GLCK6p9q5BgfK,"3,570,402,545",371,0,4,86,257,"383,983,398",Solo - Male,German,Hip-hop,Germany
+870,https://i.scdn.co/image/ab6761610000f1780e03d94a7d567c5d4f73d3ed,B Praak,56SjZARoEvag3RoKWIb16j,"3,570,365,710",256,0,7,56,124,"521,404,703",Solo - Male,Punjabi,Indian Film Music,India
+871,https://i.scdn.co/image/ab6761610000f178c703d350f9cce13df4c64b3e,BoyWithUke,1Cd373x8qzC7SNUg5IToqp,"3,565,988,248",90,0,6,54,88,0,Solo - Male,English,Alternative,United States of America
+872,https://i.scdn.co/image/ab6761610000f1784159f85a5a40c655380821da,Hollywood Undead,0CEFCo8288kQU7mJi25s6E,"3,564,955,083",171,0,7,87,161,"45,334,364",Group - Male,English,Hard Rock,United States of America
+873,https://i.scdn.co/image/ab6761610000f178a14d1f48e2b4431a153d2659,Cardenales De Nuevo León,0GpuSge5ffZ053NhXxgQkV,"3,557,810,310",532,0,11,36,91,"1,730,562",Group - Male,Spanish,Regional Mexican,Mexico
+874,https://i.scdn.co/image/ab6761610000f178a6fa9c526ac155d3dc888c25,Lazza,0jdNdfi4vAuVi7a6cPDFBM,"3,556,268,662",133,0,8,81,122,"1,431,252,233",Solo - Male,Italian,Hip-hop,Italy
+875,https://i.scdn.co/image/ab6761610000f1780b99560e4162fe239ac6d3ba,Kodaline,4BxCuXFJrSWGi1KHcVqaU4,"3,555,982,437",140,1,4,39,97,"348,799,485",Group - Male,English,Alternative,Ireland
+876,https://i.scdn.co/image/ab6761610000f17888d8bdd33e8395f94af933b7,JIN,5vV3bFXnN6D6N3Nj4xRvaV,"3,554,496,779",38,0,7,23,38,0,Solo - Male,Korean,K-Pop,South Korea
+877,https://i.scdn.co/image/ab6761610000f178efe8005b7fcc4327cd1e382d,Bing Crosby,6ZjFtWeHP9XN7FeKSUe80S,"3,551,442,781","1,609",0,9,36,102,"43,675,388",Solo - Male,English,Pop,United States of America
+878,https://i.scdn.co/image/ab6761610000f1787bf0675e8644f27233931f91,ANAVITÓRIA,1sPg5EHuQXTMElpZ4iUgXe,"3,546,021,117",114,0,9,68,108,"309,971,929",Group - Female,Portuguese,Folk,Brazil
+879,https://i.scdn.co/image/ab6761610000f1789450a4efe117513d3ba47ded,Ezhel,6LnJKrtFnTEGdbWQ2riWCL,"3,544,960,828",94,0,10,64,91,"391,382,451",Solo - Male,Turkish,Hip-hop,Turkey
+880,https://i.scdn.co/image/ab6761610000f178ca9fdfa9df9de3748c970db9,Felipe Amorim,3CIIaeZuFYrAD6PRVyuO4U,"3,544,349,722",136,0,10,57,122,"128,401,754",Solo - Male,Portuguese,Traditional,Brazil
+881,https://i.scdn.co/image/ab6761610000f1785b7dd647f0990586f9936c79,Israel & Rodolffo,41QLxRXlc2NwfJZkHGHKid,"3,540,862,878",279,0,10,43,152,"234,934,664",Group - Male,Portuguese,Sertanejo,Brazil
+882,https://i.scdn.co/image/ab6761610000f178e6ef803356b45ee5a9fa7a8a,WizKid,3tVQdUvClmAT7URs9V3rsp,"3,540,736,375",166,0,6,78,137,"6,916,938,476",Solo - Male,English,R&B,Nigeria
+883,https://i.scdn.co/image/ab6761610000f178536e207c626c48b3c2419212,Niska,7CUFPNi1TU8RowpnFRSsZV,"3,534,123,195",156,0,5,77,150,"1,270,166,079",Solo - Male,French,Hip-hop,France
+884,https://i.scdn.co/image/ab6761610000f17847847d97516d0e40b01eea5f,FISHER,1VJ0briNOlXRtJUAzoUJdt,"3,531,588,899",33,0,8,24,30,"2,749,152",Solo - Male,English,Electronic,Australia
+885,https://i.scdn.co/image/ab6761610000f1780910ff09d3b54b114d233aa3,Dadju,4sbXXFzEWJY2zsZjelerjX,"3,528,661,426",175,0,10,66,159,"873,196,148",Solo - Male,French,Hip-hop,France
+886,https://i.scdn.co/image/ab6761610000f1787977176556d71cbc7fcbe6b4,Tyla,3SozjO3Lat463tQICI9LcE,"3,528,347,636",33,1,6,25,33,"475,384,219",Solo - Female,English,Amapiano,South Africa
+887,https://i.scdn.co/image/ab6761610000f17897fe787d7f60a5ff32adc173,Cazzu,6w3SkAHYPsQ1bxV7VDlG5y,"3,526,651,813",108,0,6,61,104,"2,108,615,134",Solo - Female,Spanish,Hip-hop,Argentina
+888,https://i.scdn.co/image/ab6761610000f178785442bdb24bbfd1ca199731,David Bisbal,5gOJTI4TusSENizxhcG7jB,"3,525,969,295",341,0,8,55,165,"763,418,403",Solo - Male,Spanish,Pop,Spain
+889,https://i.scdn.co/image/ab6761610000f178300bcf1554af5030707f00ed,Samra,6h1s4i4XKIYv4ErDelLDN0,"3,525,869,453",275,0,4,74,179,"541,233,301",Solo - Male,German,Hip-hop,Germany
+890,https://i.scdn.co/image/ab6761610000f178a124102446e58b6eb0027a3d,Selena,6IE6z7DcZIT4Ml3Fh5Ivch,"3,516,960,187",149,0,9,36,105,"6,083,504",Solo - Female,Spanish,Pop,United States of America
+891,https://i.scdn.co/image/ab6761610000f1786772748e5cd3c3de721f8c03,Rascal Flatts,0a1gHP0HAqALbEyxaD5Ngn,"3,514,699,931",258,0,5,34,148,"78,107,712",Group - Male,English,Country,United States of America
+892,https://i.scdn.co/image/ab6761610000f1789f4a0cbfcc9b274344681ccb,ODESZA,21mKp7DqtSNHhCAU2ugvUw,"3,513,588,857",248,0,9,70,180,"191,222,945",Group - Male,English,Electronic,United States of America
+893,https://i.scdn.co/image/ab6761610000f178191d43dca6f2f5a126e43e4b,Agust D,5RmQ8k4l3HZ8JoPb4mNsML,"3,503,613,678",30,0,9,30,30,0,Solo - Male,Korean,Hip-hop,South Korea
+894,https://i.scdn.co/image/ab6761610000f1786af14c33f555f1902e7cfa12,The Pussycat Dolls,6wPhSqRtPu1UhRCDX5yaDJ,"3,502,587,555",72,0,10,20,54,"40,436,255",Group - Female,English,Pop,United States of America
+895,https://i.scdn.co/image/ab6761610000f1784344b16f251fbbd9d34f3d5a,back number,6rs1KAoQnFalSqSU4LTh8g,"3,501,454,725",172,0,10,51,120,"661,713",Group - Male,Japanese,Rock,Japan
+896,https://i.scdn.co/image/ab6761610000f1787eaaf580956a3f1cf5a2058c,Dei V,2YRyPiW98bpkARAS4B3OQP,"3,496,469,753",113,0,9,54,105,"1,771,930,977",Solo - Male,Spanish,Hip-hop,Puerto Rico
+897,https://i.scdn.co/image/ab6761610000f17896b3ab10e89bad078d125c3a,Booba,58wXmynHaAWI5hwlPZP3qL,"3,495,694,193",294,0,6,92,244,"1,065,918,086",Solo - Male,French,Hip-hop,France
+898,https://i.scdn.co/image/ab6761610000f178cce32307d0f312e8faf01bae,Toby Fox,57DlMWmbVIf2ssJ8QBpBau,"3,490,707,164",366,0,3,92,216,"4,460,418",Solo - Male,Instrumental,Video Game Music,United States of America
+899,https://i.scdn.co/image/ab6761610000f1788523e69ff537359cd2781de3,Jere Klein,35oGZihZclGoTVuICPXRP9,"3,484,564,390",89,0,7,58,72,"150,212,267",Solo - Male,Spanish,Reggaeton,Chile
+900,https://i.scdn.co/image/ab6761610000f1788365db8b7513a8a88af34458,Kevin Roldan,1RBzGO6Nm3uyhUSxP7EDWO,"3,481,668,479",303,0,6,51,178,"692,221,455",Solo - Male,Spanish,Reggaeton,Colombia
+901,https://i.scdn.co/image/ab6761610000f17881262eb337ac9865d7c4ff5d,Lvbel C5,0V2oXYR7DtrZAEFeILRW2r,"3,477,702,982",101,0,11,59,97,"184,780,785",Solo - Male,Turkish,Hip-hop,Turkey
+902,https://i.scdn.co/image/ab6761610000f1788f95c6e5315e196a970c38cd,Dread Mar I,1aw0Cdl1DIrtUrUA6fGbAR,"3,477,412,994",174,0,9,48,153,"71,722,287",Solo - Male,Spanish,Reggae / Dancehall,Argentina
+903,https://i.scdn.co/image/ab6761610000f178716a9e718655bd0374073ef7,Jubin Nautiyal,1tqysapcCh1lWEAc9dIFpa,"3,472,708,467",303,0,6,54,149,"1,689,575,737",Solo - Male,Hindi,Indian Film Music,India
+904,https://i.scdn.co/image/ab6761610000f1788e265da892579da2139b659f,Denzel Curry,6fxyWrfmjcbj5d12gXeiNV,"3,469,188,189",199,0,6,82,165,"911,507,987",Solo - Male,English,Hip-hop,United States of America
+905,https://i.scdn.co/image/ab6761610000f1785d6ed813fc2c93765152ff7e,Ella Mai,7HkdQ0gt53LP4zmHsL0nap,"3,468,520,428",71,0,9,44,60,"502,195,879",Solo - Female,English,R&B,United Kingdom
+906,https://i.scdn.co/image/ab6761610000f178b1693f731eacb1e3f294a120,Eyedress,3XxNRirzbjfLdDli06zMaB,"3,466,175,250",253,1,4,17,74,"3,452,526",Solo - Male,English,Alternative,Philippines
+907,https://i.scdn.co/image/ab6761610000f178f94c47d61b62caf79c57b091,Joyner Lucas,6C1ohJrd5VydigQtaGy5Wa,"3,463,485,140",154,0,9,55,127,"982,926,976",Solo - Male,English,Hip-hop,United States of America
+908,https://i.scdn.co/image/5091b7625a1bd565e9c1d37922a5b5119b380645,Ella Fitzgerald,5V0MlUE1Bft0mbLlND7FJz,"3,462,962,323","1,875",0,5,60,256,"61,951,094",Solo - Female,English,Jazz / Swing,United States of America
+909,https://i.scdn.co/image/ab6761610000f1781edc6d40afbea5426d0cfe0f,S. S. Thaman,2FgHPfRprDaylrSRVf1UlN,"3,459,557,864","1,051",0,6,79,280,"66,103,826",Solo - Male,Telugu,Indian Film Music,India
+910,https://i.scdn.co/image/ab6761610000f178fcac554ca653af59cc7a635f,Gabry Ponte,5ENS85nZShljwNgg4wFD7D,"3,454,914,808",330,0,8,41,132,"1,043,392,723",Solo - Male,English,Electronic,Italy
+911,https://i.scdn.co/image/ab6761610000f1780041f76b2e740b535b6919a3,Vintage Culture,28uJnu5EsrGml2tBd7y8ts,"3,449,713,385",336,0,6,62,200,"283,049,415",Solo - Male,English,Electronic,Brazil
+912,https://i.scdn.co/image/ab6761610000f17818129b218ae9c07848ddc759,La Adictiva Banda San José de Mesillas,49EE6lVLgU8sp7dFgPshgM,"3,446,948,252",179,0,9,36,111,"57,360,709",Ensemble,Spanish,Regional Mexican,Mexico
+913,https://i.scdn.co/image/ab6761610000f17854406b7007a449aeaac06c44,Mustard,0YinUQ50QDB7ZxSCLyQ40k,"3,444,221,123",86,1,6,23,65,"3,070,490,866",Solo - Male,English,Hip-hop,United States of America
+914,https://i.scdn.co/image/ab6761610000f178e099848b88cd1d3fca223616,João Gomes,4JNo6Q5KdcRf1vtSX9mB0S,"3,443,763,706",234,0,8,71,163,"205,678,761",Solo - Male,Portuguese,Traditional,Brazil
+915,https://i.scdn.co/image/ab6761610000f178286d5d78a231f1e78225a48a,Thiaguinho,1vppDmG3i5sXf3DJzrK4T1,"3,439,311,114",374,0,3,88,299,"487,851,811",Solo - Male,Portuguese,Samba / Pagode,Brazil
+916,https://i.scdn.co/image/ab6761610000f1788a1875571bb42c9c8569d2d1,Semicenk,1CcZoULzFHa8Uhwo6OlQcp,"3,437,215,849",38,0,16,36,38,"52,493,532",Solo - Male,Turkish,Ethno-pop,Turkey
+917,https://i.scdn.co/image/ab6761610000f1780491fcaf1bc0f23d4e57f316,D-Block Europe,5VadK1havLhK1OpKYsXv9y,"3,436,050,603",246,0,6,76,232,"1,476,945,340",Group - Male,English,Hip-hop,United Kingdom
+918,https://i.scdn.co/image/ab6761610000f178cb1663ad23538120ad7a20c3,DMX,1HwM5zlC5qNWhJtM00yXzG,"3,431,087,598",343,0,5,41,131,"566,006,984",Solo - Male,English,Hip-hop,United States of America
+919,https://i.scdn.co/image/ab6761610000f1782953a958aa8d395199cb8921,Sleeping At Last,0MeLMJJcouYXCymQSHPn8g,"3,425,520,993",518,0,7,55,237,"7,503,785",Solo - Male,English,Rock,United States of America
+920,https://i.scdn.co/image/ab6761610000f178fde4e7d59f6d8868e2ffdaf5,Wallows,0NIPkIjTV8mB795yEIiPYL,"3,424,892,091",75,1,7,43,72,0,Group - Male,English,Alternative,United States of America
+921,https://i.scdn.co/image/ab6761610000f1783a96db4736ef035e1fcb2516,The xx,3iOvXCl6edW5Um0fXEBRXy,"3,423,402,032",87,0,7,39,73,"31,265,573",Group - Mixed,English,Alternative,United Kingdom
+922,https://i.scdn.co/image/ab6761610000f178bcb1c184c322688f10cdce7a,Ado,6mEQK9m2krja6X1cfsAjfl,"3,420,935,531",87,0,10,59,78,"213,757,618",Solo - Female,Japanese,Pop,Japan
+923,https://i.scdn.co/image/ab6761610000f1783547c85b33443eb3d8abd004,Gigi D'Agostino,1OAjDaKgg00KCUYqDe68un,"3,415,467,218",448,1,5,18,58,"10,016,528",Solo - Male,English,Electronic,Italy
+924,https://i.scdn.co/image/ab6761610000f178836cf31bc0ee1484a377e4de,Supernova Ent,3prRKGJz16RRMRSIM97nHw,"3,414,594,103",179,0,8,59,142,"85,677,994",Label,Portuguese,Hip-hop,Brazil
+925,https://i.scdn.co/image/ab6761610000f178f7374b42bee7c71b9649ac83,RADWIMPS,1EowJ1WwkMzkCkRomFhui7,"3,408,718,434",322,0,5,63,244,0,Group - Male,Japanese,Rock,Japan
+926,https://i.scdn.co/image/ab6761610000f178a603edbfe14a6bced859d7e1,Official HIGE DANdism,5Vo1hnCRmCM6M4thZCInCj,"3,405,129,826",202,0,9,50,95,0,Group - Male,Japanese,Pop,Japan
+927,https://i.scdn.co/image/ab6761610000f178c7d2a4212ee745b2c72298e0,Kumar Sanu,4K6blSRoklNdpw4mzLxwfn,"3,404,542,948","2,116",0,1,82,304,"1,724,266,357",Solo - Male,Hindi,Indian Film Music,India
+928,https://i.scdn.co/image/ab6761610000f178c86608994a6edfa49f91bf25,Two Feet,5sWHDYs0csV6RS48xBl0tH,"3,404,313,711",102,0,5,31,84,"60,631,103",Solo - Male,English,Alternative,United States of America
+929,https://i.scdn.co/image/ab6761610000f17845f28c2a8e2ef0728cd66f67,Beret,0ZHPrnImGh4re3TbSNkoZl,"3,403,881,731",79,0,10,56,74,"88,930,601",Solo - Male,Spanish,Pop,Spain
+930,https://i.scdn.co/image/ab6761610000f178c1559c29cb61d249075a8b86,Amaal Mallik,76fuWYgIf3TVIopTs3vaJ6,"3,403,148,219",186,0,12,38,82,"169,142,851",Solo - Male,Hindi,Indian Film Music,India
+931,https://i.scdn.co/image/ab6761610000f178674d29e07df021a35df3ddf1,Stormzy,2SrSdSvpminqmStGELCSNd,"3,394,340,339",95,0,9,61,87,"2,112,541,788",Solo - Male,English,Hip-hop,United Kingdom
+932,https://i.scdn.co/image/ab6761610000f178925cb42d740d22df5e0393b7,Nanpa Básico,1cUpGtXcSQsovNYEZOQgOG,"3,387,893,837",242,0,7,56,180,"281,878,691",Solo - Male,Spanish,Hip-hop,Colombia
+933,https://i.scdn.co/image/ab6761610000f178789f38042e5ef8911fc3826b,IU,3HqSLMAZ3g3d5poNaI7GOU,"3,387,034,223",165,0,9,54,117,"187,793,553",Solo - Female,Korean,Pop,South Korea
+934,https://i.scdn.co/image/ab6761610000f1782d1474c7092cf2c929821780,NATTAN,1SXhEXzOTF7YeuQX59m7pT,"3,381,846,529",172,0,6,55,136,"63,263,936",Solo - Male,Portuguese,Traditional,Brazil
+935,https://i.scdn.co/image/ab6761610000f178153171480a6f22912253b9f1,Taio Cruz,6MF9fzBmfXghAz953czmBC,"3,379,807,321",104,1,5,16,44,"59,534,088",Solo - Male,English,Pop,United Kingdom
+936,https://i.scdn.co/image/ab6761610000f178698a6abf2897a8fc8283cc0c,Iggy Azalea,5yG7ZAZafVaAlMTeBybKAL,"3,378,531,236",111,0,6,29,83,"1,798,991,368",Solo - Female,English,Hip-hop,Australia
+937,https://i.scdn.co/image/ab6761610000f1782111e27c724a48e463c69aad,Powfu,6bmlMHgSheBauioMgKv2tn,"3,376,719,087",137,1,3,34,106,"336,938,271",Solo - Male,English,Hip-hop,Canada
+938,https://i.scdn.co/image/ab6761610000f1784113d395582d3667b7978430,Djo,5p9HO3XC5P3BLxJs5Mtrhm,"3,376,283,851",55,1,3,27,52,0,Solo - Male,English,Alternative,United States of America
+939,https://i.scdn.co/image/ab6761610000f17886faeb97a905a571b2c361a0,Two Door Cinema Club,536BYVgOnRky0xjsPT96zl,"3,375,733,505",151,1,5,34,104,"5,026,410",Group - Male,English,Alternative,United Kingdom
+940,https://i.scdn.co/image/ab67616d000048514dcb6c5df15cf74596ab25a4,HUNTR/X,2yNNYQBChuox9A5Ka93BIn,"3,364,265,155",23,1,4,10,21,0,Group - Female,Korean,K-Pop,United States of America
+941,https://i.scdn.co/image/d593b2ddc79b818da125081155a009485b42f1ed,Cristian Castro,2AZOALDIBORfbzKTuliwdJ,"3,363,750,553",268,0,8,48,159,"346,173,412",Solo - Male,Spanish,Pop,Mexico
+942,https://i.scdn.co/image/ab6761610000f178f00d7551907825539d1dc034,Hombres G,60uh2KYYSCqAgJNxcU4DA0,"3,362,287,428",284,0,8,31,137,"96,844,783",Group - Male,Spanish,Rock,Spain
+943,https://i.scdn.co/image/ab6761610000f178f052deab3a343e33d5942920,Karsten Glück,5Asmk7uzCjVJN77MLDnvma,"3,362,267,338","1,703",0,2,75,430,"4,009,173",Solo - Male,German,Children's,Germany
+944,https://i.scdn.co/image/ab6761610000f17881c00b4e062603d8159b1ad8,ITZY,2KC9Qb60EaY0kW4eH68vr3,"3,360,009,208",160,0,8,50,122,"236,926",Group - Female,Korean,K-Pop,South Korea
+945,https://i.scdn.co/image/ab6761610000f178528642fef307039a5358e3c0,Ali Gatie,4rTv3Ejc7hKMtmoBOK1B4T,"3,359,078,714",125,1,7,23,77,"14,917,667",Solo - Male,English,Pop,Canada
+946,https://i.scdn.co/image/ab6761610000f178ca2fee52c41d3f58ceb6474b,Doechii,4E2rKHVDssGJm2SCDOMMJB,"3,358,445,624",76,0,8,41,66,"538,417,075",Solo - Female,English,Hip-hop,United States of America
+947,https://i.scdn.co/image/ab6761610000f178cfa32469a372188d27bd17b7,Alex G,6lcwlkAjBPSKnFBZjjZFJs,"3,357,519,263",159,0,8,40,129,"11,044,800",Solo - Male,English,Alternative,United States of America
+948,https://i.scdn.co/image/ab6761610000f1786b0b4482ab4a438d3435f5b6,Simone Sommerland,04yr1h3maDSKvM08pgOezF,"3,357,265,014","1,831",0,2,75,427,"4,388,655",Solo - Female,German,Children's,Germany
+949,https://i.scdn.co/image/ab6761610000f178a056b2ecc1a70ab57cdcc10b,Arcane,57nPqD7z62gDdq37US9XJR,"3,356,839,718",263,0,11,33,63,"174,668,449",Brand,English,Alternative,United States of America
+950,https://i.scdn.co/image/ab6761610000f178e7f0ccf618b34eac4a349735,Odetari,7ITMCzIU9uII8gwRg8JAhc,"3,355,636,471",81,0,11,35,62,"704,599,805",Solo - Male,English,Alternative,United States of America
+951,https://i.scdn.co/image/ab6761610000f178ac05c10134743373881b3546,Kany García,69UypehHabb68utzfjAVlV,"3,354,342,221",173,0,7,52,115,"402,496,117",Solo - Female,Spanish,Pop,Puerto Rico
+952,https://i.scdn.co/image/ab6761610000f1784d4f46d8b3b786409a8c3219,Tiakola,3vUMXQ9kPnZAQkMkZZ7Hfh,"3,349,033,255",110,0,7,74,109,"412,024,040",Solo - Male,French,Hip-hop,France
+953,https://i.scdn.co/image/ab6761610000f178a3d9622fc4adc6d534ab6d33,Nick Jonas,4Rxn7Im3LGfyRkY2FlHhWi,"3,348,691,221",112,0,9,32,81,"112,058,159",Solo - Male,English,Pop,United States of America
+954,https://i.scdn.co/image/ab6761610000f1781fd1c6d465e03a904d63c9b5,Fergie,3r17AfJCCUqC9Lf0OAc73G,"3,348,431,785",93,0,9,18,49,"361,017,064",Solo - Female,English,R&B,United States of America
+955,https://i.scdn.co/image/ab6761610000f1787893167475ec2afed1c7cc20,Kenia OS,31VFEohvhOUKrtAONEBhMG,"3,347,219,958",120,0,5,82,100,"126,145,103",Solo - Female,Spanish,Pop,Mexico
+956,https://i.scdn.co/image/ab6761610000f17860f97c3d9787ed085ba6917a,Die Kita-Frösche,2yOGWPXuL8wG3F1q5FWmep,"3,346,596,237","1,654",0,2,75,426,"4,009,173",Group - Mixed,German,Children's,Germany
+957,https://i.scdn.co/image/ab6761610000f178e09b58bac3afccac3e6e546b,Rochak Kohli,3dN9MQpjIyNxyeRfz4EDZe,"3,341,634,732",200,0,11,40,99,"148,249,338",Solo - Male,Hindi,Indian Film Music,India
+958,https://i.scdn.co/image/ab6761610000f178d0db36287291ce14d237ffc1,Juan Magán,1ackd5XprZEkH3McKbQD51,"3,339,569,721",279,0,9,50,144,"1,467,035,396",Solo - Male,Spanish,Electronic,Spain
+959,https://i.scdn.co/image/ab6761610000f178e0cf058473839f1c9f49937e,Lenny Kravitz,5gznATMVO85ZcLTkE9ULU7,"3,338,638,897",306,0,6,30,140,"129,725,829",Solo - Male,English,Rock,United States of America
+960,https://i.scdn.co/image/ab6761610000f17883512923cb6ea021f8bb1b3b,Incubus,3YcBF2ttyueytpXtEzn1Za,"3,337,564,855",237,0,6,47,148,"10,000,424",Solo - Male,English,Alternative,United States of America
+961,https://i.scdn.co/image/ab6761610000f178a0199b159c0c5a9f62333d32,Lata Mangeshkar,61JrslREXq98hurYL2hYoc,"3,336,685,302","2,553",0,2,75,394,"1,353,688,826",Solo - Female,Hindi,Indian Film Music,India
+962,https://i.scdn.co/image/ab6761610000f1788a23eb82ac13bfc05ccc3b5e,Foreigner,6IRouO5mvvfcyxtPDKMYFN,"3,327,907,558",319,1,6,19,83,"717,203",Group - Male,English,Rock,United States of America
+963,https://i.scdn.co/image/ab6761610000f178d12dda5c73df781c0bbfe311,KALEO,7jdFEYD2LTYjfwxOdlVjmc,"3,325,568,942",42,1,5,20,40,0,Group - Male,English,Rock,Iceland
+964,https://i.scdn.co/image/ab6761610000f178e9134cc9371327f8238b1840,IVE,6RHTUrRF63xao58xh9FXYJ,"3,320,944,656",77,0,7,38,70,0,Group - Female,Korean,K-Pop,South Korea
+965,https://i.scdn.co/image/ab6761610000f1787407f33f01ba72a90081d7d7,Lee Brice,5Zq7R5qmi58ByYyBQTlNuk,"3,320,561,346",112,0,11,20,96,"23,317,971",Solo - Male,English,Country,United States of America
+966,https://i.scdn.co/image/ab6761610000f178002684808eb17d8b3645b57c,Lionel Richie,3gMaNLQm7D9MornNILzdSl,"3,319,564,467",310,0,6,25,85,"85,942,403",Solo - Male,English,Pop,United States of America
+967,https://i.scdn.co/image/ab6761610000f17813bfc3576c7b50e25a1fbc66,Laura Pausini,2e4nwiX8ZCU09LGLOpeqTH,"3,319,250,203",556,0,6,55,294,"495,520,059",Solo - Female,Italian,Pop,Italy
+968,https://i.scdn.co/image/ab6761610000f178e2827bc064a72ed0c08f1b83,Gloria Trevi,1Db5GsIoVWYktPoD2nnPZZ,"3,317,251,070",355,0,8,52,209,"369,409,881",Solo - Female,Spanish,Rock,Mexico
+969,https://i.scdn.co/image/ab6761610000f178c548c7ff983f25641dc71ffe,Kacey Musgraves,70kkdajctXSbqSMJbQO424,"3,311,785,164",152,0,8,59,121,"2,010,462,254",Solo - Female,English,Country,United States of America
+970,https://i.scdn.co/image/ab6761610000f1788e40dc37ec4f2637e69325a1,MC Cabelinho,1WQBwwssN6r8DSjUlkyUGW,"3,310,090,638",172,0,8,56,119,"1,755,059,024",Solo - Male,Portuguese,Hip-hop,Brazil
+971,https://i.scdn.co/image/ab6761610000f178c6e744c0e69ece980291a42a,Geolier,27LlKWxS3KXW7RRAxN5S8s,"3,303,883,530",113,0,7,85,111,"1,892,973,090",Solo - Male,Italian,Hip-hop,Italy
+972,https://i.scdn.co/image/ab6761610000f1784d3bdb12e5ac3ef6dbbefdfa,Pedro Capó,4QVBYiagIaa6ZGSPMbybpy,"3,296,395,003",121,1,6,21,77,"383,342,886",Solo - Male,Spanish,Pop,Puerto Rico
+973,https://i.scdn.co/image/ab6761610000f178e9e02f96f6030ac8a1101951,Conjunto Primavera,3nFB4eMP5gdqee2eQb8nZb,"3,294,095,752",532,0,9,42,152,"6,995,815",Group - Male,Spanish,Regional Mexican,Mexico
+974,https://i.scdn.co/image/ab6761610000f1787c9287712c4355e54c94e0d0,YUNGBLUD,6Ad91Jof8Niiw0lGLLi3NW,"3,293,225,508",133,0,6,64,110,"706,569,180",Solo - Male,English,Alternative,United Kingdom
+975,https://i.scdn.co/image/ab6761610000f1780d86c8971cc4d6fa63d58bae,Creed,43sZBwHjahUvgbx1WNIkIz,"3,292,793,499",99,0,5,28,67,"143,154",Group - Male,English,Metal,United States of America
+976,https://i.scdn.co/image/ab6761610000f1783f58860477b33dfae15b16e0,Caifanes,1GImnM7WYVp95431ypofy9,"3,290,431,817",55,0,9,32,55,0,Group - Male,Spanish,Rock,Mexico
+977,https://i.scdn.co/image/ab6761610000f178a25eb77edd5cec65362d9ee6,Ofenbach,4AKwRarlmsUlLjIwt38NLw,"3,290,384,739",157,0,7,25,62,"107,095,982",Group - Male,English,Electronic,France
+978,https://i.scdn.co/image/ab6761610000f1781b6b9d83cfd806b328496207,Toby Keith,2bA6fzP0lMAQ4kz6CF61w8,"3,288,693,644",307,0,9,35,123,"77,110,728",Solo - Male,English,Country,United States of America
+979,https://i.scdn.co/image/0eb9ed7607fe32d96ac2ba4018abc43826150acb,Tracy Chapman,7oPgCQqMMXEXrNau5vxYZP,"3,280,140,789",97,1,5,24,92,"152,176,130",Solo - Female,English,Folk,United States of America
+980,https://i.scdn.co/image/ab6761610000f1785324f5c26f59452e21f6a2d9,Bad Gyal,4F4pp8NUW08JuXwnoxglpN,"3,279,475,614",99,0,5,60,84,"165,494,385",Solo - Female,Spanish,Pop,Spain
+981,https://i.scdn.co/image/ab6761610000f1786f3ce257c8698bc2c38a3a48,L7NNON,0JjPiLQNgAFaEkwoy56B1C,"3,276,401,501",215,0,9,50,166,"1,242,261,088",Solo - Male,Portuguese,Hip-hop,Brazil
+982,https://i.scdn.co/image/ab6761610000f17803e8f770b7eca91f53e39718,YSY A,2qWK8K2Jfh67UqtwY8tCW6,"3,274,677,687",168,0,4,77,161,"551,304,506",Solo - Male,Spanish,Hip-hop,Argentina
+983,https://i.scdn.co/image/ab6761610000f1781c9f6b984cb667d1f4ef2f4b,Bailey Zimmerman,3win9vGIxFfBRag9S63wwf,"3,269,399,247",52,0,7,32,51,"236,581,083",Solo - Male,English,Country,United States of America
+984,https://i.scdn.co/image/ab6761610000f1785d1fbc6d7d17e7ba6b587eaf,Ciara,2NdeV5rLm47xAvogXrYhJX,"3,266,779,183",187,0,9,30,112,"899,291,915",Solo - Female,English,R&B,United States of America
+985,https://i.scdn.co/image/ab6761610000f17884e9632f86c291cd29960256,DENNIS,6xlRSRMLgZbsSNd0BMobwy,"3,263,527,041",359,0,12,47,186,"377,446,499",Solo - Male,Portuguese,Brazilian funk,Brazil
+986,https://i.scdn.co/image/ab6761610000f1783104bfc5142e1b6db1f6b494,Alex Rose,2DspEsT7UXGKd2VaaedgG4,"3,263,187,515",119,0,8,29,75,"860,983,117",Solo - Male,Spanish,Reggaeton,Puerto Rico
+987,https://i.scdn.co/image/ab6761610000f178273bdadffd7138dcbd7b79c3,Wale,67nwj3Y5sZQLl72VNUHEYE,"3,260,615,173",325,0,9,49,193,"2,510,562,640",Solo - Male,English,Hip-hop,United States of America
+988,https://i.scdn.co/image/ab6761610000f178ce3fbd73ae4f8b3ff54a0a5c,Owl City,07QEuhtrNmmZ0zEcqE9SF6,"3,258,987,378",151,1,4,40,123,"126,301,013",Solo - Male,English,Electronic,United States of America
+989,https://i.scdn.co/image/ab6761610000f17822102415297132237b78829d,Tina Turner,1zuJe6b1roixEKMOtyrEak,"3,258,300,896",382,0,8,31,113,"48,656,847",Solo - Female,English,Pop,United States of America
+990,https://i.scdn.co/image/ab6761610000f178cf74fc5ec73dd575bd54ca09,Carla Morrison,0XK6kT7xcZAlcYrNjOgzJe,"3,257,048,741",123,0,7,41,102,"614,160,744",Solo - Female,Spanish,Alternative,Mexico
+991,https://i.scdn.co/image/ab6761610000f178a1e4324a1f517708d1fd3f98,Rvssian,1fctva4kpRbg2k3v7kwRuS,"3,252,067,342",65,0,7,26,44,"465,179,283",Solo - Male,Spanish,Reggaeton,Jamaica
+992,https://i.scdn.co/image/ab6761610000f17851edc1e23bc0a6dde7143eb8,Gryffin,2ZRQcIgzPCVaT9XKhXZIzh,"3,250,719,612",227,0,9,43,133,"768,114,384",Solo - Male,English,Electronic,United States of America
+993,https://i.scdn.co/image/ab6761610000f17819db287e62460bc04d54e173,Yung Gravy,2YOYua8FpudSEiB9s88IgQ,"3,249,529,179",123,0,9,54,115,"43,700,234",Solo - Male,English,Hip-hop,United States of America
+994,https://i.scdn.co/image/ab6761610000f178b71a6be8ee81192c3f5885aa,Casper Magico,1fux65HMCBvfJHqlBc4Nno,"3,248,237,767",135,1,5,26,84,"698,643,526",Solo - Male,Spanish,Reggaeton,Puerto Rico
+995,https://i.scdn.co/image/ab6761610000f17854d40054752b2770df0a646f,Old Dominion,6y8XlgIV8BLlIg1tT1R10i,"3,246,393,572",105,0,10,38,87,"18,304,985",Group - Male,English,Country,United States of America
+996,https://i.scdn.co/image/ab6761610000f17822b26ace7991945b6c171a72,Shiva,2K5nCggbhSZ00YCYP5qkZS,"3,243,382,244",147,0,3,90,136,"943,108,883",Solo - Male,Italian,Hip-hop,Italy
+997,https://i.scdn.co/image/ab6761610000f178bab1b739387a6e515dd2f160,Seether,6B5c4sch27tWHAGdarpPaW,"3,242,685,551",190,0,7,34,143,0,Group - Male,English,Hard Rock,South Africa
+998,https://i.scdn.co/image/ab6761610000f1789b328846dc38b0a620da1ce2,Snow Patrol,3rIZMv9rysU7JkLzEaC5Jp,"3,241,319,156",243,1,4,28,123,0,Group - Male,English,Alternative,United Kingdom
+999,https://i.scdn.co/image/ab6761610000f1785307a8a358283efe769d9c2a,Thirty Seconds To Mars,0RqtSIYZmd4fiBKVFqyIqD,"3,237,496,736",103,0,7,46,83,"72,684,973",Group - Male,English,Rock,United States of America
+"1,000",https://i.scdn.co/image/ab6761610000f178fbe8fcc1f77b0eb6761491ed,David Kushner,33NVpKoXjItPwUJTMZIOiY,"3,221,687,832",59,1,5,21,45,0,Solo - Male,English,Alternative,United States of America
