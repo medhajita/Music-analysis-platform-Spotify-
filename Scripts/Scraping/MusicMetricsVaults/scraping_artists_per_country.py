@@ -15,7 +15,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 # ─── CONFIG ───────────────────────────────────────────────────────────────────
 BASE         = "https://www.musicmetricsvault.com"
 COUNTRIES_URL = f"{BASE}/countries"
-OUTPUT_CSV   = "musicmetricsvaults_artists_per_country.csv"
+OUTPUT_CSV   = "musicmetricsvaults_most_streamed_artists.csv"
 
 LOAD_MORE_BTN_XPATH   = "//button[contains(., 'Load More Artists')]"
 ARTIST_CARD_SELECTOR  = "a[href*='/artists/']"
