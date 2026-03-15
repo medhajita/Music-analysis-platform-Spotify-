@@ -9,7 +9,7 @@ USE music_analysis_platform_spotify;
 -- TABLE 1 : Artists
 -- ============================================
 
-CREATE TABLE IF NOT EXISTS Artists (
+CREATE TABLE IF NOT EXISTS artists (
     artist_spotify_id       VARCHAR(100)    PRIMARY KEY,
     artist                  VARCHAR(255)    NOT NULL,
     artist_image_url        TEXT,
@@ -46,7 +46,7 @@ CREATE TABLE IF NOT EXISTS different_artists_per_country (
     country             VARCHAR(100),
     followers           BIGINT          DEFAULT 0,
     listeners           BIGINT          DEFAULT 0,
-    FOREIGN KEY (artist_spotify_id) REFERENCES Artists(artist_spotify_id)
+    FOREIGN KEY (artist_spotify_id) REFERENCES artists(artist_spotify_id)
         ON DELETE SET NULL ON UPDATE CASCADE
 );
 
@@ -66,7 +66,7 @@ CREATE TABLE IF NOT EXISTS most_streamed_albums (
     streams_albums                  BIGINT          DEFAULT 0,
     weekly_gain_streams_albums      BIGINT          DEFAULT 0,
     monthly_gain_streams_albums     BIGINT          DEFAULT 0,
-    FOREIGN KEY (artist_spotify_id) REFERENCES Artists(artist_spotify_id)
+    FOREIGN KEY (artist_spotify_id) REFERENCES artists(artist_spotify_id)
         ON DELETE SET NULL ON UPDATE CASCADE
 );
 
@@ -84,7 +84,7 @@ CREATE TABLE IF NOT EXISTS most_streamed_songs (
     language                VARCHAR(100),
     streams_songs           BIGINT          DEFAULT 0,
     weekly_gain_songs       BIGINT          DEFAULT 0,
-    FOREIGN KEY (artist_spotify_id) REFERENCES Artists(artist_spotify_id)
+    FOREIGN KEY (artist_spotify_id) REFERENCES artists(artist_spotify_id)
         ON DELETE SET NULL ON UPDATE CASCADE
 );
 
@@ -101,6 +101,6 @@ CREATE TABLE IF NOT EXISTS different_streamed_songs_around_the_world (
     streamed_country                    VARCHAR(100),
     peak_streams                        BIGINT          DEFAULT 0,
     total_streams_song_per_country      BIGINT          DEFAULT 0,
-    FOREIGN KEY (artist_spotify_id) REFERENCES Artists(artist_spotify_id)
+    FOREIGN KEY (artist_spotify_id) REFERENCES artists(artist_spotify_id)
         ON DELETE SET NULL ON UPDATE CASCADE
 );
