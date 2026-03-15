@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-df = pd.read_csv(r"D:\ECE_WORK\Music-analysis-platform-Spotify-\Data\Finals_CSV\diffrent_artists_per_country.csv")
+df = pd.read_csv(r"/Data/Finals_CSV/different_artists_per_country.csv")
 
 print("Colonnes actuelles :", list(df.columns))
 
