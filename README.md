@@ -1,57 +1,65 @@
-# Music Analysis Platform
+# 🎵 Spotify Music Analysis Platform
 
-A full-stack music analytics web application with a Spotify-inspired dark theme, built with React and Node.js.
+A powerful, full-stack music analytics dashboard with a sleek Spotify-inspired dark theme. Visualize streaming data, explore artists, songs, and global music trends through interactive charts and maps.
 
-## Features
+## ✨ Features
 
-- **Dashboard**: Real-time music analytics with interactive charts
-- **Songs**: Browse and search top streamed songs
-- **Albums**: Explore popular albums with detailed statistics
-- **Spotify Dark Theme**: Authentic Spotify-inspired UI design
-- **Responsive Design**: Works seamlessly on desktop and mobile devices
+- 📊 **Interactive Dashboard**: Real-time analytics with key performance indicators and streaming trends.
+- 🎤 **Artist Analysis**: Detailed stats on listeners, streams, and demographic distribution.
+- 📀 **Album Explorer**: Geographic streaming maps and album-specific insights.
+- 🎵 **Song Analytics**: Browse top streamed tracks with advanced filtering.
+- 🌍 **Global Market Insights**: Interactive choropleth maps showing music popularity by country.
+- 🔍 **Global Search**: Find your favorite artists, albums or songs instantly.
+- 🌓 **Dynamic Themes**: Spotify-inspired UI with smooth Framer Motion animations.
 
-## Tech Stack
+## 📸 Screenshots
+
+| Dashboard | Artists Analysis |
+| :---: | :---: |
+| ![Dashboard](./screenshots/dashboard.png) | ![Artists](./screenshots/artists.png) |
+
+| Albums Explorer | Global Markets |
+| :---: | :---: |
+| ![Albums](./screenshots/albums.png) | ![Countries](./screenshots/countries.png) |
+
+| Songs Analytics |
+| :---: |
+| ![Songs](./screenshots/songs.png) |
+
+## 🛠️ Tech Stack
 
 ### Frontend
-- React 18 + Vite
-- React Router v6
-- Tailwind CSS
-- Recharts (for data visualization)
-- Axios (for API calls)
-- react-countup (for animated counters)
-- react-intersection-observer (for scroll animations)
-- framer-motion (for smooth animations)
+- **React 18 + Vite** (Fast development and optimized builds)
+- **Tailwind CSS** (Modern, responsive styling)
+- **Recharts** (Interactive data visualization)
+- **Framer Motion** (Smooth UI transitions and animations)
+- **Lucide React** (Beautiful, consistent iconography)
 
 ### Backend
-- Node.js + Express.js
-- MySQL database
-- CORS support
-- Environment configuration
+- **Node.js + Express.js** (Robust API layer)
+- **MySQL** (Relational database for complex queries)
+- **CORS & Dotenv** (Security and environment configuration)
 
-## Project Structure
+## 📁 Project Structure
 
-```
+```text
 Music-analysis-platform-Spotify-/
-├── client/                 # React frontend
-│   ├── src/
-│   │   ├── components/     # React components
-│   │   ├── App.jsx        # Main App component
-│   │   └── index.css      # Global styles
-│   ├── package.json
-│   └── tailwind.config.js
-├── server/                # Express backend
-│   ├── index.js           # Server entry point
-│   └── package.json
-├── .env.example           # Environment variables template
-└── README.md
+├── Music_analysis_platform/
+│   ├── backend/             # Node.js + Express Server
+│   │   ├── controllers/     # API request handlers
+│   │   ├── routes/          # Express route definitions
+│   │   ├── server.js        # Entry point
+│   │   └── .env             # Configuration
+│   └── frontend/            # React + Vite Client
+│       ├── src/
+│       │   ├── components/  # Reusable UI parts
+│       │   ├── pages/       # Page components
+│       │   └── App.jsx      # Root component
+│       └── package.json
+└── screenshots/             # Application screenshots
 ```
 
-## Setup Instructions
-
-### Prerequisites
-- Node.js (v16 or higher)
-- MySQL server
-- npm or yarn
+## 🚀 Setup & Installation
 
 ### 1. Clone the Repository
 ```bash
@@ -59,85 +67,47 @@ git clone <repository-url>
 cd Music-analysis-platform-Spotify-
 ```
 
-### 2. Database Setup
-1. Create a MySQL database named `music-analysis-platform-spotify`
-2. Import your CSV data files into the database:
-   - `most_streamed_songs.csv`
-   - `most_streamed_albums.csv`
+### 2. Database Configuration
+1. Create a MySQL database named `music_analysis_platform_for_spotify`.
+2. Import your music data (CSV/SQL) into the database.
 
-### 3. Environment Configuration
-Copy the environment template and configure your database credentials:
-
+### 3. Environment Setup
+Navigate to the backend folder and configure your credentials:
 ```bash
-cp .env.example .env
-```
-
-Edit `.env` with your actual database credentials:
-```env
+cd Music_analysis_platform/backend
+# Ensure your .env file has the following:
+PORT=5000
 DB_HOST=localhost
 DB_USER=your_username
 DB_PASSWORD=your_password
-DB_NAME=music-analysis-platform-spotify
-PORT=5000
-LAST_FM_API_KEY=your_last_fm_api_key
+DB_NAME=music_analysis_platform_for_spotify
 ```
 
-### 4. Install Dependencies
+### 4. Running the Application
 
-#### Backend
+#### Start the Backend
 ```bash
-cd server
+cd Music_analysis_platform/backend
 npm install
-```
-
-#### Frontend
-```bash
-cd ../client
-npm install
-```
-
-### 5. Run the Application
-
-#### Start the Backend Server
-```bash
-cd server
 npm run dev
 ```
-The backend will run on `http://localhost:5000`
 
-#### Start the Frontend Development Server
+#### Start the Frontend
 ```bash
-cd client
+cd Music_analysis_platform/frontend
+npm install
 npm run dev
 ```
-The frontend will run on `http://localhost:5173`
 
-## API Endpoints
+The application will be available at `http://localhost:5173/`.
 
-- `GET /` - Welcome message
-- `GET /api/health` - Health check
-- `GET /api/songs` - Get most streamed songs
-- `GET /api/albums` - Get most streamed albums
+## 🎨 Official Palette
 
-## Theme Colors
+- **Primary Green**: `#1DB954`
+- **Dark Background**: `#121212`
+- **Elevated Surfaces**: `#1E1E1E`
+- **Text Primary**: `#FFFFFF`
+- **Text Secondary**: `#B3B3B3`
 
-The application uses Spotify's official color palette:
-
-- **Background**: `#121212`
-- **Cards**: `#1E1E1E`
-- **Accent Green**: `#1DB954`
-- **Text**: `#FFFFFF`
-- **Secondary Text**: `#B3B3B3`
-- **Hover**: `#282828`
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## License
-
+## 📄 License
 This project is licensed under the ISC License.
