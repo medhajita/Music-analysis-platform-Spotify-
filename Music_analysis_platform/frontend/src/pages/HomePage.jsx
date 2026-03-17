@@ -5,10 +5,7 @@ import ErrorMessage from '../components/ErrorMessage';
 import StatsGrid from '../components/home/StatsGrid';
 import TopStreamsBarChart from '../components/home/TopStreamsBarChart';
 import GenrePieChart from '../components/home/GenrePieChart';
-import FollowersHistogram from '../components/home/FollowersHistogram';
-import CountriesMap from '../components/home/CountriesMap';
-import { LayoutGrid, BarChart3, PieChart as PieIcon, Globe2, BarChart } from 'lucide-react';
-import { formatNumber } from '../utils/format';
+import { LayoutGrid } from 'lucide-react';
 
 const HomePage = () => {
   const { data: stats, loading, error } = useApi('/stats');
@@ -38,11 +35,6 @@ const HomePage = () => {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
         <TopStreamsBarChart data={stats.charts.top_artists} />
         <GenrePieChart data={stats.charts.genres} />
-      </div>
-
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-        <FollowersHistogram data={stats.charts.followers} />
-        <CountriesMap data={stats.charts.countries} />
       </div>
     </div>
   );

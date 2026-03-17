@@ -2,8 +2,8 @@ import React, { useMemo, useState, useEffect } from 'react';
 import useApi from '../hooks/useApi';
 import Top20MostStreamedSongsChart from '../components/songs/Top20MostStreamedSongsChart';
 import SongsPopularityByCountryChart from '../components/songs/SongsPopularityByCountryChart';
-import MonthlyReleaseTrendChart from '../components/songs/MonthlyReleaseTrendChart';
-import StreamsDistributionByGenreChart from '../components/songs/StreamsDistributionByGenreChart';
+import TopArtistsBySongStreamsChart from '../components/songs/TopArtistsBySongStreamsChart';
+import GenreSongCountChart from '../components/songs/GenreSongCountChart';
 import LoadingSpinner from '../components/LoadingSpinner';
 import ErrorMessage from '../components/ErrorMessage';
 import DataTable from '../components/common/DataTable';
@@ -33,16 +33,16 @@ const SongsPage = () => {
   const { data: songsData, loading, error } = useApi(endpoint);
 
   const { data: top20SongsData, loading: top20Loading, error: top20Error } = useApi(
-    `/songs/most-streamed?limit=20&search=${debouncedSearch}`
+    `/songs/by-country?country_code=${selectedCountry}&limit=20`
   );
   const { data: popularityByCountryData, loading: popularityLoading, error: popularityError } = useApi(
     '/songs/top-countries-streams?limit=10'
   );
-  const { data: releaseTrendData, loading: releaseTrendLoading, error: releaseTrendError } = useApi(
-    '/songs/release-trend'
+  const { data: topArtistsByStreamsData, loading: topArtistsLoading, error: topArtistsError } = useApi(
+    `/songs/top-artists-streams?limit=10&country_code=${selectedCountry}`
   );
-  const { data: genreDistributionData, loading: genreDistributionLoading, error: genreDistributionError } = useApi(
-    '/songs/genre-distribution'
+  const { data: genreSongCountData, loading: genreSongCountLoading, error: genreSongCountError } = useApi(
+    `/songs/genre-song-count?limit=10&country_code=${selectedCountry}`
   );
 
   const countryOptions = useMemo(() => {
@@ -57,6 +57,10 @@ const SongsPage = () => {
       .map(([code, name]) => ({ code, name }))
       .sort((a, b) => a.name.localeCompare(b.name));
   }, [countries]);
+  const selectedCountryLabel = useMemo(() => {
+    const match = countryOptions.find((c) => c.code === selectedCountry);
+    return match ? `${match.name} (${match.code})` : selectedCountry;
+  }, [countryOptions, selectedCountry]);
 
   const columns = useMemo(() => {
     const base = [
@@ -124,7 +128,7 @@ const SongsPage = () => {
   if (error) return <ErrorMessage message={error} />;
 
   const tableData = Array.isArray(songsData) ? songsData : songsData?.data || [];
-  const chartsError = top20Error || popularityError || releaseTrendError || genreDistributionError;
+  const chartsError = top20Error || popularityError || topArtistsError || genreSongCountError;
 
   return (
     <div className="space-y-8 animate-in fade-in duration-700">
@@ -156,23 +160,21 @@ const SongsPage = () => {
         </div>
 
         <div className="flex items-center gap-3">
-          {activeTab === 'by-country' && (
-            <select
-              value={selectedCountry}
-              onChange={(e) => setSelectedCountry(e.target.value)}
-              className="bg-slate-900 border border-slate-800 rounded-xl px-4 py-2 text-xs font-bold outline-none focus:ring-2 focus:ring-emerald-500/30 text-slate-300"
-            >
-              {countryOptions.length > 0 ? (
-                countryOptions.map((c) => (
-                  <option key={c.code} value={c.code}>
-                    {c.name} ({c.code})
-                  </option>
-                ))
-              ) : (
-                <option value="US">United States (US)</option>
-              )}
-            </select>
-          )}
+          <select
+            value={selectedCountry}
+            onChange={(e) => setSelectedCountry(e.target.value)}
+            className="bg-slate-900 border border-slate-800 rounded-xl px-4 py-2 text-xs font-bold outline-none focus:ring-2 focus:ring-emerald-500/30 text-slate-300"
+          >
+            {countryOptions.length > 0 ? (
+              countryOptions.map((c) => (
+                <option key={c.code} value={c.code}>
+                  {c.name} ({c.code})
+                </option>
+              ))
+            ) : (
+              <option value="US">United States (US)</option>
+            )}
+          </select>
           <div className="relative group">
             <Search className="absolute left-3 top-1/2 -translate-y-1/2 text-slate-500 group-focus-within:text-emerald-500 transition-colors" size={16} />
             <input
@@ -199,10 +201,10 @@ const SongsPage = () => {
       {chartsError && <ErrorMessage message={chartsError} />}
 
       <section className="grid grid-cols-1 lg:grid-cols-2 gap-8 pt-2">
-        {top20Loading ? <LoadingSpinner /> : <Top20MostStreamedSongsChart data={top20SongsData?.data || []} />}
+        {top20Loading ? <LoadingSpinner /> : <Top20MostStreamedSongsChart data={top20SongsData || []} countryLabel={selectedCountryLabel} />}
+        {topArtistsLoading ? <LoadingSpinner /> : <TopArtistsBySongStreamsChart data={topArtistsByStreamsData || []} countryLabel={selectedCountryLabel} />}
         {popularityLoading ? <LoadingSpinner /> : <SongsPopularityByCountryChart data={popularityByCountryData || []} />}
-        {releaseTrendLoading ? <LoadingSpinner /> : <MonthlyReleaseTrendChart data={releaseTrendData || []} />}
-        {genreDistributionLoading ? <LoadingSpinner /> : <StreamsDistributionByGenreChart data={genreDistributionData || []} />}
+        {genreSongCountLoading ? <LoadingSpinner /> : <GenreSongCountChart data={genreSongCountData || []} countryLabel={selectedCountryLabel} />}
       </section>
     </div>
   );

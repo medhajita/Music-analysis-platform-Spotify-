@@ -5,6 +5,7 @@ import TopAlbumsBarChart from '../components/albums/TopAlbumsBarChart';
 import GainsComparisonChart from '../components/albums/GainsComparisonChart';
 import AlbumsChoroplethMap from '../components/albums/AlbumsChoroplethMap';
 import ReleaseYearHistogram from '../components/albums/ReleaseYearHistogram';
+import AlbumsGenreStreamsChart from '../components/albums/AlbumsGenreStreamsChart';
 import LoadingSpinner from '../components/LoadingSpinner';
 import ErrorMessage from '../components/ErrorMessage';
 import DataTable from '../components/common/DataTable';
@@ -191,6 +192,15 @@ const AlbumsPage = () => {
         </div>
       </section>
 
+      <section className="pt-2">
+        <AlbumsChoroplethMap
+          data={mapAlbumsData?.data || albumsData?.data || []}
+          selectedCountryFilter={countryFilter}
+          selectedCountryName={selectedCountryOption?.country}
+          height={520}
+        />
+      </section>
+
       {/* Main Content */}
       <section className="relative">
         {viewMode === 'grid' ? (
@@ -214,12 +224,8 @@ const AlbumsPage = () => {
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 pt-8">
         <TopAlbumsBarChart data={albumsData?.data || []} />
+        <AlbumsGenreStreamsChart data={albumsData?.data || []} />
         <GainsComparisonChart data={albumsData?.data || []} />
-        <AlbumsChoroplethMap
-          data={mapAlbumsData?.data || albumsData?.data || []}
-          selectedCountryFilter={countryFilter}
-          selectedCountryName={selectedCountryOption?.country}
-        />
         <ReleaseYearHistogram data={albumsData?.data || []} />
       </div>
     </div>

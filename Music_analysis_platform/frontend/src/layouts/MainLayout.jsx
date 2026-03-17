@@ -50,6 +50,12 @@ const MainLayout = () => {
             </div>
             {isSidebarOpen && <h1 className="font-bold text-xl tracking-tight">MusicStats</h1>}
           </div>
+          <button
+            onClick={toggleSidebar}
+            className="p-2 hover:bg-slate-100 dark:hover:bg-white/10 rounded-full text-slate-500 dark:text-slate-400 transition-colors"
+          >
+            {isSidebarOpen ? <Menu size={20} /> : <X size={20} />}
+          </button>
         </div>
 
         <nav className="flex-1 mt-6 px-3 space-y-1">
@@ -83,21 +89,7 @@ const MainLayout = () => {
       </aside>
 
       {/* Main Content */}
-      <main className="flex-1 flex flex-col min-w-0">
-        <header className="h-16 border-b border-slate-200 dark:border-white/10 flex items-center px-6 bg-white/80 dark:bg-black/80 backdrop-blur-md sticky top-0 z-30">
-          <button 
-            onClick={toggleSidebar}
-            className="p-2 hover:bg-slate-100 dark:hover:bg-white/10 rounded-full text-slate-500 dark:text-slate-400 transition-colors"
-          >
-            {isSidebarOpen ? <Menu size={20} /> : <X size={20} />}
-          </button>
-          
-          <div className="ml-auto flex items-center gap-4">
-             {/* Profile stub */}
-             <div className="w-8 h-8 rounded-full bg-slate-200 dark:bg-white/10 border border-slate-300 dark:border-white/20"></div>
-          </div>
-        </header>
-
+      <main className="flex-1 min-w-0">
         <div className="p-8">
           <div className="max-w-7xl mx-auto">
             <Outlet />

@@ -5,7 +5,6 @@ import ErrorMessage from '../components/ErrorMessage';
 import GenreCard from '../components/genres/GenreCard';
 import GenrePieDonutChart from '../components/genres/GenrePieDonutChart';
 import TopGenresBarChart from '../components/genres/TopGenresBarChart';
-import GenreStackedBarChart from '../components/genres/GenreStackedBarChart';
 import { Search, Filter, Grid, List, Activity, Music, Users, Disc } from 'lucide-react';
 
 const GenresPage = () => {
@@ -51,7 +50,6 @@ const GenresPage = () => {
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
         <GenrePieDonutChart data={genres} />
         <TopGenresBarChart data={genres} />
-        <GenreStackedBarChart data={genres} />
       </div>
 
       {/* Genres Grid */}

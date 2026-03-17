@@ -167,6 +167,76 @@ const getGenreStreamsDistribution = async (req, res, next) => {
   }
 };
 
+// @desc    Top artists by total song streams
+// @route   GET /api/songs/top-artists-streams
+const getTopArtistsBySongStreams = async (req, res, next) => {
+  try {
+    const limit = parseInt(req.query.limit, 10) || 10;
+    const { country_code } = req.query;
+    const params = [];
+    let query = `
+      SELECT
+        artist,
+        SUM(streams_songs) as total_streams,
+        COUNT(*) as songs_count
+      FROM most_streamed_songs
+      WHERE artist IS NOT NULL AND artist != ''
+    `;
+
+    if (country_code) {
+      query += ' AND country_code = ?';
+      params.push(country_code);
+    }
+
+    query += `
+      GROUP BY artist
+      ORDER BY total_streams DESC
+      LIMIT ?
+    `;
+    params.push(limit);
+
+    const [rows] = await pool.query(query, params);
+    res.status(200).json(rows);
+  } catch (error) {
+    next(error);
+  }
+};
+
+// @desc    Songs count by genre
+// @route   GET /api/songs/genre-song-count
+const getGenreSongCount = async (req, res, next) => {
+  try {
+    const limit = parseInt(req.query.limit, 10) || 10;
+    const { country_code } = req.query;
+    const params = [];
+    let query = `
+      SELECT
+        genre,
+        COUNT(*) as songs_count,
+        SUM(streams_songs) as total_streams
+      FROM most_streamed_songs
+      WHERE genre IS NOT NULL AND genre != ''
+    `;
+
+    if (country_code) {
+      query += ' AND country_code = ?';
+      params.push(country_code);
+    }
+
+    query += `
+      GROUP BY genre
+      ORDER BY songs_count DESC, total_streams DESC
+      LIMIT ?
+    `;
+    params.push(limit);
+
+    const [rows] = await pool.query(query, params);
+    res.status(200).json(rows);
+  } catch (error) {
+    next(error);
+  }
+};
+
 // Legacy stubs
 const getSongs = getMostStreamedSongs;
 const getSongById = async (req, res, next) => {
@@ -185,5 +255,7 @@ module.exports = {
   getSongCoverage,
   getTopCountriesSongStreams,
   getMonthlyReleaseTrend,
-  getGenreStreamsDistribution
+  getGenreStreamsDistribution,
+  getTopArtistsBySongStreams,
+  getGenreSongCount
 };

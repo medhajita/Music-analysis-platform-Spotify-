@@ -4,9 +4,6 @@ import api from '../api/axios';
 import LoadingSpinner from '../components/LoadingSpinner';
 import ErrorMessage from '../components/ErrorMessage';
 import CountriesChoropleth from '../components/countries/CountriesChoropleth';
-import TopCountriesBarChart from '../components/countries/TopCountriesBarChart';
-import CountryStatsGroupedBarChart from '../components/countries/CountryStatsGroupedBarChart';
-import CountriesTreemap from '../components/countries/CountriesTreemap';
 import DataTable from '../components/common/DataTable';
 import CountryFlag from '../components/common/CountryFlag';
 import { 
@@ -22,10 +19,39 @@ import { formatNumber } from '../utils/format';
 
 const CountriesPage = () => {
   const [selectedCountry, setSelectedCountry] = useState({ code: 'FR', name: 'France' });
+  const [mapMode, setMapMode] = useState('streams');
+  const [mapSelectedOnly, setMapSelectedOnly] = useState(false);
   const [countryDetails, setCountryDetails] = useState(null);
   const [detailsLoading, setDetailsLoading] = useState(false);
 
   const { data: countries, loading, error } = useApi('/countries');
+
+  const countryOptions = useMemo(() => {
+    if (!Array.isArray(countries)) return [];
+    return countries
+      .filter((c) => /^[A-Z]{2}$/.test(String(c.country_code || '').toUpperCase()))
+      .map((c) => ({ code: String(c.country_code).toUpperCase(), name: c.country }))
+      .sort((a, b) => a.name.localeCompare(b.name));
+  }, [countries]);
+
+  const countriesByCode = useMemo(() => {
+    const map = new Map();
+    if (Array.isArray(countries)) {
+      countries.forEach((c) => {
+        const code = String(c.country_code || '').toUpperCase();
+        if (code) map.set(code, c);
+      });
+    }
+    return map;
+  }, [countries]);
+
+  useEffect(() => {
+    if (countryOptions.length === 0) return;
+    const exists = countryOptions.some((c) => c.code === selectedCountry.code);
+    if (!exists) {
+      setSelectedCountry(countryOptions[0]);
+    }
+  }, [countryOptions, selectedCountry.code]);
 
   const columns = useMemo(() => [
     { 
@@ -78,18 +104,45 @@ const CountriesPage = () => {
           <p className="text-slate-500 font-medium font-serif italic text-sm">Analyse comparative des puissances musicales par territoire.</p>
         </div>
         
-        <div className="flex items-center gap-4 bg-slate-900/50 p-2 rounded-2xl border border-slate-800 shadow-inner">
+        <div className="flex items-center gap-3 bg-slate-900/50 p-2 rounded-2xl border border-slate-800 shadow-inner">
+          <div className="flex bg-slate-950/60 rounded-xl p-1 border border-slate-800">
+            <button
+              onClick={() => setMapMode('streams')}
+              className={`px-3 py-1.5 text-[10px] font-black uppercase rounded-lg transition-colors ${
+                mapMode === 'streams' ? 'bg-emerald-500 text-slate-950' : 'text-slate-400 hover:text-slate-200'
+              }`}
+            >
+              Streams Pays
+            </button>
+            <button
+              onClick={() => setMapMode('local')}
+              className={`px-3 py-1.5 text-[10px] font-black uppercase rounded-lg transition-colors ${
+                mapMode === 'local' ? 'bg-emerald-500 text-slate-950' : 'text-slate-400 hover:text-slate-200'
+              }`}
+            >
+              Local (A+A)
+            </button>
+          </div>
           <label className="text-[10px] font-black uppercase text-slate-500 px-2 italic">Épicentre</label>
           <select 
-            value={selectedCountry.code}
+            value={mapSelectedOnly ? selectedCountry.code : ''}
             onChange={(e) => {
-               const c = (countries || []).find(x => x.country_code === e.target.value);
-               if (c) setSelectedCountry({ code: c.country_code, name: c.country });
+               const nextCode = e.target.value;
+               if (!nextCode) {
+                 setMapSelectedOnly(false);
+                 return;
+               }
+               const c = countryOptions.find((x) => x.code === nextCode);
+               if (c) {
+                 setSelectedCountry({ code: c.code, name: c.name });
+                 setMapSelectedOnly(true);
+               }
             }}
             className="bg-slate-950 border border-slate-800 rounded-xl px-6 py-2 text-xs font-bold text-emerald-400 shadow-sm outline-none focus:ring-2 focus:ring-emerald-500/30 transition-all cursor-pointer"
           >
-            {Array.isArray(countries) && countries.map(c => (
-              <option key={c.country_code} value={c.country_code}>{c.country}</option>
+            <option value="">Tous les pays</option>
+            {countryOptions.map(c => (
+              <option key={c.code} value={c.code}>{c.name}</option>
             ))}
           </select>
         </div>
@@ -98,8 +151,19 @@ const CountriesPage = () => {
       {/* Main Map Visualization */}
       <CountriesChoropleth 
         data={countries} 
-        onCountryClick={(c) => setSelectedCountry({ code: c.code, name: c.name })} 
+        onCountryClick={(c) => {
+          const code = String(c.code || '').toUpperCase();
+          const row = countriesByCode.get(code);
+          setSelectedCountry({
+            code,
+            name: row?.country || c.name
+          });
+          setMapSelectedOnly(true);
+        }}
         selectedCountryCode={selectedCountry.code}
+        selectedCountryName={selectedCountry.name}
+        mode={mapMode}
+        selectedOnly={mapSelectedOnly}
       />
 
       {/* Selected Country Deep Dive */}
@@ -212,18 +276,15 @@ const CountriesPage = () => {
             loading={loading} 
             title="countries_ranking"
             pageSize={15}
-            onRowClick={(row) => setSelectedCountry({ code: row.country_code, name: row.country })}
+            onRowClick={(row) => {
+              const code = String(row.country_code || '').toUpperCase();
+              if (!/^[A-Z]{2}$/.test(code)) return;
+              setSelectedCountry({ code, name: row.country });
+              setMapSelectedOnly(true);
+            }}
         />
       </section>
 
-      {/* Global Charts */}
-      <section className="grid grid-cols-1 lg:grid-cols-2 gap-12 pt-8">
-         <TopCountriesBarChart data={countries} />
-         <CountryStatsGroupedBarChart data={countries} />
-         <div className="lg:col-span-2">
-            <CountriesTreemap data={countries} />
-         </div>
-      </section>
     </div>
   );
 };

@@ -1,5 +1,4 @@
-import React, { useState, useEffect, useCallback, useRef } from 'react';
-import axios from 'axios';
+import React, { useState, useEffect, useCallback, useRef, useMemo } from 'react';
 import api from '../api/axios';
 import LoadingSpinner from '../components/LoadingSpinner';
 import ErrorMessage from '../components/ErrorMessage';
@@ -10,6 +9,7 @@ import { Search, Users, X, Info, AlertTriangle, ArrowLeftRight } from 'lucide-re
 const SearchPage = () => {
   const [query, setQuery] = useState('');
   const [results, setResults] = useState([]);
+  const [similarArtists, setSimilarArtists] = useState([]);
   const [source, setSource] = useState(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
@@ -22,6 +22,7 @@ const SearchPage = () => {
   const fetchResults = useCallback(async (searchTerm) => {
     if (!searchTerm.trim()) {
       setResults([]);
+      setSimilarArtists([]);
       setSource(null);
       return;
     }
@@ -30,6 +31,7 @@ const SearchPage = () => {
     try {
       const response = await api.get(`/search/artist?q=${encodeURIComponent(searchTerm)}`);
       setResults(response.data.results || []);
+      setSimilarArtists(response.data.similar_artists || []);
       setSource(response.data.source);
       setError(null);
     } catch (err) {
@@ -49,6 +51,7 @@ const SearchPage = () => {
       }, 300);
     } else {
       setResults([]);
+      setSimilarArtists([]);
       setSource(null);
     }
 
@@ -67,6 +70,24 @@ const SearchPage = () => {
       }
     }
   };
+
+  const handlePromoteArtist = (artist) => {
+    setQuery(artist.artist);
+  };
+
+  const filteredSimilarArtists = useMemo(() => {
+    const selectedArtist = results[0]?.artist;
+    const seen = new Set();
+    return (similarArtists || []).filter((artist) => {
+      const name = artist?.artist;
+      if (!name) return false;
+      if (selectedArtist && name === selectedArtist) return false;
+      const key = name.toLowerCase();
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+  }, [similarArtists, results]);
 
   return (
     <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-700">
@@ -184,7 +205,7 @@ const SearchPage = () => {
             results.length > 0 && results.slice(0, 1).map(artist => (
               <ArtistCard 
                 key={artist.artist} 
-                artist={artist} 
+                artist={{ ...artist, similar_artists: filteredSimilarArtists }}
                 source={source} 
                 onCompare={() => toggleArtistSelection(artist)}
                 isSelected={selectedArtists.some(a => a.artist === artist.artist)}
@@ -204,10 +225,7 @@ const SearchPage = () => {
               {results.slice(1).map(artist => (
                 <div 
                   key={artist.artist}
-                  onClick={() => {
-                    setResults([artist, ...results.filter(a => a.artist !== artist.artist)]);
-                    window.scrollTo({ top: 0, behavior: 'smooth' });
-                  }}
+                  onClick={() => handlePromoteArtist(artist)}
                   className="bg-slate-900/40 border border-slate-800 p-4 rounded-xl hover:border-purple-500/30 cursor-pointer transition-all flex items-center gap-4"
                 >
                   <img 
@@ -237,3 +255,4 @@ const SearchPage = () => {
 };
 
 export default SearchPage;
+

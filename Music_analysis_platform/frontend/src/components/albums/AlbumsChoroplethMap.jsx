@@ -78,7 +78,18 @@ const extractGeoIsoAlpha = (props = {}, fallbackA2 = 'N/A') =>
 
 const formatMillions = (value) => `${(Number(value || 0) / 1_000_000).toFixed(3)}M`;
 
-const AlbumsChoroplethMap = ({ data, selectedCountryFilter, selectedCountryName }) => {
+const AlbumsChoroplethMap = ({
+  data,
+  selectedCountryFilter,
+  selectedCountryName,
+  height = 400,
+  title = 'Geo Streams Map',
+  subtitle = 'Album streams by country',
+  valueField = 'streams_albums',
+  countField = '',
+  countLabel = 'albums',
+  valueLabel = 'streams'
+}) => {
   const [hoveredCountry, setHoveredCountry] = useState(null);
   const mapContainerRef = useRef(null);
 
@@ -88,7 +99,7 @@ const AlbumsChoroplethMap = ({ data, selectedCountryFilter, selectedCountryName 
     const names = {};
 
     (data || []).forEach((album) => {
-      const streams = Number(album.streams_albums || 0);
+      const streams = Number(album?.[valueField] || 0);
       if (!streams) return;
 
       const code = normalizeCountryCode(album.country_code);
@@ -106,7 +117,7 @@ const AlbumsChoroplethMap = ({ data, selectedCountryFilter, selectedCountryName 
     });
 
     return { streamsByCode: byCode, streamsByNormalizedName: byNormalizedName, countryNameByCode: names };
-  }, [data]);
+  }, [data, valueField]);
 
   const maxStreams = useMemo(() => {
     const values = [...Object.values(streamsByCode), ...Object.values(streamsByNormalizedName)];
@@ -162,17 +173,19 @@ const AlbumsChoroplethMap = ({ data, selectedCountryFilter, selectedCountryName 
 
     return {
       country: selectedCountryName || selectedCountryFilter,
-      albumsCount: selectedRows.length,
-      streams: selectedRows.reduce((acc, row) => acc + Number(row.streams_albums || 0), 0)
+      count: countField
+        ? selectedRows.reduce((acc, row) => acc + Number(row?.[countField] || 0), 0)
+        : selectedRows.length,
+      streams: selectedRows.reduce((acc, row) => acc + Number(row?.[valueField] || 0), 0)
     };
-  }, [data, selectedCountryFilter, selectedCountryName, selectedCountryMatchers]);
+  }, [data, selectedCountryFilter, selectedCountryName, selectedCountryMatchers, countField, valueField]);
 
   return (
     <ChartCard
-      title="Geo Streams Map"
-      subtitle="Album streams by country"
+      title={title}
+      subtitle={subtitle}
       data={data}
-      height={400}
+      height={height}
     >
       <div
         ref={mapContainerRef}
@@ -205,23 +218,24 @@ const AlbumsChoroplethMap = ({ data, selectedCountryFilter, selectedCountryName 
                     ((geoCode && selectedCountryMatchers.codes.has(geoCode)) ||
                       selectedCountryMatchers.names.has(normalizedGeoName) ||
                       (normalizedGeoNameAlias && selectedCountryMatchers.names.has(normalizedGeoNameAlias)));
+                  const visibleStreams = selectedCountryFilter ? (isSelectedGeo ? streams : 0) : streams;
 
                   return (
                     <Geography
                       key={geo.rsmKey}
                       geography={geo}
-                      fill={streams > 0 ? colorScale(streams) : '#11141C'}
+                      fill={visibleStreams > 0 ? colorScale(visibleStreams) : '#11141C'}
                       stroke={isSelectedGeo ? '#53F5DA' : '#3A3F4B'}
                       strokeWidth={isSelectedGeo ? 1.2 : 0.7}
                       onMouseEnter={(evt) => {
-                        if (streams <= 0) return;
+                        if (visibleStreams <= 0) return;
                         const rect = mapContainerRef.current?.getBoundingClientRect();
                         const x = rect ? evt.clientX - rect.left : 16;
                         const y = rect ? evt.clientY - rect.top : 16;
                         setHoveredCountry({
                           name: (geoCode ? countryNameByCode[geoCode] : null) || geoName,
                           isoAlpha: extractGeoIsoAlpha(geo.properties, geoCode || 'N/A'),
-                          streams,
+                          streams: visibleStreams,
                           x,
                           y
                         });
@@ -241,7 +255,7 @@ const AlbumsChoroplethMap = ({ data, selectedCountryFilter, selectedCountryName 
                       onMouseLeave={() => setHoveredCountry(null)}
                       style={{
                         default: { outline: 'none' },
-                        hover: streams > 0
+                        hover: visibleStreams > 0
                           ? { stroke: '#53F5DA', strokeWidth: 1.2, outline: 'none', cursor: 'pointer' }
                           : { stroke: '#2C3040', strokeWidth: 0.5, outline: 'none', cursor: 'default' },
                         pressed: { outline: 'none' }
@@ -261,7 +275,7 @@ const AlbumsChoroplethMap = ({ data, selectedCountryFilter, selectedCountryName 
           >
             <p className="text-white font-bold text-xs">{hoveredCountry.name}</p>
             <p className="text-slate-300 text-xs mt-1">iso_alpha={hoveredCountry.isoAlpha}</p>
-            <p className="text-cyan-300 text-xs">streams={formatMillions(hoveredCountry.streams)}</p>
+            <p className="text-cyan-300 text-xs">{valueLabel}={formatMillions(hoveredCountry.streams)}</p>
           </div>
         )}
 
@@ -284,8 +298,8 @@ const AlbumsChoroplethMap = ({ data, selectedCountryFilter, selectedCountryName 
         {selectionSummary && (
           <div className="absolute bottom-4 left-4 bg-black/55 border border-[#2A2F3A] rounded-lg px-3 py-2">
             <p className="text-[10px] text-slate-300 font-bold uppercase">{selectionSummary.country}</p>
-            <p className="text-[11px] text-cyan-300">albums={selectionSummary.albumsCount}</p>
-            <p className="text-[11px] text-cyan-300">streams={formatMillions(selectionSummary.streams)}</p>
+            <p className="text-[11px] text-cyan-300">{countLabel}={selectionSummary.count}</p>
+            <p className="text-[11px] text-cyan-300">{valueLabel}={formatMillions(selectionSummary.streams)}</p>
           </div>
         )}
       </div>

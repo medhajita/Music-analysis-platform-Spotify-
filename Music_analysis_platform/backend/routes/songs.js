@@ -8,6 +8,8 @@ const {
   getTopCountriesSongStreams,
   getMonthlyReleaseTrend,
   getGenreStreamsDistribution,
+  getTopArtistsBySongStreams,
+  getGenreSongCount,
   getSongById 
 } = require('../controllers/songsController');
 
@@ -18,6 +20,8 @@ router.get('/coverage', getSongCoverage);
 router.get('/top-countries-streams', getTopCountriesSongStreams);
 router.get('/release-trend', getMonthlyReleaseTrend);
 router.get('/genre-distribution', getGenreStreamsDistribution);
+router.get('/top-artists-streams', getTopArtistsBySongStreams);
+router.get('/genre-song-count', getGenreSongCount);
 router.get('/:id', getSongById);
 
 module.exports = router;
