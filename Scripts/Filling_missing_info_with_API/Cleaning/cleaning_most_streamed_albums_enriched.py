@@ -8,6 +8,7 @@ mask = (df['language'] == 'Maghrebi Arabic') & (df['country'] != 'Algeria')
 print("Artistes modifiés (country -> Morocco) :")
 print(df[mask][['artist', 'country']].drop_duplicates().to_string(index=False))
 df.loc[mask, 'country'] = 'Morocco'
+df.loc[mask, 'country_code'] = 'MA'
 print(f"Total lignes modifiées : {mask.sum()}")
 
 # Suppression des lignes Various Artists
@@ -55,6 +56,10 @@ for idx, row in df[mask].iterrows():
 print(f"\nLignes country_code modifiées : {len(changed)}")
 if changed:
     print(pd.DataFrame(changed).to_string(index=False))
+
+# Correction Morocco -> MA pour les lignes déjà existantes
+df.loc[df['country'] == 'Morocco', 'country_code'] = 'MA'
+print(f"\nLignes Morocco -> MA : {(df['country'] == 'Morocco').sum()}")
 
 df = df[['artist_spotify_id', 'artist', 'album_title', 'album_spotify_id', 'album_image_url',
          'release_year_albums', 'genre', 'country', 'country_code',
