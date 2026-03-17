@@ -2,8 +2,8 @@
 --   Music Analysis Platform - Spotify
 -- ============================================
 
-CREATE DATABASE IF NOT EXISTS music_analysis_platform_spotify;
-USE music_analysis_platform_spotify;
+CREATE DATABASE IF NOT EXISTS music_analysis_platform_for_spotify;
+USE music_analysis_platform_for_spotify;
 
 -- ============================================
 -- TABLE 1 : Artists
@@ -36,33 +36,19 @@ CREATE TABLE IF NOT EXISTS artists (
 );
 
 -- ============================================
--- TABLE 2 : Artists per Country
+-- TABLE 2 : Most Streamed Albums
 -- ============================================
 
-CREATE TABLE IF NOT EXISTS different_artists_per_country (
-    id                  INT             AUTO_INCREMENT PRIMARY KEY,
-    artist_spotify_id   VARCHAR(100),
-    artist              VARCHAR(255)    NOT NULL,
-    country             VARCHAR(100),
-    followers           BIGINT          DEFAULT 0,
-    listeners           BIGINT          DEFAULT 0,
-    FOREIGN KEY (artist_spotify_id) REFERENCES artists(artist_spotify_id)
-        ON DELETE SET NULL ON UPDATE CASCADE
-);
-
--- ============================================
--- TABLE 3 : Most Streamed Albums
--- ============================================
 CREATE TABLE IF NOT EXISTS most_streamed_albums (
     album_spotify_id                VARCHAR(100)    PRIMARY KEY,
     artist_spotify_id               VARCHAR(100),
     artist                          VARCHAR(255)    NOT NULL,
     album_title                     VARCHAR(255),
     album_image_url                 TEXT,
-    type                            VARCHAR(50),
-    genre                           VARCHAR(100),
-    language                        VARCHAR(100),
     release_year_albums             YEAR,
+    genre                           VARCHAR(100),
+    country                         VARCHAR(100),
+    country_code                    VARCHAR(10),
     streams_albums                  BIGINT          DEFAULT 0,
     weekly_gain_streams_albums      BIGINT          DEFAULT 0,
     monthly_gain_streams_albums     BIGINT          DEFAULT 0,
@@ -71,8 +57,9 @@ CREATE TABLE IF NOT EXISTS most_streamed_albums (
 );
 
 -- ============================================
--- TABLE 4 : Most Streamed Songs
+-- TABLE 3 : Most Streamed Songs
 -- ============================================
+
 CREATE TABLE IF NOT EXISTS most_streamed_songs (
     id                      INT             AUTO_INCREMENT PRIMARY KEY,
     artist_spotify_id       VARCHAR(100),
@@ -80,8 +67,9 @@ CREATE TABLE IF NOT EXISTS most_streamed_songs (
     song_title              VARCHAR(255),
     song_image_url          TEXT,
     release_year_songs      YEAR,
+    country                 VARCHAR(100),
+    country_code            VARCHAR(10),
     genre                   VARCHAR(100),
-    language                VARCHAR(100),
     streams_songs           BIGINT          DEFAULT 0,
     weekly_gain_songs       BIGINT          DEFAULT 0,
     FOREIGN KEY (artist_spotify_id) REFERENCES artists(artist_spotify_id)
@@ -89,7 +77,7 @@ CREATE TABLE IF NOT EXISTS most_streamed_songs (
 );
 
 -- ============================================
--- TABLE 5 : Different Streamed Songs Around the World
+-- TABLE 4 : Different Streamed Songs Around the World
 -- ============================================
 
 CREATE TABLE IF NOT EXISTS different_streamed_songs_around_the_world (
@@ -99,8 +87,12 @@ CREATE TABLE IF NOT EXISTS different_streamed_songs_around_the_world (
     song_title                          VARCHAR(255),
     song_id                             VARCHAR(100),
     streamed_country                    VARCHAR(100),
+    streamed_country_code               VARCHAR(10),
     peak_streams                        BIGINT          DEFAULT 0,
     total_streams_song_per_country      BIGINT          DEFAULT 0,
+    country                             VARCHAR(100),
+    country_code                        VARCHAR(10),
+    genre                               VARCHAR(100),
     FOREIGN KEY (artist_spotify_id) REFERENCES artists(artist_spotify_id)
         ON DELETE SET NULL ON UPDATE CASCADE
 );
