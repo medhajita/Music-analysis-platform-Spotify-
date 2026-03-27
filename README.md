@@ -24,7 +24,7 @@ A comprehensive, full-stack ecosystem for music data engineering and interactive
 
 ---
 
-## 📸 Showroom
+## 📸 Screenshots
 
 | Dashboard | Artists Analysis |
 | :---: | :---: |
@@ -42,14 +42,25 @@ A comprehensive, full-stack ecosystem for music data engineering and interactive
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React 18, Vite, Tailwind CSS, Recharts, Framer Motion, Lucide.
-- **Backend**: Node.js, Express.js, MySQL, Dotenv, CORS.
-- **Data Science**: Python, Pandas, Matplotlib, Seaborn.
-- **Scraping/APIs**: Python scripts, Spotify Web API integrations.
+### Frontend
+- **React 18 + Vite** (Fast development and optimized builds)
+- **Tailwind CSS** (Modern, responsive styling)
+- **Recharts** (Interactive data visualization)
+- **Framer Motion** (Smooth UI transitions and animations)
+- **Lucide React** (Beautiful, consistent iconography)
+
+### Backend
+- **Node.js + Express.js** (Robust API layer)
+- **MySQL** (Relational database for complex queries)
+- **CORS & Dotenv** (Security and environment configuration)
+
+### Data Science & Engineering
+- **Python, Pandas, Matplotlib, Seaborn**
+- **Spotify Web API integrations**
 
 ---
 
-## 📁 Repository Blueprint
+## 📁 Project Structure
 
 ```text
 Music-analysis-platform-Spotify-/
@@ -69,30 +80,47 @@ Music-analysis-platform-Spotify-/
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Setup & Installation
 
-### 1. Database Setup
-1. Ensure **MySQL** is running locally.
-2. Create a database named `music_analysis_platform_for_spotify`.
-3. Import the schema/data from the `mysql/` directory.
+### 1. Clone the Repository
+```bash
+git clone <repository-url>
+cd Music-analysis-platform-Spotify-
+```
 
-### 2. Backend Configuration
-Navigate to `Music_analysis_platform/backend`:
-1. Create a `.env` file from the provided template.
-2. Configure your DB credentials:
-   ```env
-   PORT=5000
-   DB_HOST=localhost
-   DB_USER=your_username
-   DB_PASSWORD=your_password
-   DB_NAME=music_analysis_platform_for_spotify
-   ```
-3. Run `npm install && npm run dev`.
+### 2. Database Configuration
+1. Create a MySQL database named `music_analysis_platform_for_spotify`.
+2. Import your music data (CSV/SQL) into the database from the `mysql/` directory.
 
-### 3. Frontend Launch
-Navigate to `Music_analysis_platform/frontend`:
-1. Run `npm install && npm run dev`.
-2. Access the dashboard at `http://localhost:5173`.
+### 3. Environment Setup
+Navigate to the backend folder and configure your credentials:
+```bash
+cd Music_analysis_platform/backend
+# Ensure your .env file has the following:
+PORT=5000
+DB_HOST=localhost
+DB_USER=your_username
+DB_PASSWORD=your_password
+DB_NAME=music_analysis_platform_for_spotify
+```
+
+### 4. Running the Application
+
+#### Start the Backend
+```bash
+cd Music_analysis_platform/backend
+npm install
+npm run dev
+```
+
+#### Start the Frontend
+```bash
+cd Music_analysis_platform/frontend
+npm install
+npm run dev
+```
+
+The application will be available at `http://localhost:5173/`.
 
 ---
 
