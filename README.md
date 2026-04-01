@@ -89,20 +89,60 @@ cd Music-analysis-platform-Spotify-
 ```
 
 ### 2. Database Configuration
-1. Create a MySQL database named `music_analysis_platform_for_spotify`.
-2. Import your music data (CSV/SQL) into the database from the `mysql/` directory.
+
+#### Prerequisites
+- **MySQL 8.0+** installed and running on your machine.
+- A MySQL client ([MySQL Workbench](https://dev.mysql.com/downloads/workbench/), phpMyAdmin, or CLI).
+- **Python 3** with the following packages: `pandas`, `sqlalchemy`, `pymysql`, `python-dotenv`.
+
+#### Step 1 — Create the database & tables
+Open `Scripts/Database/setup_database.sql` in **MySQL Workbench** (or any SQL client) and execute it. This will create the database and all 4 tables:
+```
+Scripts/Database/setup_database.sql
+```
+
+#### Step 2 — Import the data
+Run the Python import script to populate the tables from the CSV files:
+```bash
+cd Scripts/Database
+pip install pandas sqlalchemy pymysql python-dotenv
+python import_csv_to_mysql.py
+```
+> **Note:** The script reads your database credentials from `Music_analysis_platform/backend/.env` (see step 3). Make sure the `.env` file is configured before running the import.
 
 ### 3. Environment Setup
-Navigate to the backend folder and configure your credentials:
+
+Each part of the application has its own `.env` file. Copy the provided `.env.example` templates and fill in your values.
+
+#### Backend (`Music_analysis_platform/backend/.env`)
 ```bash
-cd Music_analysis_platform/backend
-# Ensure your .env file has the following:
-PORT=5000
-DB_HOST=localhost
-DB_USER=your_username
-DB_PASSWORD=your_password
-DB_NAME=music_analysis_platform_for_spotify
+cp Music_analysis_platform/backend/.env.example Music_analysis_platform/backend/.env
 ```
+Then edit the `.env` file with your MySQL credentials:
+```env
+NODE_ENV=development
+PORT=5000
+
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=your_mysql_user          # ← replace with your MySQL username (e.g. root)
+DB_PASSWORD=your_mysql_password   # ← replace with your MySQL password
+DB_NAME=music_analysis_platform_for_spotify
+
+# Comma-separated list of allowed frontend origins
+CORS_ORIGIN=http://localhost:5173
+```
+
+#### Frontend (`Music_analysis_platform/frontend/.env`)
+```bash
+cp Music_analysis_platform/frontend/.env.example Music_analysis_platform/frontend/.env
+```
+The default values should work for local development:
+```env
+# Backend API base URL used by axios
+VITE_API_BASE_URL=http://localhost:5000/api
+```
+> **Note:** If you change the backend `PORT`, update `VITE_API_BASE_URL` accordingly.
 
 ### 4. Running the Application
 
