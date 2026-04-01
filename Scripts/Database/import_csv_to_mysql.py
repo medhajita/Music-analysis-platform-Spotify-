@@ -1,16 +1,22 @@
+import os
 import pandas as pd
 from sqlalchemy import create_engine, text
 from urllib.parse import quote_plus
+from dotenv import load_dotenv
 
-USER     = "root"
-PASSWORD = quote_plus("Dirdaw51@2019")
-HOST     = "localhost"
+# Load environment variables from the backend .env file
+load_dotenv(os.path.join(os.path.dirname(__file__), '..', '..', 'Music_analysis_platform', 'backend', '.env'))
+
+USER     = os.getenv("DB_USER", "root")
+PASSWORD = quote_plus(os.getenv("DB_PASSWORD", ""))
+HOST     = os.getenv("DB_HOST", "localhost")
 PORT     = 3306
-DATABASE = "music_analysis_platform_for_spotify"
+DATABASE = os.getenv("DB_NAME", "music_analysis_platform_for_spotify")
 
 engine = create_engine(f"mysql+pymysql://{USER}:{PASSWORD}@{HOST}:{PORT}/{DATABASE}")
 
-BASE_PATH = r"D:\ECE_WORK\Music-analysis-platform-Spotify-\Data\Finals_CSV"
+#change your path
+BASE_PATH = r"Music-analysis-platform-Spotify-\Data\Finals_CSV"
 
 files = {
     "artists":                                      f"{BASE_PATH}\\Artists.csv",
