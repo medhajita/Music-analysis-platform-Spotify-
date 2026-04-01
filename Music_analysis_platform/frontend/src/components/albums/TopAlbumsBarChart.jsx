@@ -36,7 +36,7 @@ const TopAlbumsBarChart = ({ data }) => {
       title="Top 20 Albums (en streams)" 
       subtitle="Classement par volume d'écoute cumulé"
       data={chartData}
-      height={500}
+      height={620}
     >
       <ResponsiveContainer width="100%" height="100%">
         <BarChart
@@ -45,24 +45,27 @@ const TopAlbumsBarChart = ({ data }) => {
           {...COMMON_CHART_PROPS}
           margin={{ ...COMMON_CHART_PROPS.margin, left: 80 }}
         >
-          <CartesianGrid {...COMMON_GRID_PROPS} horizontal={true} />
+          <CartesianGrid {...COMMON_GRID_PROPS} horizontal={true} shapeRendering="crispEdges" />
           <XAxis 
             type="number" 
             {...COMMON_AXIS_PROPS}
             tickFormatter={numberTickFormatter}
+            shapeRendering="crispEdges"
           />
           <YAxis 
             dataKey="name" 
             type="category" 
             {...COMMON_AXIS_PROPS}
-            width={120}
+            width={130}
             tickFormatter={(value) => truncate(value, 20)}
+            interval={0}
+            shapeRendering="crispEdges"
           />
           <Tooltip 
             content={<CustomTooltip formatter={(label) => truncate(label, 40)} />} 
             cursor={{ fill: 'rgba(255,255,255,0.05)' }} 
           />
-          <Bar dataKey="value" radius={[0, 4, 4, 0]}>
+          <Bar dataKey="value" radius={[0, 4, 4, 0]} minPointSize={3}>
             {chartData.map((entry, index) => (
               <Cell 
                 key={`cell-${index}`} 

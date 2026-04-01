@@ -175,8 +175,8 @@ const CountriesPage = () => {
           
           <div className="relative z-10 space-y-8">
             <div className="flex items-center gap-4">
-               <div className="w-16 h-16 rounded-2xl bg-emerald-500/10 flex items-center justify-center text-emerald-500 border border-emerald-500/20 shadow-lg shadow-emerald-500/5">
-                  <Globe size={32} />
+               <div className="w-16 h-16 rounded-2xl bg-emerald-500/10 flex items-center justify-center border border-emerald-500/20 shadow-lg shadow-emerald-500/5">
+                  <CountryFlag code={selectedCountry.code} className="w-10 h-10 text-4xl" />
                </div>
                <div>
                   <h2 className="text-2xl font-black tracking-tight text-white uppercase">{selectedCountry.name}</h2>
@@ -225,7 +225,18 @@ const CountriesPage = () => {
                  <div className="space-y-4">
                     {countryDetails?.artists?.map((a, i) => (
                        <div key={i} className="flex items-center gap-3 group/item">
-                          <img src={a.artist_image_url} className="w-10 h-10 rounded-xl shadow-lg border border-slate-800 object-cover transition-transform group-hover/item:scale-110" alt=""/>
+                          {a.artist_image_url ? (
+                             <img 
+                                src={a.artist_image_url} 
+                                className="w-10 h-10 rounded-xl shadow-lg border border-slate-800 object-cover transition-transform group-hover/item:scale-110" 
+                                alt=""
+                                onError={(e) => { e.target.style.display = 'none'; e.target.nextElementSibling && (e.target.nextElementSibling.style.display = 'flex'); }}
+                             />
+                          ) : null}
+                          <span 
+                             className="w-10 h-10 rounded-xl shadow-lg border border-slate-800 bg-slate-800/60 items-center justify-center text-xl flex-shrink-0"
+                             style={{ display: a.artist_image_url ? 'none' : 'flex' }}
+                          >🎤</span>
                           <div className="flex-1 min-w-0">
                              <p className="text-xs font-bold truncate text-slate-200 group-hover/item:text-emerald-400 transition-colors uppercase tracking-tight">{a.artist}</p>
                              <p className="text-[9px] font-black text-slate-600 uppercase italic">{formatNumber(a.total_streams)}</p>
@@ -240,7 +251,18 @@ const CountriesPage = () => {
                  <div className="space-y-4">
                     {countryDetails?.albums?.map((a, i) => (
                        <div key={i} className="flex items-center gap-3">
-                          <img src={a.album_image_url} className="w-10 h-10 rounded-xl shadow-lg border border-slate-800 object-cover" alt=""/>
+                          {a.album_image_url ? (
+                             <img 
+                                src={a.album_image_url} 
+                                className="w-10 h-10 rounded-xl shadow-lg border border-slate-800 object-cover" 
+                                alt=""
+                                onError={(e) => { e.target.style.display = 'none'; e.target.nextElementSibling && (e.target.nextElementSibling.style.display = 'flex'); }}
+                             />
+                          ) : null}
+                          <span 
+                             className="w-10 h-10 rounded-xl shadow-lg border border-slate-800 bg-slate-800/60 items-center justify-center text-xl flex-shrink-0"
+                             style={{ display: a.album_image_url ? 'none' : 'flex' }}
+                          >💿</span>
                           <div className="flex-1 min-w-0">
                              <p className="text-xs font-bold truncate text-slate-200 uppercase tracking-tight">{a.album_title}</p>
                              <p className="text-[9px] font-black text-slate-600 uppercase italic truncate">{a.artist}</p>
@@ -255,7 +277,18 @@ const CountriesPage = () => {
                  <div className="space-y-4">
                     {countryDetails?.songs?.map((s, i) => (
                        <div key={i} className="flex items-center gap-3">
-                          <img src={s.image} className="w-10 h-10 rounded-xl shadow-lg border border-slate-800 object-cover" alt=""/>
+                          {s.image ? (
+                             <img 
+                                src={s.image} 
+                                className="w-10 h-10 rounded-xl shadow-lg border border-slate-800 object-cover" 
+                                alt=""
+                                onError={(e) => { e.target.style.display = 'none'; e.target.nextElementSibling && (e.target.nextElementSibling.style.display = 'flex'); }}
+                             />
+                          ) : null}
+                          <span 
+                             className="w-10 h-10 rounded-xl shadow-lg border border-slate-800 bg-slate-800/60 items-center justify-center text-xl flex-shrink-0"
+                             style={{ display: s.image ? 'none' : 'flex' }}
+                          >🎵</span>
                           <div className="flex-1 min-w-0">
                              <p className="text-xs font-bold truncate text-slate-200 uppercase tracking-tight">{s.title}</p>
                              <p className="text-[9px] font-black text-emerald-500/80 uppercase">{formatNumber(s.streams)}</p>
